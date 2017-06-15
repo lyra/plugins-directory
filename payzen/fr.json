@@ -12,7 +12,7 @@
         "type": "full"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "V1.4",
         "plugins": [
@@ -34,7 +34,7 @@
       },
       {
         "cms_version": "v1.1, 1.2 et 1.3",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v2.9a",
@@ -66,10 +66,10 @@
         "type": "full"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "1.4 à 1.9",
-        "mod-single": [
+        "plugins": [
           {
             "type": "Paiement simple et en plusieurs fois",
             "cms_version": "V 1.7.1",
@@ -81,7 +81,7 @@
       },
       {
         "cms_version": "1.3.x.x",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v2.13b",
@@ -112,10 +112,10 @@
         "type": "full"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v1.5.6",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.0a",
@@ -150,10 +150,10 @@
         "type": "single"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v2.0",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.3.4",
@@ -170,7 +170,7 @@
       },
       {
         "cms_version": "v1.1",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v2.7",
@@ -187,7 +187,7 @@
       },
       {
         "cms_version": "v1.0",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.2c",
@@ -209,10 +209,10 @@
         "doc_uri": "Integration_PayZen_osCommerce_2.3_v1.1.3.pdf"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v2.2",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v2.7a",
@@ -242,10 +242,10 @@
         "plugin_version": "v1.2.3"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v1.5 - thelia 1",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.5a",
@@ -255,7 +255,7 @@
       },
       {
         "cms_version": "v1.4 - thelia 1",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.5a",
@@ -396,10 +396,10 @@
         "plugin_version": "v3.0.0"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v2.0-2.2",
-        "mod-single": [
+        "plugins": [
           {
             "type": "multi",
             "cms_version": "v2.1.0",
@@ -409,7 +409,7 @@
       },
       {
         "cms_version": "v1.5",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.2a",
@@ -424,7 +424,7 @@
       },
       {
         "cms_version": "v1.4",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.0c",
@@ -446,10 +446,10 @@
         "type": "single"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "Evolution 9",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.0a",
@@ -459,7 +459,7 @@
       },
       {
         "cms_version": "Evolution 8",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.0",
@@ -499,10 +499,10 @@
         "type": "single"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v6.x.2.2",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.5b",
@@ -537,10 +537,10 @@
         "doc_uri": "Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v3.04",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.0a",
@@ -580,10 +580,10 @@
         "type": "single"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v2.0.12",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.3a",
@@ -649,10 +649,10 @@
         "plugin_version": "v2.0.0"
       }
     ],
-    "module-version": [
+    "plugin_versions": [
       {
         "cms_version": "v1.x",
-        "mod-single": [
+        "plugins": [
           {
             "type": "single",
             "cms_version": "v1.0d",

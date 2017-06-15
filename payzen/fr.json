@@ -18,14 +18,14 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.4f",
+            "plugin_version": "v1.4f",
             "plugin_uri": "PayZen_Prestashop_1.4.0.x_v1.4f.zip",
             "doc_uri": "Integration_PayZen_Prestashop_1.4.0.x_v1.4f.pdf",
             "doc_title": "Integration_PayZen_Prestashop_1.4.0.x_v1.4f"
           },
           {
             "type": "multi",
-            "cms_version": "v1.2f",
+            "plugin_version": "v1.2f",
             "plugin_uri": "PayZen_Prestashop_multi_1.4.0.x_v1.2f.zip",
             "doc_uri": "Integration_PayZen_Prestashop_multi_1.4.0.x_v1.2f.pdf",
             "doc_title": "Integration_PayZen_Prestashop_multi_1.4.0.x_v1.2f"
@@ -37,14 +37,14 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v2.9a",
+            "plugin_version": "v2.9a",
             "plugin_uri": "PayZen_Prestashop_1.2.4.0_v2.9a.zip",
             "doc_uri": "Integration_PayZen_prestashop_1.2.4.0_v2.9a.pdf",
             "doc_title": "Integration_PayZen_prestashop_1.2.4.0_v2.9a"
           },
           {
             "type": "multi",
-            "cms_version": "v1.6a",
+            "plugin_version": "v1.6a",
             "plugin_uri": "PayZen_Prestashop_multi_1.2.4.0_v1.6a.zip",
             "doc_uri": "Integration_PayZen_prestashop_multi_1.2.4.0_v1.6a.pdf",
             "doc_title": "Integration_PayZen_prestashop_multi_1.2.4.0_v1.6a"
@@ -72,7 +72,7 @@
         "plugins": [
           {
             "type": "Paiement simple et en plusieurs fois",
-            "cms_version": "V 1.7.1",
+            "plugin_version": "V 1.7.1",
             "plugin_uri": "PayZen_Magento_1.4-1.9_v1.7.1.zip",
             "doc_uri": "Integration_Payzen_Magento_1.4-1.9_v1.7.1.pdf",
             "doc_title": "v1.7.1"
@@ -84,14 +84,14 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v2.13b",
+            "plugin_version": "v2.13b",
             "plugin_uri": "PayZen_Magento_1.3.2.2_v2.13b.zip",
             "doc_uri": "Integration_PayZen_Magento_1.3.2.2_v2.13b.pdf",
             "doc_title": "v2.13b"
           },
           {
             "type": "multi",
-            "cms_version": "v1.4a",
+            "plugin_version": "v1.4a",
             "plugin_uri": "PayZen_Magento_multi_1.3.2.2_v1.4a.zip",
             "doc_uri": "Integration_PayZen_Magento_multi_1.3.2.2_v1.4a.pdf",
             "doc_title": "Integration_PayZen_Magento_multi_1.3.2.2_v1.4a"
@@ -118,7 +118,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.0a",
+            "plugin_version": "v1.0a",
             "plugin_uri": "PayZen_WooCommerce_1.5.6_v1.0a.zip",
             "doc_uri": "Integration_PayZen_WooCommerce_1.5.6_v1.0a.pdf",
             "doc_title": "Integration_PayZen_WooCommerce_1.5.6_v1.0a"
@@ -156,14 +156,14 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.3.4",
+            "plugin_version": "v1.3.4",
             "plugin_uri": "PayZen_VirtueMart_2.x_v1.3.4.zip",
             "doc_uri": "Integration_PayZen_VirtueMart_2.x_v1.3.4.pdf",
             "doc_title": "v1.3.4"
           },
           {
             "type": "multi",
-            "cms_version": "v1.0b",
+            "plugin_version": "v1.0b",
             "plugin_uri": "PayZen_VirtueMart_multi_2.0.8_v1.0b.zip"
           }
         ]
@@ -173,14 +173,14 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v2.7",
+            "plugin_version": "v2.7",
             "plugin_uri": "PayZen_VirtueMart_1.1.4_v2.7.zip",
             "doc_uri": "Integration_PayZen_VirtueMart_1.1.4_v2.7.pdf",
             "doc_title": "v2.7"
           },
           {
             "type": "multi",
-            "cms_version": "v1.2",
+            "plugin_version": "v1.2",
             "plugin_uri": "PayZen_VirtueMart_multi_1.1.4_v1.2.zip"
           }
         ]
@@ -190,7 +190,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.2c",
+            "plugin_version": "v1.2c",
             "plugin_uri": "PayZen_VirtueMart_1.0.x_v1.2c.zip"
           }
         ]
@@ -215,14 +215,14 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v2.7a",
+            "plugin_version": "v2.7a",
             "plugin_uri": "PayZen_osCommerce_2.2ms2_v2.7a.zip",
             "doc_uri": "Integration_PayZen_osCommerce_2.2ms2_v2.7a.pdf",
             "doc_title": "Document d'intégration module paiement Payzen pour osCommerce 2.2"
           },
           {
             "type": "multi",
-            "cms_version": "v1.5a",
+            "plugin_version": "v1.5a",
             "plugin_uri": "PayZen_osCommerce_multi_2.2ms2_v1.5a.zip",
             "doc_uri": "Integration_PayZen_osCommerce_multi_2.2ms2_v1.5a.pdf",
             "doc_title": "Document d'intégration module paiement Payzen pour osCommerce multi 2.2"
@@ -248,7 +248,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.5a",
+            "plugin_version": "v1.0",
             "plugin_uri": "PayZen_Thelia_1.5.1_v1.0.zip"
           }
         ]
@@ -258,12 +258,12 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.5a",
+            "plugin_version": "v1.5a",
             "plugin_uri": "PayZen_Thelia_1.4.2.1_v1.5a.zip"
           },
           {
             "type": "multi",
-            "cms_version": "v1.0a",
+            "plugin_version": "v1.0a",
             "plugin_uri": "PayZen_Thelia_multi_1.4.2_v1.0a.zip"
           }
         ]
@@ -293,8 +293,8 @@
         "type": "single"
       },
       {
-        "ntime": "PayZen_Drupal_Commerce_multi_7.x-1.1_v1.0a.zip",
-        "ntimeT": "v1.0a",
+        "plugin_uri": "PayZen_Drupal_Commerce_multi_7.x-1.1_v1.0a.zip",
+        "plugin_version": "v1.0a",
         "type": "multi"
       }
     ]
@@ -402,7 +402,7 @@
         "plugins": [
           {
             "type": "multi",
-            "cms_version": "v2.1.0",
+            "plugin_version": "v2.1.0",
             "plugin_uri": "PayZen_OpenCart_2.0-2.2_v2.1.0.zip"
           }
         ]
@@ -412,12 +412,12 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.2a",
+            "plugin_version": "v1.2a",
             "plugin_uri": "PayZen_OpenCart_1.5.5.1_v1.2a.zip"
           },
           {
             "type": "multi",
-            "cms_version": "v1.1a",
+            "plugin_version": "v1.1a",
             "plugin_uri": "PayZen_OpenCart_multi_1.5.5.1_v1.1a.zip"
           }
         ]
@@ -427,7 +427,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.0c",
+            "plugin_version": "v1.0c",
             "plugin_uri": "PayZen_OpenCart_1.4.9_v1.0c.zip"
           }
         ]
@@ -452,7 +452,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.0a",
+            "plugin_version": "v1.0a",
             "plugin_uri": "PayZen_WebSiteX5_9.0_v1.0a.zip"
           }
         ]
@@ -462,7 +462,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.0",
+            "plugin_version": "v1.0",
             "plugin_uri": "PayZen_WebsiteX5_8.0.16_v1.0.zip"
           }
         ]
@@ -505,7 +505,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.5b",
+            "plugin_version": "v1.5b",
             "plugin_uri": "PayZen_Ubercart_2.2_v1.5b.zip"
           }
         ]
@@ -543,7 +543,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.0a",
+            "plugin_version": "v1.0a",
             "plugin_uri": "PayZen_xtcommerce_3.0.4_v1.0a.zip"
           }
         ]
@@ -586,7 +586,7 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.3a",
+            "plugin_version": "v1.3a",
             "plugin_uri": "PayZen_cscart_2.0.12_v1.3a.zip"
           }
         ]
@@ -655,12 +655,12 @@
         "plugins": [
           {
             "type": "single",
-            "cms_version": "v1.0d",
+            "plugin_version": "v1.0d",
             "plugin_uri": "PayZen_hikashop_1.4.7_v1.0d.zip"
           },
           {
             "type": "multi",
-            "cms_version": "v1.0c",
+            "plugin_version": "v1.0c",
             "plugin_uri": "PayZen_hikashop_multi_1.4.7_v1.0c.zip"
           }
         ]

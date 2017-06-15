@@ -3,16 +3,16 @@
     "title": "Prestashop",
     "slug": "prestashop",
     "logo": "prestashop-logotype1.png",
+    "current_cms_version": "V1.5,1.6, 1.7",
     "current": [
       {
         "plugin_uri": "PayZen_PrestaShop_1.5-1.7_v1.8.1.zip",
         "plugin_version": "v1.8.1",
-        "cms_version": "V1.5,1.6, 1.7",
         "doc_uri": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf",
         "type": "full"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "V1.4",
         "plugins": [
@@ -57,16 +57,16 @@
     "title": "Magento",
     "slug": "magento",
     "logo": "magento-logo.png",
+    "current_cms_version": "2.x",
     "current": [
       {
-        "cms_version": "2.x",
         "plugin_uri": "PayZen_Magento_2.x_v2.1.0.zip",
         "plugin_version": "v2.1.0",
         "doc_uri": "Integration_PayZen_Magento_2.x_v2.1.0.pdf.pdf",
         "type": "full"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "1.4 à 1.9",
         "plugins": [
@@ -104,15 +104,15 @@
     "title": "Woocommerce",
     "slug": "woocommerce",
     "logo": "woocommerce-logo1.png",
+    "current_cms_version": "v2.x & V3",
     "current": [
       {
-        "cms_version": "v2.x & V3",
         "plugin_uri": "PayZen_WooCommerce_2.x-3.x_v1.3.2.zip",
         "plugin_version": "v1.3.2",
         "type": "full"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v1.5.6",
         "plugins": [
@@ -141,16 +141,16 @@
     "title": "Virtuemart",
     "slug": "virtuemart",
     "logo": "virtuemart.png",
+    "current_cms_version": "v3.0",
     "current": [
       {
-        "cms_version": "v3.0",
         "plugin_uri": "PayZen_VirtueMart_3.x_v2.0.3.zip",
         "plugin_version": "v2.0.3",
         "doc_uri": "Integration_PayZen_Virtuemart_3.x_v2.0.3.pdf",
         "type": "single"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v2.0",
         "plugins": [
@@ -201,15 +201,15 @@
     "title": "OScommerce",
     "slug": "oscommerce",
     "logo": "oscommerce.png",
+    "current_cms_version": "v2.3.1",
     "current": [
       {
-        "cms_version": "v2.3.1",
         "plugin_uri": "PayZen_osCommerce_2.3_v1.1.3.zip",
         "plugin_version": "v1.1.3",
         "doc_uri": "Integration_PayZen_osCommerce_2.3_v1.1.3.pdf"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v2.2",
         "plugins": [
@@ -235,14 +235,14 @@
     "title": "Thelia",
     "logo": "thelia2.png",
     "slug": "thelia",
+    "current_cms_version": "v2",
     "current": [
       {
-        "cms_version": "v2",
         "plugin_uri": "https://github.com/thelia-modules/Payzen/archive/master.zip",
         "plugin_version": "v1.2.3"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v1.5 - thelia 1",
         "plugins": [
@@ -274,9 +274,9 @@
     "title": "Odoo",
     "logo": "odoo.png",
     "slug": "odoo",
+    "current_cms_version": "v10",
     "current": [
       {
-        "cms_version": "v10",
         "plugin_uri": "plugin-odoo"
       }
     ]
@@ -285,9 +285,9 @@
     "title": "Drupal commerce",
     "logo": "drupal-commerce2.png",
     "slug": "drupal",
+    "current_cms_version": "v7.x-1.1",
     "current": [
       {
-        "cms_version": "v7.x-1.1",
         "plugin_uri": "PayZen_Drupal_Commerce_7.x-1.1_v1.1a.zip",
         "plugin_version": "v1.1a",
         "type": "single"
@@ -303,9 +303,9 @@
     "title": "Spip - plugin Bank",
     "logo": "spip.jpg",
     "slug": "spip",
+    "current_cms_version": "v3.x",
     "current": [
       {
-        "cms_version": "v3.x",
         "plugin_uri": "https://contrib.spip.net/Plugin-Bank",
         "plugin_version": "v3.3.6"
       }
@@ -315,9 +315,9 @@
     "title": "wp eCommerce",
     "logo": "wpec-logo-icon-v2-2561.png",
     "slug": "wpecommerce",
+    "current_cms_version": "v3.8.3",
     "current": [
       {
-        "cms_version": "v3.8.3",
         "plugin_uri": "PayZen_wp-e-commerce_3.8.3_v1.1.zip",
         "plugin_version": "v1.1",
         "doc_uri": "Integration_PayZen_wp-e-commerce_3.8.3_v1.1.pdf",
@@ -329,9 +329,9 @@
     "title": "WordPress eshop plugin",
     "logo": "wpeshop1.png",
     "slug": "eshop",
+    "current_cms_version": "v6.3.1",
     "current": [
       {
-        "cms_version": "v6.3.1",
         "plugin_uri": "PayZen_eShop_6.3.1_v1.0b.zip",
         "plugin_version": "v1.0b",
         "doc_uri": "Integration_PayZen_eShop_6.3.1_v1.0b.pdf",
@@ -343,9 +343,9 @@
     "title": "Shopware",
     "logo": "shopware.png",
     "slug": "shopware",
+    "current_cms_version": "4.x-5.x",
     "current": [
       {
-        "cms_version": "4.x-5.x",
         "plugin_uri": "PayZen_ShopWare_4.x-5.x_v1.1.0.zip",
         "plugin_version": "v1.1.0",
         "doc_uri": "Integration_du_module_de_paiement_pour_la_plateforme_Shopware_PayZen_v1.0.pdf",
@@ -357,9 +357,9 @@
     "title": "TheCartPress",
     "logo": "logoTCP.png",
     "slug": "thecartpress",
+    "current_cms_version": "v1.0.7",
     "current": [
       {
-        "cms_version": "v1.0.7",
         "plugin_uri": "PayZen_TheCartPress_1.0.7_v1.0d.zip",
         "plugin_version": "v1.0d",
         "doc_uri": "Integration_PayZen_TheCartPress_1.0.7_v1.0d.pdf",
@@ -371,9 +371,9 @@
     "title": "ZenCart",
     "logo": "zencart-fr-logo1.png",
     "slug": "zencart",
+    "current_cms_version": "v1.3.8 et supérieur",
     "current": [
       {
-        "cms_version": "v1.3.8 et supérieur",
         "plugin_uri": "PayZen_zencart_1.3.x_v1.5.0.zip",
         "plugin_version": "v1.5.0",
         "type": "single"
@@ -388,15 +388,15 @@
     "title": "OpenCart",
     "logo": "OpenCart.png",
     "slug": "opencart",
+    "current_cms_version": "OpenCart 2.3",
     "current": [
       {
-        "cms_version": "OpenCart 2.3",
         "plugin_uri": "PayZen_OpenCart_2.3.x_v3.0.0.zip",
         "doc_uri": "Integration_PayZen_OpenCart_2.3.x_v3.0.0.pdf",
         "plugin_version": "v3.0.0"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v2.0-2.2",
         "plugins": [
@@ -438,15 +438,15 @@
     "title": "website x5",
     "logo": "website-x5.png",
     "slug": "websitex5",
+    "current_cms_version": "Evolution 10 & 11",
     "current": [
       {
-        "cms_version": "Evolution 10 & 11",
         "plugin_uri": "PayZen_WebSiteX5_10.0_v1.01.zip",
         "plugin_version": "v1.0",
         "type": "single"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "Evolution 9",
         "plugins": [
@@ -473,9 +473,9 @@
     "title": "RBS change",
     "logo": "rbschange.png",
     "slug": "rbs",
+    "current_cms_version": "v3.6.2",
     "current": [
       {
-        "cms_version": "v3.6.2",
         "plugin_uri": "PayZen_RBSChange_3.6.2_v1.0a.zip",
         "plugin_version": "v1.0a",
         "type": "single"
@@ -491,15 +491,15 @@
     "title": "Ubercart",
     "logo": "ecommerce-ubercart1.jpg",
     "slug": "ubercart",
+    "current_cms_version": "v7.x.3.0",
     "current": [
       {
-        "cms_version": "v7.x.3.0",
         "plugin_uri": "PayZen_Ubercart_3.0_v1.0.zip",
         "plugin_version": "v1.0",
         "type": "single"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v6.x.2.2",
         "plugins": [
@@ -516,9 +516,9 @@
     "title": "xtc modified",
     "logo": "xtc-ecommerce.png",
     "slug": "xtcmodified",
+    "current_cms_version": "v1.05",
     "current": [
       {
-        "cms_version": "v1.05",
         "plugin_uri": "PayZen_xtc_modified_1.05_v1.0.zip",
         "plugin_version": "v1.0",
         "type": "single"
@@ -529,15 +529,15 @@
     "title": "xt commerce / Open",
     "logo": "xt-commerce.png",
     "slug": "xtcommerce",
+    "current_cms_version": "v4.1",
     "current": [
       {
-        "cms_version": "v4.1",
         "plugin_uri": "PayZen_xtCommerce_4.1.x_v1.0.zip",
         "plugin_version": "v1.0",
         "doc_uri": "Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v3.04",
         "plugins": [
@@ -559,9 +559,9 @@
     "title": "Tomato Cart",
     "logo": "tomatocart.png",
     "slug": "tomato",
+    "current_cms_version": "v1.1.3",
     "current": [
       {
-        "cms_version": "v1.1.3",
         "plugin_uri": "PayZen_TomatoCart_1.1.3_v1.2a.zip",
         "plugin_version": "v1.2a",
         "type": "single"
@@ -572,15 +572,15 @@
     "title": "CS cart",
     "logo": "cscart_logo.png",
     "slug": "cscart",
+    "current_cms_version": "v4.1.2",
     "current": [
       {
-        "cms_version": "v4.1.2",
         "plugin_uri": "PayZen_CS-Cart_4.1.2_v1.0.zip",
         "plugin_version": "v1.0",
         "type": "single"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v2.0.12",
         "plugins": [
@@ -597,9 +597,9 @@
     "title": "WEBACAPELLA",
     "logo": "WEBACAPELLA.png",
     "slug": "webacapella",
+    "current_cms_version": "v32.0",
     "current": [
       {
-        "cms_version": "v32.0",
         "plugin_uri": "PayZen_Webacappella_3.0.217_v2.0.zip",
         "plugin_version": "v2.0",
         "type": "single"
@@ -615,9 +615,9 @@
     "title": "XCart",
     "logo": "xcart.png",
     "slug": "xcart",
+    "current_cms_version": "v4.4.2 et supèrieur",
     "current": [
       {
-        "cms_version": "v4.4.2 et supèrieur",
         "plugin_uri": "PayZen_X-Cart_4.4.2_v1.0d.zip",
         "plugin_version": "v1.0d",
         "doc_uri": "Integration_PayZen_X-Cart_4.4.2_v1.0d.pdf",
@@ -629,9 +629,9 @@
     "title": "Tienda",
     "logo": "tienda.png",
     "slug": "tienda",
+    "current_cms_version": "v0.7.x",
     "current": [
       {
-        "cms_version": "v0.7.x",
         "plugin_uri": "PayZen_Tienda_0.7.0_v1.1.zip",
         "plugin_version": "v1.1",
         "type": "single"
@@ -642,14 +642,14 @@
     "title": "HikaShop",
     "logo": "hikashop_logo.png",
     "slug": "hikashop",
+    "current_cms_version": "v2.x & v3",
     "current": [
       {
-        "cms_version": "v2.x & v3",
         "plugin_uri": "PayZen_HikaShop_2.x-3.x_v2.0.0.zip",
         "plugin_version": "v2.0.0"
       }
     ],
-    "plugin_versions": [
+    "archives": [
       {
         "cms_version": "v1.x",
         "plugins": [

@@ -695,5 +695,31 @@
         ]
       }
     ]
+  },
+  {
+    "title": "UGAL",
+    "logo": "ugal.png",
+    "slug": "ugal",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "http://fr.ugal.com/blog/paiement-en-ligne-e-commerce",
+        "plugin_version": ""
+      }
+    ]
+  },
+  {
+    "title": "KingEshop",
+    "logo": "kingeshop.png",
+    "slug": "kingeshop",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "https://www.kingeshop.com/Comment-accepter-les-cartes-de-credit--ou-cartes-bancaires--cbehacaaaaaa.asp",
+        "plugin_version": ""
+      }
+    ]
   }
 ]

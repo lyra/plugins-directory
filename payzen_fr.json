@@ -721,5 +721,70 @@
         "plugin_version": ""
       }
     ]
+  },
+  {
+    "title": "Aceshop",
+    "logo": "aceshop.png",
+    "slug": "aceshop",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "https://www.sellxed.com/shop/fr/eur/aceshop-payzen-zahlungs-extension.html",
+        "plugin_version": "v. 3.x.x / 4.x.x"
+      }
+    ]
+  },
+  {
+    "title": "Commerce:seo",
+    "logo": "commerce-seo.png",
+    "slug": "commerce-seo",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "https://www.sellxed.com/shop/fr/eur/commerce-seo-payzen-zahlungs-modul.html",
+        "plugin_version": "v.2"
+      }
+    ]
+  },
+  {
+    "title": "Gambio",
+    "logo": "gambio.png",
+    "slug": "gambio",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "https://www.sellxed.com/shop/fr/eur/gambio-payzen-zahlungs-modul.html",
+        "plugin_version": "v.2"
+      }
+    ]
+  },
+  {
+    "title": "JTL",
+    "logo": "jtl.png",
+    "slug": "jtl",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "https://www.sellxed.com/shop/fr/eur/jtl-payzen-zahlungs-plugin.html",
+        "plugin_version": "JTL 3 / JTL 4"
+      }
+    ]
+  },
+  {
+    "title": "modified-shop",
+    "logo": "modified-shop.png",
+    "slug": "modified-shop",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "https://www.sellxed.com/shop/fr/eur/modified-shop-payzen-zahlungs-modul.html",
+        "plugin_version": "v 1.x / 2.x"
+      }
+    ]
   }
 ]

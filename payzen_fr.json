@@ -786,5 +786,44 @@
         "plugin_version": "v 1.x / 2.x"
       }
     ]
+  },
+  {
+    "title": "OXID eSales",
+    "logo": "oxid-esales.png",
+    "slug": "oxid-esales",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "https://www.sellxed.com/shop/fr/eur/oxid-esales-payzen-zahlungs-extension.html",
+        "plugin_version": "v 4.7.8+ / 5.x CE / PE upwards"
+      }
+    ]
+  },
+  {
+    "title": "Jigoshop",
+    "logo": "jigoshop.png",
+    "slug": "jigoshop",
+    "current_cms_version": "",
+    "category": "commercial",
+    "current": [
+      {
+        "plugin_uri": "https://www.sellxed.com/shop/fr/eur/wordpress-jigoshop-payzen-zahlungs-plugin.html",
+        "plugin_version": "v 1 & ++"
+      }
+    ]
+  },
+  {
+    "title": "WordPress WpShop",
+    "logo": "wpshop.png",
+    "slug": "wpshop",
+    "current_cms_version": "",
+    "category": "regular",
+    "current": [
+      {
+        "plugin_uri": "https://shop.eoxia.com/ecommerce/module-paiement-banque-populaire/",
+        "plugin_version": ""
+      }
+    ]
   }
 ]

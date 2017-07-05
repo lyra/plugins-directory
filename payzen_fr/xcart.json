@@ -1,0 +1,11 @@
+{
+  "current_cms_version": "v4.4.2 et sup\u00e8rieur",
+  "current": [
+    {
+      "plugin_uri": "PayZen_X-Cart_4.4.2_v1.0d.zip",
+      "plugin_version": "v1.0d",
+      "doc_uri": "Integration_PayZen_X-Cart_4.4.2_v1.0d.pdf",
+      "type": "single"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "current_cms_version": "v3.x",
+  "current": [
+    {
+      "plugin_uri": "https:\/\/contrib.spip.net\/Plugin-Bank",
+      "plugin_version": "v3.3.6"
+    }
+  ]
+}

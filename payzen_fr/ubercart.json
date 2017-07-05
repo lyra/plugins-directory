@@ -1,0 +1,22 @@
+{
+  "current_cms_version": "v7.x.3.0",
+  "current": [
+    {
+      "plugin_uri": "PayZen_Ubercart_3.0_v1.0.zip",
+      "plugin_version": "v1.0",
+      "type": "single"
+    }
+  ],
+  "archives": [
+    {
+      "cms_version": "v6.x.2.2",
+      "plugins": [
+        {
+          "type": "single",
+          "plugin_version": "v1.5b",
+          "plugin_uri": "PayZen_Ubercart_2.2_v1.5b.zip"
+        }
+      ]
+    }
+  ]
+}

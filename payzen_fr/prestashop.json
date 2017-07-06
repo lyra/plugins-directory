@@ -1,11 +1,11 @@
 {
-  "current_cms_version": "V1.5,1.6, 1.7",
   "current": [
     {
       "plugin_uri": "PayZen_PrestaShop_1.5-1.7_v1.8.1.zip",
       "plugin_version": "v1.8.1",
       "doc_uri": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf",
-      "type": "full"
+      "type": "full",
+      "cms_version": "V1.5,1.6, 1.7"
     }
   ],
   "archives": [

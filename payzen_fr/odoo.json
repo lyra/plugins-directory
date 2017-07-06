@@ -1,8 +1,8 @@
 {
-  "current_cms_version": "v10",
   "current": [
     {
-      "plugin_uri": "plugin-odoo"
+      "plugin_uri": "plugin-odoo",
+      "cms_version": "v10"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "current_cms_version": "",
   "current": [
     {
       "plugin_uri": "https:\/\/www.sellxed.com\/shop\/fr\/eur\/gambio-payzen-zahlungs-modul.html",
-      "plugin_version": "v.2"
+      "plugin_version": "v.2",
+      "cms_version": ""
     }
   ]
 }

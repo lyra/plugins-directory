@@ -1,10 +1,10 @@
 {
-  "current_cms_version": "OpenCart 2.3",
   "current": [
     {
       "plugin_uri": "PayZen_OpenCart_2.3.x_v3.0.0.zip",
       "doc_uri": "Integration_PayZen_OpenCart_2.3.x_v3.0.0.pdf",
-      "plugin_version": "v3.0.0"
+      "plugin_version": "v3.0.0",
+      "cms_version": "OpenCart 2.3"
     }
   ],
   "archives": [

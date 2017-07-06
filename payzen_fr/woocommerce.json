@@ -1,10 +1,10 @@
 {
-  "current_cms_version": "v2.x & V3",
   "current": [
     {
       "plugin_uri": "PayZen_WooCommerce_2.x-3.x_v1.3.2.zip",
       "plugin_version": "v1.3.2",
-      "type": "full"
+      "type": "full",
+      "cms_version": "v2.x & V3"
     }
   ],
   "archives": [

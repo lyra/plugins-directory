@@ -1,11 +1,11 @@
 {
-  "current_cms_version": "2.x",
   "current": [
     {
       "plugin_uri": "PayZen_Magento_2.x_v2.1.0.zip",
       "plugin_version": "v2.1.0",
       "doc_uri": "Integration_PayZen_Magento_2.x_v2.1.0.pdf.pdf",
-      "type": "full"
+      "type": "full",
+      "cms_version": "2.x"
     }
   ],
   "archives": [

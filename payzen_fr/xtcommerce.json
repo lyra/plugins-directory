@@ -1,10 +1,10 @@
 {
-  "current_cms_version": "v4.1",
   "current": [
     {
       "plugin_uri": "PayZen_xtCommerce_4.1.x_v1.0.zip",
       "plugin_version": "v1.0",
-      "doc_uri": "Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf"
+      "doc_uri": "Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf",
+      "cms_version": "v4.1"
     }
   ],
   "archives": [

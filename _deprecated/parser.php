@@ -12,6 +12,7 @@ $json_a = json_decode($string,true);
  * @param $json_a
  */
 function write_indiv_json($json_a){
+    //iterate through each one to reformat
     foreach ($json_a as $plugin){
         $myfile = fopen("test/".$plugin['slug'].".json", "w") or die("Unable to open file!");
         $txt = '';
@@ -19,6 +20,10 @@ function write_indiv_json($json_a){
         unset($plugin['slug']);
         unset($plugin['logo']);
         unset($plugin['category']);
+        if(isset($plugin['current_cms_version'])){
+            $plugin['current'][0]['cms_version'] = $plugin['current_cms_version'];
+        }
+        unset($plugin['current_cms_version']);
         $txt = json_encode($plugin);
         fwrite($myfile, $txt);
         fclose($myfile);
@@ -46,5 +51,5 @@ function write_full_json($json_a,$file_name){
     fwrite($myfile, $txt);
     fclose($myfile);
 }
-
-write_full_json($json_a,'payzen--fr');
+write_indiv_json($json_a);
+//write_full_json($json_a,'payzen--fr');

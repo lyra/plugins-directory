@@ -1,10 +1,10 @@
 {
-  "current_cms_version": "v1.05",
   "current": [
     {
       "plugin_uri": "PayZen_xtc_modified_1.05_v1.0.zip",
       "plugin_version": "v1.0",
-      "type": "single"
+      "type": "single",
+      "cms_version": "v1.05"
     }
   ]
 }

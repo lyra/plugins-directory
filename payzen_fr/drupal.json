@@ -1,10 +1,10 @@
 {
-  "current_cms_version": "v7.x-1.1",
   "current": [
     {
       "plugin_uri": "PayZen_Drupal_Commerce_7.x-1.1_v1.1a.zip",
       "plugin_version": "v1.1a",
-      "type": "single"
+      "type": "single",
+      "cms_version": "v7.x-1.1"
     },
     {
       "plugin_uri": "PayZen_Drupal_Commerce_multi_7.x-1.1_v1.0a.zip",

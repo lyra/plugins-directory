@@ -1,10 +1,10 @@
 {
-  "current_cms_version": "Evolution 10 & 11",
   "current": [
     {
       "plugin_uri": "PayZen_WebSiteX5_10.0_v1.01.zip",
       "plugin_version": "v1.0",
-      "type": "single"
+      "type": "single",
+      "cms_version": "Evolution 10 & 11"
     }
   ],
   "archives": [

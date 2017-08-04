@@ -3,13 +3,8 @@
     {
       "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v1.2.0/PayZen_Drupal_Commerce_7.x-1.x_v1.2.0.zip",
       "plugin_version": "v1.2.0",
-      "type": "multi",
-      "cms_version": "v7.x-1.1"
-    },
-    {
-      "plugin_uri": "PayZen_Drupal_Commerce_multi_7.x-1.1_v1.0a.zip",
-      "plugin_version": "v1.0a",
-      "type": "multi"
+      "type": "full",
+      "cms_version": "v7.x-1.x"
     }
   ]
 }

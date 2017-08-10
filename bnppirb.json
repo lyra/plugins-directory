@@ -104,13 +104,7 @@
   {
     "title": "RBS Change",
     "logo": "rbschange.png",
-    "slug": "rbs",
-    "category": "request"
-  },
-  {
-    "title": "Django CMS",
-    "slug": "django",
-    "logo": "django-cms.org_.png",
+    "slug": "rbschange",
     "category": "request"
   },
   {
@@ -122,13 +116,13 @@
   {
     "title": "modified eCommerce Shopsoftware",
     "logo": "xtc-ecommerce.png",
-    "slug": "xtcmodified",
+    "slug": "modifiedeshop",
     "category": "request"
   },
   {
     "title": "OXID eShop CE",
     "logo": "oxid-esales.png",
-    "slug": "oxid-esales",
+    "slug": "oxideshopce",
     "category": "request"
   },
   {
@@ -146,7 +140,7 @@
   {
     "title": "TomatoCart",
     "logo": "tomatocart.png",
-    "slug": "tomato",
+    "slug": "tomatocart",
     "category": "request"
   },
   {

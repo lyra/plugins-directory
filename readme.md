@@ -4,6 +4,7 @@ PLUGINS DIRECTORY is a metadata project that manages payment plugins publishing 
 
 ## Directory organization
 
+```
 |_ PAGE_1_SLUG.json
 |_ PAGE_1_SLUG
      |_ CMS_1_SLUG.json
@@ -15,6 +16,7 @@ PLUGINS DIRECTORY is a metadata project that manages payment plugins publishing 
      |_ CMS_2_SLUG.json
      |_ ...
 |_ ...
+```
 
 PAGE_N_SLUG : One of payzen_fr, payzen_en, payzen_es, payzen_de, payzen_cl, payzen_in, sogecommerce and bnppirb.
 An analysis is in progress to produce one PayZen module by region so that we will reduce this list to payzen_eu, payzen_sa and payzen_in. 
@@ -23,6 +25,7 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
 
 ## Page file structure
 
+```
   [
     {
       "title": "PrestaShop",
@@ -37,9 +40,11 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
       "category": "regular" // STRING - possible values : top, regular, request or commercial
     }
   ]
+```
 
 ## CMS file structure
 
+```
   {
     "current": {
       "cms_version": "V 1.5 - 1.7", // STRING - prefixed with V
@@ -83,8 +88,10 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
       }
     ]
   }
+```
 
 ## Naming conventions
 
 Package name : [BRAND NAME](_[COUNTRY CODE])_[CMS NAME](_multi)_[CMS VERSION]_[PLUGIN VERSION].zip
+
 Documentation name : Integration_[BRAND NAME]_[COUNTRY CODE IF ANY]_[CMS NAME](_multi)_[CMS VERSION]_[PLUGIN VERSION].pdf

@@ -1,7 +1,7 @@
 {
   "current": {
     "cms_version": "v32.0",
-    "packages":[
+    "packages": [
       {
         "plugin_uri": "PayZen_Webacappella_3.0.217_v2.0.zip",
         "plugin_version": "v2.0",
@@ -12,7 +12,6 @@
         "plugin_version": "v1.0",
         "type": "multi"
       }
-
     ]
   }
 }

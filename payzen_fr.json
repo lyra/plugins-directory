@@ -111,7 +111,7 @@
     "title": "Django CMS",
     "slug": "django",
     "logo": "django-cms.org_.png",
-    "category": "regular"
+    "category": "request"
   },
   {
     "title": "Ubercart",
@@ -135,7 +135,7 @@
     "title": "TOWeb",
     "logo": "towebv5-logo-cloudonly-website-banner.png",
     "slug": "toweb",
-    "category": "regular"
+    "category": "request"
   },
   {
     "title": "Tomato Cart",

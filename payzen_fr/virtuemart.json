@@ -1,7 +1,7 @@
 {
   "current": {
     "cms_version": "v3.0",
-    "packages":[
+    "packages": [
       {
         "plugin_uri": "PayZen_VirtueMart_3.x_v2.0.3.zip",
         "plugin_version": "v2.0.3",

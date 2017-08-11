@@ -1,10 +1,12 @@
 {
-  "current": [
-    {
-      "plugin_uri": "PayZen_RBSChange_3.6.2_v1.0a.zip",
-      "plugin_version": "v1.0a",
-      "type": "single",
-      "cms_version": "v3.6.2"
-    }
-  ]
+  "current": {
+    "cms_version": "v3.6.2",
+    "packages": [
+      {
+        "plugin_uri": "PayZen_RBSChange_3.6.2_v1.0a.zip",
+        "plugin_version": "v1.0a",
+        "type": "single"
+      }
+    ]
+  }
 }

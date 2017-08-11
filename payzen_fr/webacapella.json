@@ -1,15 +1,18 @@
 {
-  "current": [
-    {
-      "plugin_uri": "PayZen_Webacappella_3.0.217_v2.0.zip",
-      "plugin_version": "v2.0",
-      "type": "single",
-      "cms_version": "v32.0"
-    },
-    {
-      "plugin_uri": "PayZen_Webacappella_multi_3.0.217_v1.0.zip",
-      "plugin_version": "v1.0",
-      "type": "multi"
-    }
-  ]
+  "current": {
+    "cms_version": "v32.0",
+    "packages":[
+      {
+        "plugin_uri": "PayZen_Webacappella_3.0.217_v2.0.zip",
+        "plugin_version": "v2.0",
+        "type": "single"
+      },
+      {
+        "plugin_uri": "PayZen_Webacappella_multi_3.0.217_v1.0.zip",
+        "plugin_version": "v1.0",
+        "type": "multi"
+      }
+
+    ]
+  }
 }

@@ -1,10 +1,12 @@
 {
-  "current": [
-    {
-      "plugin_uri": "PayZen_Tienda_0.7.0_v1.1.zip",
-      "plugin_version": "v1.1",
-      "type": "single",
-      "cms_version": "v0.7.x"
-    }
-  ]
+  "current": {
+    "cms_version": "v0.7.x",
+    "packages": [
+      {
+        "plugin_uri": "PayZen_Tienda_0.7.0_v1.1.zip",
+        "plugin_version": "v1.1",
+        "type": "single"
+      }
+    ]
+  }
 }

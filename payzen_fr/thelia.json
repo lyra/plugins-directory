@@ -1,15 +1,17 @@
 {
-  "current": [
-    {
-      "plugin_uri": "https:\/\/github.com\/thelia-modules\/Payzen\/archive\/master.zip",
-      "plugin_version": "v1.2.3",
-      "cms_version": "v2"
-    }
-  ],
+  "current": {
+    "cms_version": "v2",
+    "packages": [
+      {
+        "plugin_uri": "https:\/\/github.com\/thelia-modules\/Payzen\/archive\/master.zip",
+        "plugin_version": "v1.2.3"
+      }
+    ]
+  },
   "archives": [
     {
       "cms_version": "v1.5 - thelia 1",
-      "plugins": [
+      "packages": [
         {
           "type": "single",
           "plugin_version": "v1.0",
@@ -19,7 +21,7 @@
     },
     {
       "cms_version": "v1.4 - thelia 1",
-      "plugins": [
+      "packages": [
         {
           "type": "single",
           "plugin_version": "v1.5a",

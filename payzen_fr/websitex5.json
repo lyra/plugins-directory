@@ -1,16 +1,18 @@
 {
-  "current": [
-    {
-      "plugin_uri": "PayZen_WebSiteX5_10.0_v1.01.zip",
-      "plugin_version": "v1.0",
-      "type": "single",
-      "cms_version": "Evolution 10 & 11"
-    }
-  ],
+  "current": {
+    "cms_version": "Evolution 10 & 11",
+    "packages": [
+      {
+        "plugin_uri": "PayZen_WebSiteX5_10.0_v1.01.zip",
+        "plugin_version": "v1.0",
+        "type": "single"
+      }
+    ]
+  },
   "archives": [
     {
       "cms_version": "Evolution 9",
-      "plugins": [
+      "packages": [
         {
           "type": "single",
           "plugin_version": "v1.0a",
@@ -20,7 +22,7 @@
     },
     {
       "cms_version": "Evolution 8",
-      "plugins": [
+      "packages": [
         {
           "type": "single",
           "plugin_version": "v1.0",

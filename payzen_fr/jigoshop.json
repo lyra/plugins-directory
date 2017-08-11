@@ -1,9 +1,11 @@
 {
-  "current": [
-    {
-      "plugin_uri": "https:\/\/www.sellxed.com\/shop\/fr\/eur\/wordpress-jigoshop-payzen-zahlungs-plugin.html",
-      "plugin_version": "v 1 & ++",
-      "cms_version": ""
-    }
-  ]
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_uri": "https:\/\/www.sellxed.com\/shop\/fr\/eur\/wordpress-jigoshop-payzen-zahlungs-plugin.html",
+        "plugin_version": "v 1 & ++"
+      }
+    ]
+  }
 }

@@ -92,6 +92,6 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
 
 ## Naming conventions
 
-Package name : [BRAND NAME]_[COUNTRY CODE IF ANY]_[CMS NAME]_[CMS VERSION]_[PLUGIN VERSION].zip
+Package name : [BRAND NAME]\_[COUNTRY CODE IF ANY]\_[CMS NAME]\_[CMS VERSION]\_[PLUGIN VERSION].zip
 
-Documentation name : Integration_[BRAND NAME]_[COUNTRY CODE IF ANY]_[CMS NAME]_[CMS VERSION]_[PLUGIN VERSION].pdf
+Documentation name : Integration_[BRAND NAME]\_[COUNTRY CODE IF ANY]\_[CMS NAME]\_[CMS VERSION]\_[PLUGIN VERSION].pdf

@@ -18,18 +18,6 @@
     "category": "regular"
   },
   {
-    "title": "VirtueMart",
-    "slug": "virtuemart",
-    "logo": "virtuemart.png",
-    "category": "regular"
-  },
-  {
-    "title": "osCommerce",
-    "slug": "oscommerce",
-    "logo": "oscommerce.png",
-    "category": "regular"
-  },
-  {
     "title": "OpenCart",
     "logo": "OpenCart.png",
     "slug": "opencart",
@@ -39,7 +27,19 @@
     "title": "Shopify",
     "logo": "shopify.png",
     "slug": "shopify",
-    "category": "regular"
+    "category": "request"
+  },
+  {
+    "title": "VirtueMart",
+    "slug": "virtuemart",
+    "logo": "virtuemart.png",
+    "category": "request"
+  },
+  {
+    "title": "osCommerce",
+    "slug": "oscommerce",
+    "logo": "oscommerce.png",
+    "category": "request"
   },
   {
     "title": "Thelia",
@@ -168,6 +168,12 @@
     "category": "request"
   },
   {
+    "title": "WordPress WPshop",
+    "logo": "wpshop.png",
+    "slug": "wpshop",
+    "category": "request"
+  },
+  {
     "title": "TOWeb",
     "logo": "towebv5-logo-cloudonly-website-banner.png",
     "slug": "toweb",
@@ -238,5 +244,41 @@
     "slug": "django",
     "logo": "django-cms.org_.png",
     "category": "request"
+  },
+  {
+    "title": "UGAL",
+    "logo": "ugal.png",
+    "slug": "ugal",
+    "category": "commercial"
+  },
+  {
+    "title": "KingEshop",
+    "logo": "kingeshop.png",
+    "slug": "kingeshop",
+    "category": "commercial"
+  },
+  {
+    "title": "AceShop",
+    "logo": "aceshop.png",
+    "slug": "aceshop",
+    "category": "commercial"
+  },
+  {
+    "title": "commerce:seo",
+    "logo": "commerce-seo.png",
+    "slug": "commerceseo",
+    "category": "commercial"
+  },
+  {
+    "title": "JTL",
+    "logo": "jtl.png",
+    "slug": "jtl",
+    "category": "commercial"
+  },
+  {
+    "title": "JigoShop",
+    "logo": "jigoshop.png",
+    "slug": "jigoshop",
+    "category": "commercial"
   }
 ]

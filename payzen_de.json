@@ -1,8 +1,8 @@
 [
   {
-    "title": "PrestaShop",
-    "slug": "prestashop",
-    "logo": "prestashop-logotype1.png",
+    "title": "ShopWare",
+    "logo": "shopware.png",
+    "slug": "shopware",
     "category": "regular"
   },
   {
@@ -24,15 +24,27 @@
     "category": "regular"
   },
   {
-    "title": "osCommerce",
-    "slug": "oscommerce",
-    "logo": "oscommerce.png",
+    "title": "PrestaShop",
+    "slug": "prestashop",
+    "logo": "prestashop-logotype1.png",
     "category": "regular"
   },
   {
-    "title": "OpenCart",
-    "logo": "OpenCart.png",
-    "slug": "opencart",
+    "title": "modified eCommerce Shopsoftware",
+    "logo": "xtc-ecommerce.png",
+    "slug": "modifiedeshop",
+    "category": "regular"
+  },
+  {
+    "title": "xt:Commerce",
+    "logo": "xt-commerce.png",
+    "slug": "xtcommerce",
+    "category": "regular"
+  },
+  {
+    "title": "OXID eShop CE",
+    "logo": "oxid-esales.png",
+    "slug": "oxideshopce",
     "category": "regular"
   },
   {
@@ -40,6 +52,18 @@
     "logo": "shopify.png",
     "slug": "shopify",
     "category": "regular"
+  },
+  {
+    "title": "osCommerce",
+    "slug": "oscommerce",
+    "logo": "oscommerce.png",
+    "category": "request"
+  },
+  {
+    "title": "OpenCart",
+    "logo": "OpenCart.png",
+    "slug": "opencart",
+    "category": "request"
   },
   {
     "title": "Thelia",
@@ -78,12 +102,6 @@
     "category": "request"
   },
   {
-    "title": "ShopWare",
-    "logo": "shopware.png",
-    "slug": "shopware",
-    "category": "request"
-  },
-  {
     "title": "TheCartPress",
     "logo": "logoTCP.png",
     "slug": "thecartpress",
@@ -111,24 +129,6 @@
     "title": "Ubercart",
     "logo": "ecommerce-ubercart1.jpg",
     "slug": "ubercart",
-    "category": "request"
-  },
-  {
-    "title": "modified eCommerce Shopsoftware",
-    "logo": "xtc-ecommerce.png",
-    "slug": "modifiedeshop",
-    "category": "request"
-  },
-  {
-    "title": "OXID eShop CE",
-    "logo": "oxid-esales.png",
-    "slug": "oxideshopce",
-    "category": "request"
-  },
-  {
-    "title": "xt:Commerce",
-    "logo": "xt-commerce.png",
-    "slug": "xtcommerce",
     "category": "request"
   },
   {
@@ -165,6 +165,12 @@
     "title": "HikaShop",
     "logo": "hikashop_logo.png",
     "slug": "hikashop",
+    "category": "request"
+  },
+  {
+    "title": "WordPress WPshop",
+    "logo": "wpshop.png",
+    "slug": "wpshop",
     "category": "request"
   },
   {
@@ -238,5 +244,41 @@
     "slug": "django",
     "logo": "django-cms.org_.png",
     "category": "request"
+  },
+  {
+    "title": "UGAL",
+    "logo": "ugal.png",
+    "slug": "ugal",
+    "category": "commercial"
+  },
+  {
+    "title": "KingEshop",
+    "logo": "kingeshop.png",
+    "slug": "kingeshop",
+    "category": "commercial"
+  },
+  {
+    "title": "AceShop",
+    "logo": "aceshop.png",
+    "slug": "aceshop",
+    "category": "commercial"
+  },
+  {
+    "title": "commerce:seo",
+    "logo": "commerce-seo.png",
+    "slug": "commerceseo",
+    "category": "commercial"
+  },
+  {
+    "title": "JTL",
+    "logo": "jtl.png",
+    "slug": "jtl",
+    "category": "commercial"
+  },
+  {
+    "title": "JigoShop",
+    "logo": "jigoshop.png",
+    "slug": "jigoshop",
+    "category": "commercial"
   }
 ]

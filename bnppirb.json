@@ -132,12 +132,6 @@
     "category": "request"
   },
   {
-    "title": "TOWeb",
-    "logo": "towebv5-logo-cloudonly-website-banner.png",
-    "slug": "toweb",
-    "category": "request"
-  },
-  {
     "title": "TomatoCart",
     "logo": "tomatocart.png",
     "slug": "tomatocart",
@@ -171,6 +165,78 @@
     "title": "HikaShop",
     "logo": "hikashop_logo.png",
     "slug": "hikashop",
+    "category": "request"
+  },
+  {
+    "title": "TOWeb",
+    "logo": "towebv5-logo-cloudonly-website-banner.png",
+    "slug": "toweb",
+    "category": "request"
+  },
+  {
+    "title": "eZ Publish",
+    "logo": "ezpublish.png",
+    "slug": "ezpublish",
+    "category": "request"
+  },
+  {
+    "title": "Gambio",
+    "logo": "gambio.png",
+    "slug": "gambio",
+    "category": "request"
+  },
+  {
+    "title": "In Portal",
+    "logo": "inportal.png",
+    "slug": "inportal",
+    "category": "request"
+  },
+  {
+    "title": "J2Store",
+    "logo": "j2store.png",
+    "slug": "j2store",
+    "category": "request"
+  },
+  {
+    "title": "osCmax",
+    "logo": "oscmax.png",
+    "slug": "oscmax",
+    "category": "request"
+  },
+  {
+    "title": "PEEL Shopping",
+    "logo": "peel.png",
+    "slug": "peel",
+    "category": "request"
+  },
+  {
+    "title": "Plesk",
+    "logo": "plesk.png",
+    "slug": "plesk",
+    "category": "request"
+  },
+  {
+    "title": "PLICI",
+    "logo": "plici.png",
+    "slug": "plici",
+    "category": "request"
+  },
+  {
+    "title": "Shop 2 Date",
+    "logo": "shop2date.png",
+    "slug": "shop2date",
+    "category": "request"
+  },
+  {
+    "title": "SkaDate",
+    "logo": "skadate.png",
+    "slug": "skadate",
+    "category": "request"
+  },
+  {
+    "title": "Django CMS",
+    "slug": "django",
+    "logo": "django-cms.org_.png",
     "category": "request"
   }
 ]

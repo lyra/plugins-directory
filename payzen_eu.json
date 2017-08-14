@@ -1,6 +1,6 @@
 [
   {
-    "title": "Prestashop",
+    "title": "PrestaShop",
     "slug": "prestashop",
     "logo": "prestashop-logotype1.png",
     "category": "top"
@@ -12,7 +12,7 @@
     "category": "top"
   },
   {
-    "title": "Woocommerce",
+    "title": "WooCommerce",
     "slug": "woocommerce",
     "logo": "woocommerce-logo1.png",
     "category": "top"
@@ -24,15 +24,21 @@
     "category": "top"
   },
   {
-    "title": "Virtuemart",
+    "title": "VirtueMart",
     "slug": "virtuemart",
     "logo": "virtuemart.png",
     "category": "top"
   },
   {
-    "title": "OScommerce",
+    "title": "osCommerce",
     "slug": "oscommerce",
     "logo": "oscommerce.png",
+    "category": "regular"
+  },
+  {
+    "title": "OpenCart",
+    "logo": "OpenCart.png",
+    "slug": "opencart",
     "category": "regular"
   },
   {
@@ -54,7 +60,7 @@
     "category": "regular"
   },
   {
-    "title": "Spip - plugin Bank",
+    "title": "SPIP",
     "logo": "spip.jpg",
     "slug": "spip",
     "category": "regular"
@@ -66,13 +72,13 @@
     "category": "regular"
   },
   {
-    "title": "WordPress eshop plugin",
+    "title": "WordPress eshop",
     "logo": "wpeshop1.png",
     "slug": "eshop",
     "category": "regular"
   },
   {
-    "title": "Shopware",
+    "title": "ShopWare",
     "logo": "shopware.png",
     "slug": "shopware",
     "category": "regular"
@@ -90,28 +96,16 @@
     "category": "regular"
   },
   {
-    "title": "OpenCart",
-    "logo": "OpenCart.png",
-    "slug": "opencart",
-    "category": "regular"
-  },
-  {
-    "title": "website x5",
+    "title": "WebSite X5",
     "logo": "website-x5.png",
     "slug": "websitex5",
     "category": "regular"
   },
   {
-    "title": "RBS change",
+    "title": "RBS Change",
     "logo": "rbschange.png",
-    "slug": "rbs",
+    "slug": "rbschange",
     "category": "regular"
-  },
-  {
-    "title": "Django CMS",
-    "slug": "django",
-    "logo": "django-cms.org_.png",
-    "category": "request"
   },
   {
     "title": "Ubercart",
@@ -120,43 +114,43 @@
     "category": "regular"
   },
   {
-    "title": "xtc modified",
+    "title": "modified eCommerce Shopsoftware",
     "logo": "xtc-ecommerce.png",
-    "slug": "xtcmodified",
+    "slug": "modifiedeshop",
     "category": "regular"
   },
   {
-    "title": "xt commerce \/ Open",
+    "title": "OXID eShop CE",
+    "logo": "oxid-esales.png",
+    "slug": "oxideshopce",
+    "category": "regular"
+  },
+  {
+    "title": "xt:Commerce",
     "logo": "xt-commerce.png",
     "slug": "xtcommerce",
     "category": "regular"
   },
   {
-    "title": "TOWeb",
-    "logo": "towebv5-logo-cloudonly-website-banner.png",
-    "slug": "toweb",
-    "category": "request"
-  },
-  {
-    "title": "Tomato Cart",
+    "title": "TomatoCart",
     "logo": "tomatocart.png",
-    "slug": "tomato",
+    "slug": "tomatocart",
     "category": "regular"
   },
   {
-    "title": "CS cart",
+    "title": "CS-Cart",
     "logo": "cscart_logo.png",
     "slug": "cscart",
     "category": "regular"
   },
   {
-    "title": "WEBACAPELLA",
+    "title": "WebAcappella",
     "logo": "WEBACAPELLA.png",
     "slug": "webacapella",
     "category": "regular"
   },
   {
-    "title": "XCart",
+    "title": "X-Cart",
     "logo": "xcart.png",
     "slug": "xcart",
     "category": "regular"
@@ -174,6 +168,84 @@
     "category": "regular"
   },
   {
+    "title": "WordPress WPshop",
+    "logo": "wpshop.png",
+    "slug": "wpshop",
+    "category": "regular"
+  },
+  {
+    "title": "TOWeb",
+    "logo": "towebv5-logo-cloudonly-website-banner.png",
+    "slug": "toweb",
+    "category": "request"
+  },
+  {
+    "title": "eZ Publish",
+    "logo": "ezpublish.png",
+    "slug": "ezpublish",
+    "category": "request"
+  },
+  {
+    "title": "Gambio",
+    "logo": "gambio.png",
+    "slug": "gambio",
+    "category": "request"
+  },
+  {
+    "title": "In Portal",
+    "logo": "inportal.png",
+    "slug": "inportal",
+    "category": "request"
+  },
+  {
+    "title": "J2Store",
+    "logo": "j2store.png",
+    "slug": "j2store",
+    "category": "request"
+  },
+  {
+    "title": "osCmax",
+    "logo": "oscmax.png",
+    "slug": "oscmax",
+    "category": "request"
+  },
+  {
+    "title": "PEEL Shopping",
+    "logo": "peel.png",
+    "slug": "peel",
+    "category": "request"
+  },
+  {
+    "title": "Plesk",
+    "logo": "plesk.png",
+    "slug": "plesk",
+    "category": "request"
+  },
+  {
+    "title": "PLICI",
+    "logo": "plici.png",
+    "slug": "plici",
+    "category": "request"
+  },
+  {
+    "title": "Shop 2 Date",
+    "logo": "shop2date.png",
+    "slug": "shop2date",
+    "category": "request"
+  },
+  {
+    "title": "SkaDate",
+    "logo": "skadate.png",
+    "slug": "skadate",
+    "category": "request"
+  },
+  {
+    "title": "Django CMS",
+    "slug": "django",
+    "logo": "django-cms.org_.png",
+    "category": "request"
+  },
+  {
     "title": "UGAL",
     "logo": "ugal.png",
     "slug": "ugal",
@@ -186,21 +258,15 @@
     "category": "commercial"
   },
   {
-    "title": "Aceshop",
+    "title": "AceShop",
     "logo": "aceshop.png",
     "slug": "aceshop",
     "category": "commercial"
   },
   {
-    "title": "Commerce:seo",
+    "title": "commerce:seo",
     "logo": "commerce-seo.png",
-    "slug": "commerce-seo",
-    "category": "commercial"
-  },
-  {
-    "title": "Gambio",
-    "logo": "gambio.png",
-    "slug": "gambio",
+    "slug": "commerceseo",
     "category": "commercial"
   },
   {
@@ -210,27 +276,9 @@
     "category": "commercial"
   },
   {
-    "title": "modified-shop",
-    "logo": "modified-shop.png",
-    "slug": "modified-shop",
-    "category": "commercial"
-  },
-  {
-    "title": "OXID eSales",
-    "logo": "oxid-esales.png",
-    "slug": "oxid-esales",
-    "category": "commercial"
-  },
-  {
-    "title": "Jigoshop",
+    "title": "JigoShop",
     "logo": "jigoshop.png",
     "slug": "jigoshop",
     "category": "commercial"
-  },
-  {
-    "title": "WordPress WpShop",
-    "logo": "wpshop.png",
-    "slug": "wpshop",
-    "category": "regular"
   }
 ]

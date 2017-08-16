@@ -1,0 +1,26 @@
+{
+  "current": {
+    "cms_version": "v 2.x",
+    "packages": [
+      {
+        "plugin_version": "v2.1.1",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.1/PayZen_Magento_2.x_v2.1.1.zip",
+        "doc_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.1/Integration_PayZen_Magento_2.x_v2.1.1.pdf",
+        "type": "full"
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v 1.4 - 1.9",
+      "packages": [
+        {
+          "plugin_version": "V 1.7.1",
+          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.7.1/PayZen_Magento_1.4-1.9_v1.7.1.zip",
+          "doc_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.7.1/Integration_Payzen_Magento_1.4-1.9_v1.7.1.pdf",
+          "type": "full"
+        }
+      ]
+    }
+  ]
+}

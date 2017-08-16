@@ -1,0 +1,16 @@
+{
+  "current": {
+    "cms_version": "v1.3.8 & ++",
+    "packages": [
+      {
+        "plugin_uri": "PayZen_zencart_1.3.x_v1.5.0.zip",
+        "plugin_version": "v1.5.0",
+        "type": "single"
+      },
+      {
+        "plugin_uri": "PayZen_zencart_multi_1.3.8a_v1.0c.zip",
+        "plugin_version": "v1.0c"
+      }
+    ]
+  }
+}

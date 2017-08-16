@@ -1,0 +1,10 @@
+{
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_uri": "https:\/\/github.com\/payzen\/shopify"
+      }
+    ]
+  }
+}

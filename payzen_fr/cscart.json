@@ -1,0 +1,24 @@
+{
+  "current": {
+    "cms_version": "v4.1.2",
+    "packages": [
+      {
+        "plugin_uri": "PayZen_CS-Cart_4.1.2_v1.0.zip",
+        "plugin_version": "v1.0",
+        "type": "single"
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v2.0.12",
+      "packages": [
+        {
+          "type": "single",
+          "plugin_version": "v1.3a",
+          "plugin_uri": "PayZen_cscart_2.0.12_v1.3a.zip"
+        }
+      ]
+    }
+  ]
+}

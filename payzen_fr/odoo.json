@@ -1,0 +1,10 @@
+{
+  "current": {
+    "cms_version": "v10",
+    "packages": [
+      {
+        "plugin_uri": "plugin-odoo"
+      }
+    ]
+  }
+}

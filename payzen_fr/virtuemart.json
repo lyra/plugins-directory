@@ -1,0 +1,59 @@
+{
+  "current": {
+    "cms_version": "v3.0",
+    "packages": [
+      {
+        "plugin_uri": "PayZen_VirtueMart_3.x_v2.0.3.zip",
+        "plugin_version": "v2.0.3",
+        "doc_uri": "Integration_PayZen_Virtuemart_3.x_v2.0.3.pdf",
+        "type": "single"
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v2.0",
+      "packages": [
+        {
+          "type": "single",
+          "plugin_version": "v1.3.4",
+          "plugin_uri": "PayZen_VirtueMart_2.x_v1.3.4.zip",
+          "doc_uri": "Integration_PayZen_VirtueMart_2.x_v1.3.4.pdf",
+          "doc_title": "v1.3.4"
+        },
+        {
+          "type": "multi",
+          "plugin_version": "v1.0b",
+          "plugin_uri": "PayZen_VirtueMart_multi_2.0.8_v1.0b.zip"
+        }
+      ]
+    },
+    {
+      "cms_version": "v1.1",
+      "packages": [
+        {
+          "type": "single",
+          "plugin_version": "v2.7",
+          "plugin_uri": "PayZen_VirtueMart_1.1.4_v2.7.zip",
+          "doc_uri": "Integration_PayZen_VirtueMart_1.1.4_v2.7.pdf",
+          "doc_title": "v2.7"
+        },
+        {
+          "type": "multi",
+          "plugin_version": "v1.2",
+          "plugin_uri": "PayZen_VirtueMart_multi_1.1.4_v1.2.zip"
+        }
+      ]
+    },
+    {
+      "cms_version": "v1.0",
+      "packages": [
+        {
+          "type": "single",
+          "plugin_version": "v1.2c",
+          "plugin_uri": "PayZen_VirtueMart_1.0.x_v1.2c.zip"
+        }
+      ]
+    }
+  ]
+}

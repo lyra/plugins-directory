@@ -1,11 +1,11 @@
 {
   "current": {
-    "cms_version": "v6.3.1",
+    "cms_version": "v 6.3.1",
     "packages": [
       {
-        "plugin_uri": "PayZen_eShop_6.3.1_v1.0b.zip",
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_eShop_6.3.1_v1.0b.zip",
         "plugin_version": "v1.0b",
-        "doc_uri": "Integration_PayZen_eShop_6.3.1_v1.0b.pdf",
+        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_eShop_6.3.1_v1.0b.pdf",
         "type": "single"
       }
     ]

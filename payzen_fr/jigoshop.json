@@ -1,10 +1,11 @@
 {
   "current": {
-    "cms_version": "",
+    "cms_version": "v 1 & +",
     "packages": [
       {
         "plugin_uri": "https:\/\/www.sellxed.com\/shop\/fr\/eur\/wordpress-jigoshop-payzen-zahlungs-plugin.html",
-        "plugin_version": "v 1 & ++"
+        "plugin_version": "",
+        "type": "single"
       }
     ]
   }

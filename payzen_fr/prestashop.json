@@ -1,51 +1,48 @@
 {
   "current": {
-    "cms_version": "V1.5,1.6, 1.7",
+    "cms_version": "v 1.5 - 1.7",
     "packages": [
       {
-        "plugin_uri": "PayZen_PrestaShop_1.5-1.7_v1.8.1.zip",
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_PrestaShop_1.5-1.7_v1.8.1.zip",
         "plugin_version": "v1.8.1",
-        "doc_uri": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf",
+        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf",
         "type": "full"
       }
     ]
   },
   "archives": [
     {
-      "cms_version": "V1.4",
+      "cms_version": "v 1.4",
       "packages": [
         {
           "type": "single",
           "plugin_version": "v1.4f",
-          "plugin_uri": "PayZen_Prestashop_1.4.0.x_v1.4f.zip",
-          "doc_uri": "Integration_PayZen_Prestashop_1.4.0.x_v1.4f.pdf",
-          "doc_title": "Integration_PayZen_Prestashop_1.4.0.x_v1.4f"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Prestashop_1.4.0.x_v1.4f.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Prestashop_1.4.0.x_v1.4f.pdf"
         },
         {
           "type": "multi",
           "plugin_version": "v1.2f",
-          "plugin_uri": "PayZen_Prestashop_multi_1.4.0.x_v1.2f.zip",
-          "doc_uri": "Integration_PayZen_Prestashop_multi_1.4.0.x_v1.2f.pdf",
-          "doc_title": "Integration_PayZen_Prestashop_multi_1.4.0.x_v1.2f"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Prestashop_multi_1.4.0.x_v1.2f.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Prestashop_multi_1.4.0.x_v1.2f.pdf"
         }
       ]
     },
     {
-      "cms_version": "v1.1, 1.2 et 1.3",
+      "cms_version": "v 1.1 - 1.3",
       "packages": [
         {
           "type": "single",
           "plugin_version": "v2.9a",
-          "plugin_uri": "PayZen_Prestashop_1.2.4.0_v2.9a.zip",
-          "doc_uri": "Integration_PayZen_prestashop_1.2.4.0_v2.9a.pdf",
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Prestashop_1.2.4.0_v2.9a.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_prestashop_1.2.4.0_v2.9a.pdf",
           "doc_title": "Integration_PayZen_prestashop_1.2.4.0_v2.9a"
         },
         {
           "type": "multi",
           "plugin_version": "v1.6a",
-          "plugin_uri": "PayZen_Prestashop_multi_1.2.4.0_v1.6a.zip",
-          "doc_uri": "Integration_PayZen_prestashop_multi_1.2.4.0_v1.6a.pdf",
-          "doc_title": "Integration_PayZen_prestashop_multi_1.2.4.0_v1.6a"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Prestashop_multi_1.2.4.0_v1.6a.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_prestashop_multi_1.2.4.0_v1.6a.pdf"
         }
       ]
     }

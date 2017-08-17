@@ -1,10 +1,11 @@
 {
   "current": {
-    "cms_version": "",
+    "cms_version": "v 2",
     "packages": [
       {
         "plugin_uri": "https:\/\/www.sellxed.com\/shop\/fr\/eur\/commerce-seo-payzen-zahlungs-modul.html",
-        "plugin_version": "v.2"
+        "plugin_version": "",
+        "type": "single"
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
   "current": {
-    "cms_version": "v1.0.7",
+    "cms_version": "v 1.0.7",
     "packages": [
       {
-        "plugin_uri": "PayZen_TheCartPress_1.0.7_v1.0d.zip",
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_TheCartPress_1.0.7_v1.0d.zip",
         "plugin_version": "v1.0d",
-        "doc_uri": "Integration_PayZen_TheCartPress_1.0.7_v1.0d.pdf",
+        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_TheCartPress_1.0.7_v1.0d.pdf",
         "type": "single"
       }
     ]

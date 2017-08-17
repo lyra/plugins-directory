@@ -1,14 +1,14 @@
 {
   "current": {
-    "cms_version": "v32.0",
+    "cms_version": "v 32.0",
     "packages": [
       {
-        "plugin_uri": "PayZen_Webacappella_3.0.217_v2.0.zip",
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Webacappella_3.0.217_v2.0.zip",
         "plugin_version": "v2.0",
         "type": "single"
       },
       {
-        "plugin_uri": "PayZen_Webacappella_multi_3.0.217_v1.0.zip",
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Webacappella_multi_3.0.217_v1.0.zip",
         "plugin_version": "v1.0",
         "type": "multi"
       }

@@ -1,9 +1,9 @@
 {
   "current": {
-    "cms_version": "v0.7.x",
+    "cms_version": "v 0.7.x",
     "packages": [
       {
-        "plugin_uri": "PayZen_Tienda_0.7.0_v1.1.zip",
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Tienda_0.7.0_v1.1.zip",
         "plugin_version": "v1.1",
         "type": "single"
       }

@@ -1,22 +1,23 @@
 {
   "current": {
-    "cms_version": "v4.1",
+    "cms_version": "v 4.x",
     "packages": [
       {
-        "plugin_uri": "PayZen_xtCommerce_4.1.x_v1.0.zip",
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_xtCommerce_4.1.x_v1.0.zip",
         "plugin_version": "v1.0",
-        "doc_uri": "Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf"
+        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf",
+        "type": "full"
       }
     ]
   },
   "archives": [
     {
-      "cms_version": "v3.04",
+      "cms_version": "v 3.x",
       "packages": [
         {
           "type": "single",
           "plugin_version": "v1.0a",
-          "plugin_uri": "PayZen_xtcommerce_3.0.4_v1.0a.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_xtcommerce_3.0.4_v1.0a.zip"
         }
       ]
     }

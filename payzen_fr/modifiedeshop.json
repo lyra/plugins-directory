@@ -1,10 +1,11 @@
 {
   "current": {
-    "cms_version": "",
+    "cms_version": "v 1.x / 2.x",
     "packages": [
       {
-        "plugin_uri": "https:\/\/www.sellxed.com\/shop\/fr\/eur\/modified-shop-payzen-zahlungs-modul.html",
-        "plugin_version": "v 1.x \/ 2.x"
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_xtc_modified_1.05_v1.0.zip",
+        "plugin_version": "v1.0",
+        "type": "single"
       }
     ]
   }

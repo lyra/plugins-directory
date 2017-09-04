@@ -3,9 +3,9 @@
     "cms_version": "v 4.x",
     "packages": [
       {
-        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_X-Cart_4.4.2_v1.0d.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-xcart/releases/download/v1.0d/PayZen_X-Cart_4.4.2_v1.0d.zip",
         "plugin_version": "v1.0d",
-        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_X-Cart_4.4.2_v1.0d.pdf",
+        "doc_uri": "https://github.com/payzen/plugin-xcart/releases/download/v1.0d/Integration_PayZen_X-Cart_4.4.2_v1.0d.pdf",
         "type": "single"
       }
     ]

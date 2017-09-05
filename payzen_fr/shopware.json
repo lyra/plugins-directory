@@ -3,9 +3,9 @@
     "cms_version": "v 4.x - 5.x",
     "packages": [
       {
-        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_ShopWare_4.x-5.x_v1.1.0.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-shopware/releases/download/v1.1.0/PayZen_ShopWare_4.x-5.x_v1.1.0.zip",
         "plugin_version": "v1.1.0",
-        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_du_module_de_paiement_pour_la_plateforme_Shopware_PayZen_v1.0.pdf",
+        "doc_uri": "https://github.com/payzen/plugin-shopware/releases/download/v1.1.0/Integration_du_module_de_paiement_pour_la_plateforme_Shopware_PayZen_v1.0.pdf",
         "type": "single"
       }
     ]

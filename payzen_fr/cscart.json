@@ -16,7 +16,7 @@
         {
           "type": "single",
           "plugin_version": "v1.3a",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_cscart_2.0.12_v1.3a.zip"
+          "plugin_uri": "https://github.com/payzen/plugin-cscart/releases/download/v1.3a/PayZen_cscart_2.0.12_v1.3a.zip"
         }
       ]
     }

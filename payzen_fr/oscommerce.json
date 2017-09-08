@@ -1,18 +1,17 @@
 {
   "current": {
-    "cms_version": "v 2.3",
+    "cms_version": "v 2.3.x",
     "packages": [
       {
         "type": "full",
         "plugin_version": "v1.2.0",
-        "plugin_uri": "https://github.com/payzen/plugin-oscommerce/releases/download/v1.2.0/PayZen_osCommerce_2.3.x_v1.2.0.zip",
-        "doc_uri": ""
+        "plugin_uri": "https://github.com/payzen/plugin-oscommerce/releases/download/v1.2.0/PayZen_osCommerce_2.3.x_v1.2.0.zip"
       }
     ]
   },
   "archives": [
     {
-      "cms_version": "v 2.2",
+      "cms_version": "v 2.2.x",
       "packages": [
         {
           "type": "single",

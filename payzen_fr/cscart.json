@@ -3,8 +3,8 @@
     "cms_version": "v 4.x",
     "packages": [
       {
-        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_CS-Cart_4.1.2_v1.0.zip",
-        "plugin_version": "v1.0",
+        "plugin_uri": "https://github.com/payzen/plugin-cscart/releases/download/v2.0.0/PayZen_CS-Cart_4.x_v2.0.0.zip",
+        "plugin_version": "v2.0.0",
         "type": "single"
       }
     ]

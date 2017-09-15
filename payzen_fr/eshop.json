@@ -5,7 +5,6 @@
       {
         "plugin_uri": "https://github.com/payzen/plugin-eshop/releases/download/v1.0b/PayZen_eShop_6.3.1_v1.0b.zip",
         "plugin_version": "v1.0b",
-        "doc_uri": "https://github.com/payzen/plugin-eshop/releases/download/v1.0b/Integration_PayZen_eShop_6.3.1_v1.0b.pdf",
         "type": "single"
       }
     ]

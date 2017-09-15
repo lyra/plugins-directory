@@ -4,7 +4,7 @@
     "packages": [
       {
         "plugin_version": "v2.1.1",
-        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.1/BNPP_IRB_Magento_2.x_v2.1.1.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.1/Sogecommerce_Magento_2.x_v2.1.1.zip",
         "type": "full"
       }
     ]
@@ -15,7 +15,7 @@
       "packages": [
         {
           "plugin_version": "V 1.7.1",
-          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.7.1/BNPP_IRB_Magento_1.4-1.9_v1.7.1.zip",
+          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.7.1/Sogecommerce_Magento_1.4-1.9_v1.7.1.zip",
           "type": "full"
         }
       ]

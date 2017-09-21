@@ -1,10 +1,11 @@
 {
   "current": {
-    "cms_version": "",
+    "cms_version": "v 3.x - 4.x",
     "packages": [
       {
         "plugin_uri": "https:\/\/www.sellxed.com\/shop\/fr\/eur\/jtl-payzen-zahlungs-plugin.html",
-        "plugin_version": "JTL 3 \/ JTL 4"
+        "plugin_version": "",
+        "type": "single"
       }
     ]
   }

@@ -27,13 +27,13 @@
           "plugin_version": "v2.13b",
           "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Magento_1.3.2.2_v2.13b.zip",
           "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Magento_1.3.2.2_v2.13b.pdf",
-          "type": "full"
+          "type": "single"
         },
         {
           "plugin_version": "v1.4a",
           "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Magento_multi_1.3.2.2_v1.4a.zip",
           "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Magento_multi_1.3.2.2_v1.4a.pdf",
-          "type": "full"
+          "type": "multi"
         }
       ]
     }

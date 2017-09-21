@@ -237,7 +237,7 @@
     "title": "Django CMS",
     "slug": "django",
     "logo": "django.png",
-    "category": "request"
+    "category": "regular"
   },
   {
     "title": "UGAL",

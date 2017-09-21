@@ -4,7 +4,6 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/bsvetchine/django-payzen/archive/master.zip",
-        "plugin_version": "",
         "type": "single",
         "doc_uri": "http://django-payzen.readthedocs.io/en/latest/"
       }

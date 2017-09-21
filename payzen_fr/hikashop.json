@@ -1,6 +1,6 @@
 {
   "current": {
-    "cms_version": "v 2.x / 3.x",
+    "cms_version": "v 2.x - 3.x",
     "packages": [
       {
         "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_HikaShop_2.x-3.x_v2.0.0.zip",

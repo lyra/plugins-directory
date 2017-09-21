@@ -30,14 +30,21 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
     {
       "title": "PrestaShop",
       "slug": "prestashop",
-      "logo": "prestashop-logotype1.png",
+      "logo": "prestashop.png",
       "category": "top"
     },
     {
       "title": "OpenCart",
-      "logo": "OpenCart.png",
+      "logo": "opencart.png",
       "slug": "opencart",
       "category": "regular" // STRING - possible values : top, regular, request or commercial
+    },
+    {
+      "title": "HikaShop",
+      "slug": "hikashop",
+      "logo": "hikashop.png",
+      "labels": "Joomla,HikaShop", // STRING - labels to be used as filters in addition to title
+      "category": "top"
     }
   ]
 ```
@@ -77,6 +84,7 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
       },
       {
         "cms_version": "v 1.1 - 1.3",
+        "deprecated": true,
         "packages": [
           {
             "plugin_uri": "PayZen_PrestaShop_1.2.4.0_v2.9a.zip",

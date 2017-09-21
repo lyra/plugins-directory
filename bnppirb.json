@@ -115,8 +115,8 @@
   },
   {
     "title": "modified eCommerce Shopsoftware",
-    "logo": "modifiedeshop.png",
-    "slug": "modifiedeshop",
+    "logo": "modifiedshop.png",
+    "slug": "modifiedshop",
     "category": "request"
   },
   {
@@ -219,12 +219,6 @@
     "title": "PLICI",
     "logo": "plici.png",
     "slug": "plici",
-    "category": "request"
-  },
-  {
-    "title": "Shop 2 Date",
-    "logo": "shop2date.png",
-    "slug": "shop2date",
     "category": "request"
   },
   {

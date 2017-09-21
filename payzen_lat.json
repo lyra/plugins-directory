@@ -2,24 +2,24 @@
   {
     "title": "PrestaShop",
     "slug": "prestashop",
-    "logo": "prestashop-logotype1.png",
+    "logo": "prestashop.png",
     "category": "request"
   },
   {
     "title": "Magento",
     "slug": "magento",
-    "logo": "magento-logo.png",
+    "logo": "magento.png",
     "category": "request"
   },
   {
     "title": "WooCommerce",
     "slug": "woocommerce",
-    "logo": "woocommerce-logo1.png",
+    "logo": "woocommerce.png",
     "category": "request"
   },
   {
     "title": "OpenCart",
-    "logo": "OpenCart.png",
+    "logo": "opencart.png",
     "slug": "opencart",
     "category": "regular"
   },
@@ -43,7 +43,7 @@
   },
   {
     "title": "Thelia",
-    "logo": "thelia2.png",
+    "logo": "thelia.png",
     "slug": "thelia",
     "category": "request"
   },
@@ -55,25 +55,25 @@
   },
   {
     "title": "Drupal Commerce",
-    "logo": "drupal-commerce2.png",
+    "logo": "drupalcommerce.png",
     "slug": "drupalcommerce",
     "category": "request"
   },
   {
     "title": "SPIP",
-    "logo": "spip.jpg",
+    "logo": "spip.png",
     "slug": "spip",
     "category": "request"
   },
   {
     "title": "wp eCommerce",
-    "logo": "wpec-logo-icon-v2-2561.png",
+    "logo": "wpecommerce.png",
     "slug": "wpecommerce",
     "category": "request"
   },
   {
     "title": "WordPress eshop",
-    "logo": "wpeshop1.png",
+    "logo": "eshop.png",
     "slug": "eshop",
     "category": "request"
   },
@@ -85,19 +85,19 @@
   },
   {
     "title": "TheCartPress",
-    "logo": "logoTCP.png",
+    "logo": "thecartpress.png",
     "slug": "thecartpress",
     "category": "request"
   },
   {
     "title": "ZenCart",
-    "logo": "zencart-fr-logo1.png",
+    "logo": "zencart.png",
     "slug": "zencart",
     "category": "request"
   },
   {
     "title": "WebSite X5",
-    "logo": "website-x5.png",
+    "logo": "websitex5.png",
     "slug": "websitex5",
     "category": "request"
   },
@@ -109,25 +109,25 @@
   },
   {
     "title": "Ubercart",
-    "logo": "ecommerce-ubercart1.jpg",
+    "logo": "ubercart.png",
     "slug": "ubercart",
     "category": "request"
   },
   {
     "title": "modified eCommerce Shopsoftware",
-    "logo": "xtc-ecommerce.png",
+    "logo": "modifiedeshop.png",
     "slug": "modifiedeshop",
     "category": "request"
   },
   {
     "title": "OXID eShop CE",
-    "logo": "oxid-esales.png",
+    "logo": "oxideshopce.png",
     "slug": "oxideshopce",
     "category": "request"
   },
   {
     "title": "xt:Commerce",
-    "logo": "xt-commerce.png",
+    "logo": "xtcommerce.png",
     "slug": "xtcommerce",
     "category": "request"
   },
@@ -139,13 +139,13 @@
   },
   {
     "title": "CS-Cart",
-    "logo": "cscart_logo.png",
+    "logo": "cscart.png",
     "slug": "cscart",
     "category": "request"
   },
   {
     "title": "WebAcappella",
-    "logo": "WEBACAPELLA.png",
+    "logo": "webacapella.png",
     "slug": "webacapella",
     "category": "request"
   },
@@ -163,7 +163,7 @@
   },
   {
     "title": "HikaShop",
-    "logo": "hikashop_logo.png",
+    "logo": "hikashop.png",
     "slug": "hikashop",
     "category": "request"
   },
@@ -175,7 +175,7 @@
   },
   {
     "title": "TOWeb",
-    "logo": "towebv5-logo-cloudonly-website-banner.png",
+    "logo": "toweb.png",
     "slug": "toweb",
     "category": "request"
   },
@@ -242,7 +242,7 @@
   {
     "title": "Django CMS",
     "slug": "django",
-    "logo": "django-cms.org_.png",
+    "logo": "django.png",
     "category": "request"
   },
   {
@@ -265,7 +265,7 @@
   },
   {
     "title": "commerce:seo",
-    "logo": "commerce-seo.png",
+    "logo": "commerceseo.png",
     "slug": "commerceseo",
     "category": "commercial"
   },

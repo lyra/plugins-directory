@@ -3,7 +3,7 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_uri": "https:\/\/github.com\/payzen\/shopify",
+        "plugin_uri": "https://payzen.io/fr-FR/module-de-paiement-gratuit/shopify/sitemap.html",
         "type": "single"
       }
     ]

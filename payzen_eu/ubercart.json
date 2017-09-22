@@ -1,9 +1,9 @@
 {
   "current": {
-    "cms_version": "v7.x.3.0",
+    "cms_version": "v 7.x-3.x",
     "packages": [
       {
-        "plugin_uri": "PayZen_Ubercart_3.0_v1.0.zip",
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Ubercart_3.0_v1.0.zip",
         "plugin_version": "v1.0",
         "type": "single"
       }
@@ -11,12 +11,13 @@
   },
   "archives": [
     {
-      "cms_version": "v6.x.2.2",
+      "cms_version": "v 6.x - 2.x",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
           "plugin_version": "v1.5b",
-          "plugin_uri": "PayZen_Ubercart_2.2_v1.5b.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Ubercart_2.2_v1.5b.zip"
         }
       ]
     }

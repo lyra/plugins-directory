@@ -1,10 +1,10 @@
 {
   "current": {
-    "cms_version": "v2.x & V3",
+    "cms_version": "v 2.x - 3.x",
     "packages": [
       {
-        "plugin_uri": "PayZen_WooCommerce_2.x-3.x_v1.3.2.zip",
-        "plugin_version": "v1.3.2",
+        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.4.0/PayZen_WooCommerce_2.x-3.x_v1.4.0.zip",
+        "plugin_version": "v1.4.0",
         "type": "full"
       }
     ]
@@ -12,13 +12,12 @@
   "archives": [
     {
       "cms_version": "v1.5.6",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
           "plugin_version": "v1.0a",
-          "plugin_uri": "PayZen_WooCommerce_1.5.6_v1.0a.zip",
-          "doc_uri": "Integration_PayZen_WooCommerce_1.5.6_v1.0a.pdf",
-          "doc_title": "Integration_PayZen_WooCommerce_1.5.6_v1.0a"
+          "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.0a/PayZen_WooCommerce_1.5.6_v1.0a.zip"
         }
       ]
     }

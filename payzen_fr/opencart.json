@@ -23,6 +23,7 @@
     },
     {
       "cms_version": "v 1.5",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
@@ -38,6 +39,7 @@
     },
     {
       "cms_version": "v 1.4",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",

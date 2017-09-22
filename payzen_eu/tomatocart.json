@@ -1,9 +1,9 @@
 {
   "current": {
-    "cms_version": "v1.1.3",
+    "cms_version": "v 1.1.3",
     "packages": [
       {
-        "plugin_uri": "PayZen_TomatoCart_1.1.3_v1.2a.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-tomatocart/releases/download/v1.2a/PayZen_TomatoCart_1.1.3_v1.2a.zip",
         "plugin_version": "v1.2a",
         "type": "single"
       }

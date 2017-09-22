@@ -4,7 +4,7 @@
     "packages": [
       {
         "type": "single",
-        "plugin_uri": "https:\/\/github.com\/thelia-modules\/Payzen\/archive\/master.zip",
+        "plugin_uri": "https://github.com/thelia-modules/Payzen/archive/master.zip",
         "plugin_version": "v1.2.3"
       },
       {
@@ -17,6 +17,7 @@
   "archives": [
     {
       "cms_version": "v 1.5",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
@@ -27,6 +28,7 @@
     },
     {
       "cms_version": "v 1.4",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",

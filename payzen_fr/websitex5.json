@@ -12,6 +12,7 @@
   "archives": [
     {
       "cms_version": "Evolution 9",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
@@ -22,6 +23,7 @@
     },
     {
       "cms_version": "Evolution 8",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",

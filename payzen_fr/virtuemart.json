@@ -30,6 +30,7 @@
     },
     {
       "cms_version": "v 1.1",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
@@ -47,6 +48,7 @@
     },
     {
       "cms_version": "v 1.0",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",

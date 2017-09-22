@@ -1,47 +1,50 @@
 {
   "current": {
-    "cms_version": "OpenCart 2.3",
+    "cms_version": "v 2.3",
     "packages": [
       {
-        "plugin_uri": "PayZen_OpenCart_2.3.x_v3.0.0.zip",
-        "doc_uri": "Integration_PayZen_OpenCart_2.3.x_v3.0.0.pdf",
-        "plugin_version": "v3.0.0"
+        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_OpenCart_2.3.x_v3.0.0.zip",
+        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_OpenCart_2.3.x_v3.0.0.pdf",
+        "plugin_version": "v3.0.0",
+        "type": "full"
       }
     ]
   },
   "archives": [
     {
-      "cms_version": "v2.0-2.2",
+      "cms_version": "v 2.0 - 2.2",
       "packages": [
         {
-          "type": "multi",
+          "type": "full",
           "plugin_version": "v2.1.0",
-          "plugin_uri": "PayZen_OpenCart_2.0-2.2_v2.1.0.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_OpenCart_2.0-2.2_v2.1.0.zip"
         }
       ]
     },
     {
-      "cms_version": "v1.5",
+      "cms_version": "v 1.5",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
           "plugin_version": "v1.2a",
-          "plugin_uri": "PayZen_OpenCart_1.5.5.1_v1.2a.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_OpenCart_1.5.5.1_v1.2a.zip"
         },
         {
           "type": "multi",
           "plugin_version": "v1.1a",
-          "plugin_uri": "PayZen_OpenCart_multi_1.5.5.1_v1.1a.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_OpenCart_multi_1.5.5.1_v1.1a.zip"
         }
       ]
     },
     {
-      "cms_version": "v1.4",
+      "cms_version": "v 1.4",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
           "plugin_version": "v1.0c",
-          "plugin_uri": "PayZen_OpenCart_1.4.9_v1.0c.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_OpenCart_1.4.9_v1.0c.zip"
         }
       ]
     }

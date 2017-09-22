@@ -1,36 +1,44 @@
 {
   "current": {
-    "cms_version": "v2",
+    "cms_version": "v 2",
     "packages": [
       {
-        "plugin_uri": "https:\/\/github.com\/thelia-modules\/Payzen\/archive\/master.zip",
+        "type": "single",
+        "plugin_uri": "https://github.com/thelia-modules/Payzen/archive/master.zip",
         "plugin_version": "v1.2.3"
+      },
+      {
+        "type": "multi",
+        "plugin_uri": "https://github.com/thelia-modules/PayzenMulti/archive/master.zip",
+        "plugin_version": "v1.0"
       }
     ]
   },
   "archives": [
     {
-      "cms_version": "v1.5 - thelia 1",
+      "cms_version": "v 1.5",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
           "plugin_version": "v1.0",
-          "plugin_uri": "PayZen_Thelia_1.5.1_v1.0.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_1.5.1_v1.0.zip"
         }
       ]
     },
     {
-      "cms_version": "v1.4 - thelia 1",
+      "cms_version": "v 1.4",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",
           "plugin_version": "v1.5a",
-          "plugin_uri": "PayZen_Thelia_1.4.2.1_v1.5a.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_1.4.2.1_v1.5a.zip"
         },
         {
           "type": "multi",
           "plugin_version": "v1.0a",
-          "plugin_uri": "PayZen_Thelia_multi_1.4.2_v1.0a.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_multi_1.4.2_v1.0a.zip"
         }
       ]
     }

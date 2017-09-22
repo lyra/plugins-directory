@@ -12,6 +12,7 @@
   "archives": [
     {
       "cms_version": "v 2.2.x",
+      "deprecated": true,
       "packages": [
         {
           "type": "single",

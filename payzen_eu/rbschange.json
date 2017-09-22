@@ -1,9 +1,9 @@
 {
   "current": {
-    "cms_version": "v3.6.2",
+    "cms_version": "v 3.6.2",
     "packages": [
       {
-        "plugin_uri": "PayZen_RBSChange_3.6.2_v1.0a.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-rbschange/releases/download/v1.0a/PayZen_RBSChange_3.6.2_v1.0a.zip",
         "plugin_version": "v1.0a",
         "type": "single"
       }

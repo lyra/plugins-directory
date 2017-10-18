@@ -3,8 +3,8 @@
     "cms_version": "v 2.x - 3.x",
     "packages": [
       {
-        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.4.0/PayZen_WooCommerce_2.x-3.x_v1.4.0.zip",
-        "plugin_version": "v1.4.0",
+        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.4.1/PayZen_DE_WooCommerce_2.x-3.x_v1.4.1.zip",
+        "plugin_version": "v1.4.1",
         "type": "full"
       }
     ]

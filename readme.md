@@ -85,6 +85,7 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
       {
         "cms_version": "v 1.1 - 1.3",
         "deprecated": true,
+        "ext_dev": false, // if not developped by us
         "packages": [
           {
             "plugin_uri": "PayZen_PrestaShop_1.2.4.0_v2.9a.zip",

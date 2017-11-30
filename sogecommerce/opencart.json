@@ -1,0 +1,24 @@
+{
+  "current": {
+    "cms_version": "v 2.3",
+    "packages": [
+      {
+        "plugin_uri": "https://sogecommerce.societegenerale.eu/doc/files/module/fr-FR/Sogecommerce_OpenCart_2.3.x_v3.0.0.zip",
+        "plugin_version": "v3.0.0",
+        "type": "full"
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v 2.0 - 2.2",
+      "packages": [
+        {
+          "type": "full",
+          "plugin_version": "v2.1.0",
+          "plugin_uri": "https://sogecommerce.societegenerale.eu/doc/files/module/fr-FR/Sogecommerce_OpenCart_2.0-2.2_v2.1.0.zip"
+        }
+      ]
+    }
+  ]
+}

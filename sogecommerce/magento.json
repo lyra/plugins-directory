@@ -3,8 +3,8 @@
     "cms_version": "v 2.x",
     "packages": [
       {
-        "plugin_version": "v2.1.1",
-        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.1/Sogecommerce_Magento_2.x_v2.1.1.zip",
+        "plugin_version": "v2.1.3",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.3/Sogecommerce_Magento_2.x_v2.1.3.zip",
         "type": "full"
       }
     ]
@@ -14,8 +14,8 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "V 1.7.1",
-          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.7.1/Sogecommerce_Magento_1.4-1.9_v1.7.1.zip",
+          "plugin_version": "v1.8.0",
+          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.8.0/Sogecommerce_Magento_1.4-1.9_v1.8.0.zip",
           "type": "full"
         }
       ]

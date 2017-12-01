@@ -5,7 +5,7 @@
       {
         "plugin_uri": "https://contrib.spip.net/Plugin-Bank",
         "doc_uri": "https://contrib.spip.net/Module-de-Paiement-PayZen",
-        "plugin_version": "v3.3.6",
+        "plugin_version": "v3.5.9",
         "type": "single"
       }
     ]

@@ -1,0 +1,12 @@
+{
+  "current": {
+    "cms_version": "v 4.9.x",
+    "packages": [
+      {
+        "plugin_uri": "https://payzen.io/files/module/de-DE/PayZen_DE_OXID_eShop_CE_4.9.x_v2.0.0.zip",
+        "plugin_version": "v2.0.0",
+        "type": "single"
+      }
+    ]
+  }
+}

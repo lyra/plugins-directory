@@ -287,5 +287,12 @@
     "slug": "jigoshop",
     "labels": "WordPress",
     "category": "commercial"
+  },
+  {
+    "title": "42Stores",
+    "logo": "42stores.png",
+    "slug": "42stores",
+    "labels": "42stores",
+    "category": "commercial"
   }
 ]

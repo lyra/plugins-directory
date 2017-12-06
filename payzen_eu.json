@@ -343,5 +343,12 @@
     "slug": "abopress",
     "labels": "abopress",
     "category": "commercial"
+  },
+  {
+    "title": "Nordnet",
+    "logo": "nordnet.png",
+    "slug": "nordnet",
+    "labels": "nordnet",
+    "category": "commercial"
   }
 ]

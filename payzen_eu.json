@@ -294,5 +294,47 @@
     "slug": "42stores",
     "labels": "42stores",
     "category": "commercial"
+  },
+  {
+    "title": "AchatVille",
+    "logo": "achatville.png",
+    "slug": "achatville",
+    "labels": "achatville",
+    "category": "commercial"
+  },
+  {
+    "title": "Octave",
+    "logo": "octave.png",
+    "slug": "octave",
+    "labels": "octave",
+    "category": "commercial"
+  },
+  {
+    "title": "Oxatis",
+    "logo": "oxatis.png",
+    "slug": "oxatis",
+    "labels": "oxatis",
+    "category": "commercial"
+  },
+  {
+    "title": "PowerBoutique",
+    "logo": "powerboutique.png",
+    "slug": "powerboutique",
+    "labels": "powerboutique",
+    "category": "commercial"
+  },
+  {
+    "title": "WiziShop",
+    "logo": "wizishop.png",
+    "slug": "wizishop",
+    "labels": "wizishop",
+    "category": "commercial"
+  },
+  {
+    "title": "WMaker",
+    "logo": "wmaker.png",
+    "slug": "wmaker",
+    "labels": "wmaker",
+    "category": "commercial"
   }
 ]

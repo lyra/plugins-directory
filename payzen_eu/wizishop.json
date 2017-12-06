@@ -1,0 +1,11 @@
+{
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_uri": "https://www.wizishop.fr/partenaires/payzen/",
+        "plugin_version": ""
+      }
+    ]
+  }
+}

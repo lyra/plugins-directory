@@ -350,5 +350,12 @@
     "slug": "nordnet",
     "labels": "nordnet",
     "category": "commercial"
+  },
+  {
+    "title": "Salesforce",
+    "logo": "salesforce.png",
+    "slug": "salesforce",
+    "labels": "salesforce",
+    "category": "request"
   }
 ]

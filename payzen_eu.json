@@ -336,5 +336,12 @@
     "slug": "wmaker",
     "labels": "wmaker",
     "category": "commercial"
+  },
+  {
+    "title": "abo press",
+    "logo": "abopress.png",
+    "slug": "abopress",
+    "labels": "abopress",
+    "category": "commercial"
   }
 ]

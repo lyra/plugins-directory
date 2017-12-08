@@ -37,7 +37,7 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
       "title": "OpenCart",
       "logo": "opencart.png",
       "slug": "opencart",
-      "category": "regular" // STRING - possible values : top, regular, request or commercial
+      "category": "regular" // STRING - possible values : top, regular, request, external, or commercial
     },
     {
       "title": "HikaShop",
@@ -59,7 +59,10 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
         {
           "plugin_uri": "PayZen_PrestaShop_1.5-1.7_v1.8.1.zip", // STRING
           "plugin_version": "v1.8.1", // STRING - prefixed with v
-          "doc_uri": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+          "doc_uri": {
+            "fr-FR": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+            "en-EN": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+          },
           "type": "full" // STRING - possible values : full, multi, single
         }
       ]
@@ -71,13 +74,19 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
           {
             "plugin_uri": "PayZen_PrestaShop_1.4.0.x_v1.4f.zip",
             "plugin_version": "v1.4f",
-            "doc_uri": "Integration_PayZen_PrestaShop_1.4.0.x_v1.4f.pdf",
+            "doc_uri": {
+            "fr-FR": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+            "en-EN": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+          },
             "type": "single"
           },
           {
             "plugin_uri": "PayZen_PrestaShop_multi_1.4.0.x_v1.2f.zip",
             "plugin_version": "v1.2f",
-            "doc_uri": "Integration_PayZen_PrestaShop_multi_1.4.0.x_v1.2f.pdf",
+            "doc_uri": {
+            "fr-FR": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+            "en-EN": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+          },
             "type": "multi"
           }
         ]
@@ -90,7 +99,10 @@ CMS_N_SLUG : An identifier of the CMS as defined inside PAGE_N_SLUG.json and cor
           {
             "plugin_uri": "PayZen_PrestaShop_1.2.4.0_v2.9a.zip",
             "plugin_version": "v2.9a",
-            "doc_uri": "Integration_PayZen_PrestaShop_1.2.4.0_v2.9a.pdf",
+            "doc_uri": {
+            "fr-FR": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+            "en-EN": "Integration_PayZen_PrestaShop_1.5-1.7_v1.8.1.pdf", // STRING
+          },
             "type": "single"
           }
         ]

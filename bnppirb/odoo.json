@@ -1,0 +1,12 @@
+{
+  "current": {
+    "cms_version": "v 10",
+    "packages": [
+      {
+        "plugin_uri": "https://github.com/payzen/plugin-odoo/releases/download/v1.0.0/BNPP_IRB_Odoo_10.x_v1.0.0.zip",
+        "plugin_version": "v1.0.0",
+        "type": "single"
+      }
+    ]
+  }
+}

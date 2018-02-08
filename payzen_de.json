@@ -88,7 +88,7 @@
   },
   {
     "title": "SPIP",
-    "logo": "spip.jpg",
+    "logo": "spip.png",
     "slug": "spip",
     "category": "request"
   },
@@ -133,7 +133,7 @@
   },
   {
     "title": "Ubercart",
-    "logo": "ubercart.jpg",
+    "logo": "ubercart.png",
     "slug": "ubercart",
     "labels": "Drupal",
     "category": "request"

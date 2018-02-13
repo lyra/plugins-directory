@@ -25,6 +25,12 @@
     "category": "top"
   },
   {
+    "title": "Ecwid",
+    "logo": "ecwid.png",
+    "slug": "ecwid",
+    "category": "request"
+  },
+  {
     "title": "VirtueMart",
     "slug": "virtuemart",
     "logo": "virtuemart.png",

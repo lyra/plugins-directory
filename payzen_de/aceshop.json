@@ -1,0 +1,12 @@
+{
+  "current": {
+    "cms_version": "v 3.x - 4.x",
+    "packages": [
+      {
+        "plugin_uri": "https://www.sellxed.com/shop/de/usd/aceshop-payzen-zahlungs-extension.html",
+        "plugin_version": "",
+        "type": "single"
+      }
+    ]
+  }
+}

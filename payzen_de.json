@@ -261,7 +261,7 @@
     "logo": "aceshop.png",
     "slug": "aceshop",
     "labels": "Joomla",
-    "category": "commercial"
+    "category": "regular"
   },
   {
     "title": "commerce:seo",
@@ -280,6 +280,6 @@
     "logo": "jigoshop.png",
     "slug": "jigoshop",
     "labels": "WordPress",
-    "category": "commercial"
+    "category": "regular"
   }
 ]

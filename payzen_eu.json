@@ -28,7 +28,8 @@
     "title": "Ecwid",
     "logo": "ecwid.png",
     "slug": "ecwid",
-    "category": "request"
+    "labels": "WIX",
+    "category": "commercial"
   },
   {
     "title": "VirtueMart",

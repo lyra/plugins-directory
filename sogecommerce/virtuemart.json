@@ -3,9 +3,9 @@
     "cms_version": "v 3.x",
     "packages": [
       {
-        "plugin_uri": "https://sogecommerce.societegenerale.eu/doc/files/module/fr-FR/Sogecommerce_VirtueMart_3.x_v2.0.3.zip",
-        "plugin_version": "v2.0.3",
-        "type": "single"
+        "plugin_uri": "https://github.com/payzen/plugin-virtuemart/releases/download/v2.1.0/Sogecommerce_VirtueMart_3.x_v2.1.0.zip",
+        "plugin_version": "v2.1.0",
+        "type": "both"
       }
     ]
   }

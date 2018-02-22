@@ -3,10 +3,9 @@
     "cms_version": "v 3.x",
     "packages": [
       {
-        "plugin_uri": "https://payzen.io/files/module/de-DE/PayZen_DE_VirtueMart_3.x_v2.0.2.zip",
-        "plugin_version": "v2.0.2",
-        "doc_uri": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_VirtueMart_3.x_v2.0.2.pdf",
-        "type": "single"
+        "plugin_uri": "https://github.com/payzen/plugin-virtuemart/releases/download/v2.1.0/PayZen_DE_VirtueMart_3.x_v2.1.0.zip",
+        "plugin_version": "v2.1.0",
+        "type": "both"
       }
     ]
   }

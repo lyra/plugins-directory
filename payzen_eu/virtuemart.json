@@ -3,10 +3,9 @@
     "cms_version": "v 3.x",
     "packages": [
       {
-        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_3.x_v2.0.3.zip",
-        "plugin_version": "v2.0.3",
-        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Virtuemart_3.x_v2.0.3.pdf",
-        "type": "single"
+        "plugin_uri": "https://github.com/payzen/plugin-virtuemart/releases/download/v2.1.0/PayZen_VirtueMart_3.x_v2.1.0.zip",
+        "plugin_version": "v2.1.0",
+        "type": "both"
       }
     ]
   },
@@ -17,7 +16,7 @@
         {
           "type": "single",
           "plugin_version": "v1.3.4",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_2.x_v1.3.4.zip",
+          "plugin_uri": "https://github.com/payzen/plugin-virtuemart/releases/download/v1.3.4/PayZen_VirtueMart_2.x_v1.3.4.zip",
           "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_VirtueMart_2.x_v1.3.4.pdf",
           "doc_title": "v1.3.4"
         },

@@ -3,7 +3,7 @@
     "cms_version": "v 1.5 - 1.7",
     "packages": [
       {
-        "plugin_uri": "https://sogecommerce.societegenerale.eu/doc/files/module/fr-FR/Sogecommerce_PrestaShop_1.5-1.7_v1.9.0.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.9.0/Sogecommerce_PrestaShop_1.5-1.7_v1.9.0.zip",
         "plugin_version": "v1.9.0",
         "doc_uri": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_PrestaShop_1.5-1.7_v1.9.0.pdf",
         "type": "full"

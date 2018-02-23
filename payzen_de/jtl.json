@@ -1,6 +1,7 @@
 {
   "current": {
     "cms_version": "v 3.x - 4.x",
+    "ext_dev": true,
     "packages": [
       {
         "plugin_uri": "https://www.sellxed.com/shop/de/usd/jtl-payzen-zahlungs-plugin.html",

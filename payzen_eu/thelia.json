@@ -1,6 +1,7 @@
 {
   "current": {
     "cms_version": "v 2",
+    "ext_dev": true,
     "packages": [
       {
         "type": "single",

@@ -254,38 +254,38 @@
     "title": "UGAL",
     "logo": "ugal.png",
     "slug": "ugal",
-    "category": "commercial"
+    "category": "request"
   },
   {
     "title": "KingEshop",
     "logo": "kingeshop.png",
     "slug": "kingeshop",
-    "category": "commercial"
+    "category": "request"
   },
   {
     "title": "AceShop",
     "logo": "aceshop.png",
     "slug": "aceshop",
     "labels": "Joomla",
-    "category": "commercial"
+    "category": "request"
   },
   {
     "title": "commerce:seo",
     "logo": "commerceseo.png",
     "slug": "commerceseo",
-    "category": "commercial"
+    "category": "request"
   },
   {
     "title": "JTL",
     "logo": "jtl.png",
     "slug": "jtl",
-    "category": "commercial"
+    "category": "request"
   },
   {
     "title": "JigoShop",
     "logo": "jigoshop.png",
     "slug": "jigoshop",
     "labels": "WordPress",
-    "category": "commercial"
+    "category": "request"
   }
 ]

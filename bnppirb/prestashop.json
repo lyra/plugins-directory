@@ -5,7 +5,9 @@
       {
         "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.9.0/BNPP_IRB_PrestaShop_1.5-1.7_v1.9.0.zip",
         "plugin_version": "v1.9.0",
-        "doc_uri": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/Integration_BNPP_IRB_PrestaShop_1.5-1.7_v1.9.0.pdf",
+        "doc_uri": {
+          "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/Integration_BNPP_IRB_PrestaShop_1.5-1.7_v1.9.0.pdf"
+        },
         "type": "full"
       }
     ]

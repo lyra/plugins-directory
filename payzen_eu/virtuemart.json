@@ -5,7 +5,7 @@
       {
         "plugin_uri": "https://github.com/payzen/plugin-virtuemart/releases/download/v2.1.0/PayZen_VirtueMart_3.x_v2.1.0.zip",
         "plugin_version": "v2.1.0",
-        "type": "both"
+        "type": "full"
       }
     ]
   },

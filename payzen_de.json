@@ -56,6 +56,13 @@
     "category": "request"
   },
   {
+    "title": "Ecwid",
+    "logo": "ecwid.png",
+    "slug": "ecwid",
+    "labels": "WIX",
+    "category": "request"
+  },
+  {
     "title": "osCommerce",
     "slug": "oscommerce",
     "logo": "oscommerce.png",

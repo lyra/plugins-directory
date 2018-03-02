@@ -5,7 +5,9 @@
       {
         "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_wp-e-commerce_3.8.3_v1.1.zip",
         "plugin_version": "v1.1",
-        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_wp-e-commerce_3.8.3_v1.1.pdf",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_wp-e-commerce_3.8.3_v1.1.pdf"
+        },
         "type": "single"
       }
     ]

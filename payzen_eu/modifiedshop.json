@@ -4,6 +4,9 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/payzen/plugin-modifiedshop/releases/download/v1.0/PayZen_xtc_modified_1.05_v1.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_xtc_modified_1.05_v1.0.pdf"
+        },
         "plugin_version": "v1.0",
         "type": "single"
       }

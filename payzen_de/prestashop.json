@@ -5,7 +5,9 @@
       {
         "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.9.0/PayZen_DE_PrestaShop_1.5-1.7_v1.9.0.zip",
         "plugin_version": "v1.9.0",
-        "doc_uri": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_Prestashop_1.5-1.6_v1.7.1.pdf",
+        "doc_uri": {
+          "de-DE": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_Prestashop_1.5-1.6_v1.7.1.pdf"
+        },
         "type": "full"
       }
     ]

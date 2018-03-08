@@ -1,0 +1,15 @@
+{
+  "current": {
+    "cms_version": "v 2.x",
+    "packages": [
+      {
+        "plugin_version": "v2.1.4",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.4/PayZen_IN_Magento_2.x_v2.1.4.zip",
+        "doc_uri": {
+          "in": "https://payzen.io/files/module/doc/in/Integration_PayZen_IN_Magento_2.x_v2.1.4.pdf"
+        },
+        "type": "full"
+      }
+    ]
+  }
+}

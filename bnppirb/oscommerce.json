@@ -5,7 +5,7 @@
       {
         "type": "full",
         "plugin_version": "v1.2.0",
-        "plugin_uri": "https://github.com/payzen/plugin-oscommerce/releases/download/v1.2.0/Sogecommerce_osCommerce_2.3.x_v1.2.0.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-oscommerce/releases/download/v1.2.0/BNPP_IRB_osCommerce_2.3.x_v1.2.0.zip",
         "doc_uri": {
           "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/Integration_BNPP_IRB_osCommerce_2.3.x_v1.2.0.pdf"
         }

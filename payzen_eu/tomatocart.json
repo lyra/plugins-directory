@@ -4,6 +4,9 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/payzen/plugin-tomatocart/releases/download/v1.2a/PayZen_TomatoCart_1.1.3_v1.2a.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_TomatoCart_1.1.3_v1.2a.pdf"
+        },
         "plugin_version": "v1.2a",
         "type": "single"
       }

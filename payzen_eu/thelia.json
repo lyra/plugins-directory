@@ -23,7 +23,8 @@
         {
           "type": "single",
           "plugin_version": "v1.0",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_1.5.1_v1.0.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_1.5.1_v1.0.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Thelia_1.5.1_v1.0.pdf"
         }
       ]
     },
@@ -34,12 +35,14 @@
         {
           "type": "single",
           "plugin_version": "v1.5a",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_1.4.2.1_v1.5a.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_1.4.2.1_v1.5a.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_Payzen_Thelia_1.4.2.1_v1.5a.pdf"
         },
         {
           "type": "multi",
           "plugin_version": "v1.0a",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_multi_1.4.2_v1.0a.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_multi_1.4.2_v1.0a.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Thelia_multi_1.4.2_v1.0a.pdf"
         }
       ]
     }

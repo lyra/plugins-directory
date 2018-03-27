@@ -4,8 +4,10 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/payzen/plugin-xtcommerce/releases/download/v1.0.1/PayZen_xtCommerce_4.1.x_v1.0.1.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf"
+        },
         "plugin_version": "v1.0",
-        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf",
         "type": "full"
       }
     ]
@@ -18,7 +20,8 @@
         {
           "type": "single",
           "plugin_version": "v1.0a",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_xtcommerce_3.0.4_v1.0a.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_xtcommerce_3.0.4_v1.0a.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_xtcommerce_3.0.4_v1.0a.pdf"
         }
       ]
     }

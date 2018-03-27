@@ -4,6 +4,9 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.4.1/PayZen_DE_WooCommerce_2.x-3.x_v1.4.1.zip",
+        "doc_uri": {
+          "de-DE": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_WooCommerce_2.x_v1.3.pdf"
+        },
         "plugin_version": "v1.4.1",
         "type": "full"
       }

@@ -4,6 +4,9 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/payzen/plugin-hikashop/releases/download/v2.0.0/PayZen_HikaShop_2.x-3.x_v2.0.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_HikaShop_2.x-3.x_v2.0.0.pdf"
+        },
         "plugin_version": "v2.0.0"
       }
     ]
@@ -15,12 +18,14 @@
         {
           "type": "single",
           "plugin_version": "v1.0d",
-          "plugin_uri": "https://github.com/payzen/plugin-hikashop/releases/download/v1.0d/PayZen_hikashop_1.4.7_v1.0d.zip"
+          "plugin_uri": "https://github.com/payzen/plugin-hikashop/releases/download/v1.0d/PayZen_hikashop_1.4.7_v1.0d.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_hikashop_1.4.7_v1.0d.pdf"
         },
         {
           "type": "multi",
           "plugin_version": "v1.0c",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_hikashop_multi_1.4.7_v1.0c.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_hikashop_multi_1.4.7_v1.0c.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_HikaShop_multi_1.4.7_v1.0c.pdf"
         }
       ]
     }

@@ -22,7 +22,7 @@
           "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.8.0/Sogecommerce_Magento_1.4-1.9_v1.8.0.zip",
           "doc_uri": {
             "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_Magento_1.4-1.9_v1.8.0.pdf",
-            "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Integration_Sogecommerce_Magento_1.4-1.9_v1.8.0.pdf"
+            "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Integration_Sogecommerce_EN_Magento_1.4-1.9_v1.8.0.pdf"
           },
           "type": "full"
         }

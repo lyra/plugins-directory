@@ -5,6 +5,9 @@
       {
         "plugin_version": "2.1.4",
         "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/2.1.4/PayZen_DE_Magento_2.x_2.1.4.zip",
+        "doc_uri": {
+          "de-DE": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_Magento_2.x_v2.1.4.pdf"
+        },
         "type": "full"
       }
     ]
@@ -16,6 +19,7 @@
         {
           "plugin_version": "v1.8.0",
           "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.8.0/PayZen_DE_Magento_1.4-1.9_v1.8.0.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_Magento_1.4-1.9_v1.6.2.pdf",
           "type": "full"
         }
       ]

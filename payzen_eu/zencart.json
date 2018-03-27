@@ -4,11 +4,17 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/payzen/plugin-zencart/releases/download/v1.5.0/PayZen_zencart_1.3.x_v1.5.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_zencart_1.3.x_v1.5.0.pdf"
+        },
         "plugin_version": "v1.5.0",
         "type": "single"
       },
       {
         "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_zencart_multi_1.3.8a_v1.0c.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_zencart_multi_1.3.8a_v1.0c.pdf"
+        },
         "plugin_version": "v1.0c",
         "type": "multi"
       }

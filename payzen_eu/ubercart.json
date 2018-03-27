@@ -4,6 +4,9 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/payzen/plugin-ubercart/releases/download/v1.0/PayZen_Ubercart_3.0_v1.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Ubercart_3.0_v1.0.pdf"
+        },
         "plugin_version": "v1.0",
         "type": "single"
       }
@@ -17,7 +20,8 @@
         {
           "type": "single",
           "plugin_version": "v1.5b",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Ubercart_2.2_v1.5b.zip"
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Ubercart_2.2_v1.5b.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Ubercart_2.2_v1.5b.pdf"
         }
       ]
     }

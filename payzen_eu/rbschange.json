@@ -4,6 +4,9 @@
     "packages": [
       {
         "plugin_uri": "https://github.com/payzen/plugin-rbschange/releases/download/v1.0a/PayZen_RBSChange_3.6.2_v1.0a.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Rbschange_3.6.2_v1.0a.pdf"
+        },
         "plugin_version": "v1.0a",
         "type": "single"
       }

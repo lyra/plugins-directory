@@ -4,7 +4,7 @@
     "packages": [
       {
         "plugin_version": "2.1.4",
-        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/2.1.4/PayZen_DE_Magento_2.x_2.1.4.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.4/PayZen_DE_Magento_2.x_v2.1.4.zip",
         "doc_uri": {
           "de-DE": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_Magento_2.x_v2.1.4.pdf"
         },

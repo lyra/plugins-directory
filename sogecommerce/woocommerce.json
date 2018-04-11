@@ -3,11 +3,12 @@
     "cms_version": "v 2.x - 3.x",
     "packages": [
       {
-        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.4.1/Sogecommerce_WooCommerce_2.x-3.x_v1.4.1.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.5.0/Sogecommerce_WooCommerce_2.x-3.x_v1.5.0.zip",
         "doc_uri": {
-          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_WooCommerce_2.x-3.x_v1.4.1.pdf"
+          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Sogecommerce_WooCommerce_2.x-3.x_v1.5.0_fr.pdf",
+          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Sogecommerce_WooCommerce_2.x-3.x_v1.5.0_en.pdf"
         },
-        "plugin_version": "v1.4.1",
+        "plugin_version": "v1.5.0",
         "type": "full"
       }
     ]

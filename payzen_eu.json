@@ -364,5 +364,12 @@
     "slug": "salesforce",
     "labels": "salesforce",
     "category": "request"
+  },
+  {
+    "title": "weezbe",
+    "logo": "weezbe.png",
+    "slug": "weezbe",
+    "labels": "weezbe",
+    "category": "commercial"
   }
 ]

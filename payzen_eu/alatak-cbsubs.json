@@ -1,0 +1,12 @@
+{
+    "current": {
+    "cms_version": "",
+        "ext_dev": true,
+        "packages": [
+        {
+            "plugin_uri": "https://alatak.net/extensions/community-builder-cb-paid-subscriptions/payzen-comptant-et-abonnement-plugin.html",
+            "plugin_version": ""
+        }
+    ]
+}
+}

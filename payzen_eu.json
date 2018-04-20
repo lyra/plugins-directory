@@ -378,5 +378,26 @@
     "slug": "alatak-cbsubs",
     "labels": "alatak",
     "category": "provider"
+  },
+  {
+    "title": "Alatak JHotel Reservation",
+    "logo": "alatak-fr-jhotel-reservation.png",
+    "slug": "alatak-jhotel",
+    "labels": "alatak",
+    "category": "provider"
+  },
+  {
+    "title": "Alatak VikAppointments",
+    "logo": "alatak-fr-vikappointments.png",
+    "slug": "alatak-vikappointments",
+    "labels": "alatak",
+    "category": "provider"
+  },
+  {
+    "title": "Alatak VikBooking",
+    "logo": "alatak-fr-vikbooking.png",
+    "slug": "alatak-vikbooking",
+    "labels": "alatak",
+    "category": "provider"
   }
 ]

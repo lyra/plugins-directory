@@ -1,0 +1,12 @@
+{
+  "current": {
+    "cms_version": "",
+    "ext_dev": true,
+    "packages": [
+      {
+        "plugin_uri": "https://alatak.net/extensions/vikappointements/payzen-vikappointements-plugin.html",
+        "plugin_version": ""
+      }
+    ]
+  }
+}

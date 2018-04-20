@@ -371,5 +371,12 @@
     "slug": "weezbe",
     "labels": "weezbe",
     "category": "commercial"
+  },
+  {
+    "title": "Alatak CBSubs",
+    "logo": "alatak-fr-cbsubs.png",
+    "slug": "alatak-cbsubs",
+    "labels": "alatak",
+    "category": "provider"
   }
 ]

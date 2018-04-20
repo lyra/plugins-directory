@@ -31,7 +31,7 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
       "title": "PrestaShop",
       "slug": "prestashop",
       "logo": "prestashop.png",
-      "category": "top" // may be STRING - possible values : top, regular, request or commercial ...
+      "category": "top" // may be STRING - possible values : top, regular, request or commercial, provider ...
     },
     {
       "title": "OpenCart",

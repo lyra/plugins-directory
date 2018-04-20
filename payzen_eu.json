@@ -375,28 +375,28 @@
   {
     "title": "Alatak CBSubs Virtuemart",
     "logo": "alatak-fr-cbsubs.png",
-    "slug": "alatak-cbsubs",
+    "slug": "alatakcbsubs",
     "labels": "alatak",
     "category": "provider"
   },
   {
     "title": "Alatak JHotel Reservation Virtuemart",
     "logo": "alatak-fr-jhotel-reservation.png",
-    "slug": "alatak-jhotel",
+    "slug": "alatakjhotel",
     "labels": "alatak",
     "category": "provider"
   },
   {
     "title": "Alatak VikAppointments Virtuemart",
     "logo": "alatak-fr-vikappointments.png",
-    "slug": "alatak-vikappointments",
+    "slug": "alatakvikappointments",
     "labels": "alatak",
     "category": "provider"
   },
   {
     "title": "Alatak VikBooking Virtuemart",
     "logo": "alatak-fr-vikbooking.png",
-    "slug": "alatak-vikbooking",
+    "slug": "alatakvikbooking",
     "labels": "alatak",
     "category": "provider"
   }

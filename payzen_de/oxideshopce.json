@@ -1,13 +1,14 @@
 {
   "current": {
-    "cms_version": "v 4.9.x",
+    "cms_version": "v 4.9-4.10",
     "packages": [
       {
-        "plugin_uri": "https://github.com/payzen/plugin-oxideshopce/releases/download/v2.0.0/PayZen_DE_OXID_eShop_CE_4.9.x_v2.0.0.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-oxideshopce/releases/download/v2.0.1/PayZen_OXID_eShop_CE_4.9-4.10_v2.0.1.zip",
         "doc_uri": {
-          "de-DE": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_OXID_eShop_CE_4.9.x_v2.0.0.pdf"
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/PayZen_OXID_eShop_CE_4.9-4.10_v2.0.1_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_OXID_eShop_CE_4.9-4.10_v2.0.1_en.pdf"
         },
-        "plugin_version": "v2.0.0",
+        "plugin_version": "v2.0.1",
         "type": "single"
       }
     ]

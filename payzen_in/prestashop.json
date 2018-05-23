@@ -4,10 +4,10 @@
     "packages": [
       {
         "plugin_version": "v1.10.0",
-        "type": "full",
+        "type": "single",
         "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.10.0/PayZen_IN_PrestaShop_1.5-1.7_v1.10.0.zip",
         "doc_uri": {
-          "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_WooCommerce_2.x-3.x_v1.5.0_en.pdf"
+          "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_PrestaShop_1.5-1.7_v1.10.0_en.pdf"
         }
       }
     ]

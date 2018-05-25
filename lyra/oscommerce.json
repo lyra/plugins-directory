@@ -1,0 +1,39 @@
+{
+  "current": {
+    "cms_version": "v 2.3.x",
+    "packages": [
+      {
+        "type": "full",
+        "plugin_version": "v1.2.0",
+        "plugin_uri":
+          "https://github.com/payzen/plugin-oscommerce/releases/download/v1.2.0/PayZen_osCommerce_2.3.x_v1.2.0.zip",
+        "doc_uri":
+          "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_osCommerce_2.3.x_v1.2.0.pdf"
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v 2.2.x",
+      "deprecated": true,
+      "packages": [
+        {
+          "type": "single",
+          "plugin_version": "v2.7a",
+          "plugin_uri":
+            "https://payzen.io/files/module/fr-FR/PayZen_osCommerce_2.2ms2_v2.7a.zip",
+          "doc_uri":
+            "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_osCommerce_2.2ms2_v2.7a.pdf"
+        },
+        {
+          "type": "multi",
+          "plugin_version": "v1.5a",
+          "plugin_uri":
+            "https://payzen.io/files/module/fr-FR/PayZen_osCommerce_multi_2.2ms2_v1.5a.zip",
+          "doc_uri":
+            "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_osCommerce_multi_2.2ms2_v1.5a.pdf"
+        }
+      ]
+    }
+  ]
+}

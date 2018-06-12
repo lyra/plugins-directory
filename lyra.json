@@ -3,26 +3,26 @@
     "title": "PrestaShop",
     "slug": "prestashop",
     "logo": "prestashop.png",
-    "category": "regular"
+    "category": "top"
   },
   {
     "title": "Magento",
     "slug": "magento",
     "logo": "magento.png",
-    "category": "regular"
+    "category": "top"
   },
   {
     "title": "WooCommerce",
     "slug": "woocommerce",
     "logo": "woocommerce.png",
     "label": "WordPress",
-    "category": "regular"
+    "category": "top"
   },
   {
     "title": "osCommerce",
     "slug": "oscommerce",
     "logo": "oscommerce.png",
-    "category": "regular"
+    "category": "top"
   },
   {
     "title": "Shopify",

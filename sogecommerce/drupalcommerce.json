@@ -1,0 +1,31 @@
+{
+  "current": {
+    "cms_version": "v 2.x",
+    "packages": [
+      {
+        "plugin_version": "v2.0.0",
+        "type": "full",
+        "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v2.0.0/Sogecommerce_Drupal_Commerce_8.x-2.x_v2.0.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_fr.pdf",
+          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_en.pdf"
+        }
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v 1.x",
+      "packages": [
+        {
+          "plugin_version": "v1.2.0",
+          "type": "full",
+          "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v1.2.0/Sogecommerce_Drupal_Commerce_7.x-1.x_v1.2.0.zip",
+          "doc_uri": {
+            "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_Drupal_Commerce_1.x_v1.2.0.pdf"
+          }
+        }
+      ]
+    }
+  ]
+}

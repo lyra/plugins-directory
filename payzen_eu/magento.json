@@ -9,7 +9,10 @@
           "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Magento_2.x_v2.1.4.pdf",
           "en-EN": "https://payzen.io/files/module/doc/en-EN/Integration_PayZen_EN_Magento_2.x_v2.1.4.pdf"
         },
-        "type": "full"
+        "type": "full",
+        "description": {
+          "default": "SHA1 / SHA256 compliant"
+        }
       }
     ]
   },
@@ -24,7 +27,10 @@
             "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Magento_1.4-1.9_v1.8.0.pdf",
             "en-EN": "https://payzen.io/files/module/doc/en-EN/Integration_PayZen_EN_Magento_1.4-1.9_v1.8.0.pdf"
           },
-          "type": "full"
+          "type": "full",
+          "description": {
+            "default": "SHA1 / SHA256 compliant"
+          }
         }
       ]
     },

@@ -3,12 +3,12 @@
     "cms_version": "v 2.x - 3.x",
     "packages": [
       {
+        "plugin_version": "v1.5.0",
+        "type": "full",
         "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.5.0/BNPP_IRB_WooCommerce_2.x-3.x_v1.5.0.zip",
         "doc_uri": {
-          "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/BNPP_IRB_WooCommerce_2.x-3.x_v1.5.0.pdf"
-        },
-        "plugin_version": "v1.5.0",
-        "type": "full"
+          "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/BNPP_IRB_WooCommerce_2.x-3.x_v1.5.0_fr.pdf"
+        }
       }
     ]
   }

@@ -4,11 +4,11 @@
     "packages": [
       {
         "plugin_version": "v2.1.4",
+        "type": "full",
         "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.4/BNPP_IRB_Magento_2.x_v2.1.4.zip",
         "doc_uri": {
           "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/Integration_BNPP_IRB_Magento_2.x_v2.1.4.pdf"
-        },
-        "type": "full"
+        }
       }
     ]
   },
@@ -18,11 +18,11 @@
       "packages": [
         {
           "plugin_version": "v1.8.0",
+          "type": "full",
           "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.8.0/BNPP_IRB_Magento_1.4-1.9_v1.8.0.zip",
           "doc_uri": {
             "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/Integration_BNPP_IRB_Magento_1.4-1.9_v1.8.0.pdf"
-          },
-          "type": "full"
+          }
         }
       ]
     }

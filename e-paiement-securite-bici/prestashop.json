@@ -3,7 +3,7 @@
     "cms_version": "v 1.5 - 1.7",
     "packages": [
       {
-        "plugin_version": "v1.9.0",
+        "plugin_version": "v1.10.0",
         "type": "full",
         "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.10.0/BNPP_IRB_PrestaShop_1.5-1.7_v1.10.0.zip",
         "doc_uri": {

@@ -7,8 +7,8 @@
         "type": "full",
         "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v2.0.0/Sogecommerce_Drupal_Commerce_8.x-2.x_v2.0.0.zip",
         "doc_uri": {
-          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_fr.pdf",
-          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_en.pdf"
+          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Sogecommerce_Drupal_Commerce_8.x-2.x_v2.0.0_fr.pdf",
+          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Sogecommerce_Drupal_Commerce_8.x-2.x_v2.0.0_en.pdf"
         }
       }
     ]

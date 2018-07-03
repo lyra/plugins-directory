@@ -3,13 +3,13 @@
     "cms_version": "v 2.x",
     "packages": [
       {
-        "plugin_version": "v2.1.4",
-        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.1.4/Sogecommerce_Magento_2.x_v2.1.4.zip",
+        "plugin_version": "v2.3.0",
+        "type": "full",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.3.0/Sogecommerce_Magento_2.x_v2.3.0.zip",
         "doc_uri": {
-          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_Magento_2.x_v2.1.4.pdf",
-          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Integration_Sogecommerce_EN_Magento_2.x_v2.1.4.pdf"
-        },
-        "type": "full"
+          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Sogecommerce_Magento_2.x_v2.3.0_fr.pdf",
+          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Sogecommerce_Magento_2.x_v2.3.0_en.pdf"
+        }
       }
     ]
   },
@@ -18,13 +18,13 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.8.0",
-          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.8.0/Sogecommerce_Magento_1.4-1.9_v1.8.0.zip",
+          "plugin_version": "v1.9.0",
+          "type": "full",
+          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.9.0/Sogecommerce_Magento_1.4-1.9_v1.9.0.zip",
           "doc_uri": {
-            "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_Magento_1.4-1.9_v1.8.0.pdf",
-            "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Integration_Sogecommerce_EN_Magento_1.4-1.9_v1.8.0.pdf"
-          },
-          "type": "full"
+            "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Sogecommerce_Magento_1.4-1.9_v1.9.0_fr.pdf",
+            "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Sogecommerce_Magento_1.4-1.9_v1.9.0_en.pdf"
+          }
         }
       ]
     }

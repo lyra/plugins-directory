@@ -3,12 +3,15 @@
     "cms_version": "v 2.x - 3.x",
     "packages": [
       {
-        "plugin_version": "v1.5.0",
+        "plugin_version": "v1.6.1",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.5.0/PayZen_WooCommerce_2.x-3.x_v1.5.0.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.6.1/PayZen_WooCommerce_2.x-3.x_v1.6.1.zip",
         "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/PayZen_WooCommerce_2.x-3.x_v1.5.0_fr.pdf",
-          "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_WooCommerce_2.x-3.x_v1.5.0_en.pdf"
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/PayZen_WooCommerce_2.x-3.x_v1.6.1_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_WooCommerce_2.x-3.x_v1.6.1_en.pdf"
+        },
+        "description": {
+          "default": "SHA1 / SHA256 compliant"
         }
       }
     ]

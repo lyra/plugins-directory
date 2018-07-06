@@ -3,12 +3,16 @@
     "cms_version": "v 4.x - 5.x",
     "packages": [
       {
-        "plugin_uri": "https://github.com/payzen/plugin-shopware/releases/download/v1.1.1/PayZen_DE_ShopWare_4.x-5.x_v1.1.1.zip",
+        "plugin_version": "v1.2.0",
+        "type": "single",
+        "plugin_uri": "https://github.com/payzen/plugin-shopware/releases/download/v1.2.0/PayZen_ShopWare_4.x-5.x_v1.2.0.zip",
         "doc_uri": {
-          "de-DE": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_ShopWare_4.x-5.x_v1.1.1.pdf"
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/PayZen_ShopWare_4.x-5.x_v1.2.0_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_ShopWare_4.x-5.x_v1.2.0_en.pdf"
         },
-        "plugin_version": "v1.1.1",
-        "type": "single"
+        "description": {
+          "default": "SHA1 / SHA256 compliant"
+        }
       }
     ]
   }

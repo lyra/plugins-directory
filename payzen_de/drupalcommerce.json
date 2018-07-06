@@ -9,6 +9,9 @@
         "doc_uri": {
           "fr-FR": "https://payzen.io/files/module/doc/fr-FR/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_fr.pdf",
           "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_en.pdf"
+        },
+        "description": {
+          "default": "SHA1 / SHA256 compliant"
         }
       }
     ]

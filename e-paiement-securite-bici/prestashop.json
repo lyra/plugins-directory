@@ -3,11 +3,14 @@
     "cms_version": "v 1.5 - 1.7",
     "packages": [
       {
-        "plugin_version": "v1.10.0",
+        "plugin_version": "v1.10.1",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.10.0/BNPP_IRB_PrestaShop_1.5-1.7_v1.10.0.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.10.1/BNPP_IRB_PrestaShop_1.5-1.7_v1.10.1.zip",
         "doc_uri": {
-          "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/BNPP_IRB_PrestaShop_1.5-1.7_v1.10.0_fr.pdf"
+          "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/BNPP_IRB_PrestaShop_1.5-1.7_v1.10.1_fr.pdf"
+        },
+        "description": {
+          "default": "SHA1 / SHA256 compliant"
         }
       }
     ]

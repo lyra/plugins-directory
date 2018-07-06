@@ -9,9 +9,6 @@
         "doc_uri": {
           "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Sogecommerce_PrestaShop_1.5-1.7_v1.10.1_fr.pdf",
           "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Sogecommerce_PrestaShop_1.5-1.7_v1.10.1_en.pdf"
-        },
-        "description": {
-          "default": "SHA1 / SHA256 compliant"
         }
       }
     ]

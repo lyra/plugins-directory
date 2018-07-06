@@ -8,9 +8,6 @@
         "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.10.1/PayZen_IN_PrestaShop_1.5-1.7_v1.10.1.zip",
         "doc_uri": {
           "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_PrestaShop_1.5-1.7_v1.10.1_en.pdf"
-        },
-        "description": {
-          "default": "SHA1 / SHA256 compliant"
         }
       }
     ]

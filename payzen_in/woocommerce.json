@@ -8,9 +8,6 @@
         "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.6.1/PayZen_IN_WooCommerce_2.x-3.x_v1.6.1.zip",
         "doc_uri": {
           "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_WooCommerce_2.x-3.x_v1.6.1_en.pdf"
-        },
-        "description": {
-          "default": "SHA1 / SHA256 compliant"
         }
       }
     ]

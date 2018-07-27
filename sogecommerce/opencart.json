@@ -1,18 +1,32 @@
 {
   "current": {
-    "cms_version": "v 2.3",
+    "cms_version": "v 3",
     "packages": [
       {
-        "plugin_version": "v3.0.0",
+        "plugin_version": "v4.0.0",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v3.0.0/Sogecommerce_OpenCart_2.3.x_v3.0.0.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v4.0.0/Sogecommerce_OpenCart_3.x_v4.0.0.ocmod.zip",
         "doc_uri": {
-          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_OpenCart_2.3.x_v3.0.0.pdf"
+          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Sogecommerce_OpenCart_3.x_v4.0.0_fr.pdf",
+          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Sogecommerce_OpenCart_3.x_v4.0.0_en.pdf"
         }
       }
     ]
   },
   "archives": [
+    {
+      "cms_version": "v 2.3",
+      "packages": [
+        {
+          "plugin_version": "v3.0.0",
+          "type": "full",
+          "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v3.0.0/Sogecommerce_OpenCart_2.3.x_v3.0.0.zip",
+          "doc_uri": {
+            "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_OpenCart_2.3.x_v3.0.0.pdf"
+          }
+        }
+      ]
+    },
     {
       "cms_version": "v 2.0 - 2.2",
       "packages": [

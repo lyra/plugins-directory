@@ -1,16 +1,30 @@
 {
   "current": {
-    "cms_version": "v 2.3",
+    "cms_version": "v 3",
     "packages": [
       {
-        "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v3.0.0/PayZen_OpenCart_2.3.x_v3.0.0.zip",
-        "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_OpenCart_2.3.x_v3.0.0.pdf",
-        "plugin_version": "v3.0.0",
+        "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v4.0.0/PayZen_OpenCart_3.x_v4.0.0.ocmod.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/PayZen_OpenCart_3.x_v4.0.0_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_OpenCart_3.x_v4.0.0_en.pdf"
+        },
+        "plugin_version": "v4.0.0",
         "type": "full"
       }
     ]
   },
   "archives": [
+    {
+      "cms_version": "v 2.3",
+      "packages": [
+        {
+          "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v3.0.0/PayZen_OpenCart_2.3.x_v3.0.0.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_OpenCart_2.3.x_v3.0.0.pdf",
+          "plugin_version": "v3.0.0",
+          "type": "full"
+        }
+      ]
+    },
     {
       "cms_version": "v 2.0 - 2.2",
       "packages": [

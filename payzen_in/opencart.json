@@ -3,12 +3,12 @@
     "cms_version": "v 3",
     "packages": [
       {
+        "plugin_version": "v4.0.0",
+        "type": "single",
         "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v4.0.0/PayZen_IN_OpenCart_3.x_v4.0.0.ocmod.zip",
         "doc_uri": {
           "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_OpenCart_3.x_v4.0.0_en.pdf"
-        },
-        "plugin_version": "v4.0.0",
-        "type": "full"
+        }
       }
     ]
   }

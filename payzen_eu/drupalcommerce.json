@@ -11,7 +11,7 @@
           "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_en.pdf"
         },
         "description": {
-          "default": "SHA1 / SHA256 compliant"
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
         }
       }
     ]

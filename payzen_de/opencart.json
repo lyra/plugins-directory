@@ -3,13 +3,16 @@
     "cms_version": "v 3",
     "packages": [
       {
+        "plugin_version": "v4.0.0",
+        "type": "full",
         "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v4.0.0/PayZen_OpenCart_3.x_v4.0.0.ocmod.zip",
         "doc_uri": {
           "fr-FR": "https://payzen.io/files/module/doc/fr-FR/PayZen_OpenCart_3.x_v4.0.0_fr.pdf",
           "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_OpenCart_3.x_v4.0.0_en.pdf"
         },
-        "plugin_version": "v4.0.0",
-        "type": "full"
+        "description": {
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
+        }
       }
     ]
   }

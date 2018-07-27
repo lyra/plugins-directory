@@ -9,7 +9,10 @@
           "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_OpenCart_3.x_v4.0.0_en.pdf"
         },
         "plugin_version": "v4.0.0",
-        "type": "full"
+        "type": "full",
+        "description": {
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
+        }
       }
     ]
   },

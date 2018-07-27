@@ -11,7 +11,7 @@
           "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_ShopWare_4.x-5.x_v1.2.0_en.pdf"
         },
         "description": {
-          "default": "SHA1 / SHA256 compliant"
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
         }
       }
     ]

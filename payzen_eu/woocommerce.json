@@ -11,7 +11,7 @@
           "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_WooCommerce_2.x-3.x_v1.6.1_en.pdf"
         },
         "description": {
-          "default": "SHA1 / SHA256 compliant"
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
         }
       }
     ]

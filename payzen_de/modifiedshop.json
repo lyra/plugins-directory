@@ -3,12 +3,12 @@
     "cms_version": "v 1.x - 2.x",
     "packages": [
       {
+        "plugin_version": "v1.1.0",
+        "type": "single",
         "plugin_uri": "https://github.com/payzen/plugin-modifiedshop/releases/download/v1.1.0/PayZen_DE_xtc_modified_1.x-2.x_v1.1.0.zip",
         "doc_uri": {
           "de-DE": "https://payzen.io/files/module/doc/de-DE/Integration_PayZen_DE_xtc_modified_1.x-2.x_v1.1.0.pdf"
-        },
-        "plugin_version": "v1.1.0",
-        "type": "single"
+        }
       }
     ]
   }

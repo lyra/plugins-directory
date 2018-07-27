@@ -11,7 +11,7 @@
           "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_PrestaShop_1.5-1.7_v1.10.1_en.pdf"
         },
         "description": {
-          "default": "SHA1 / SHA256 compliant"
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
         }
       }
     ]

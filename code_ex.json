@@ -1,6 +1,7 @@
-[
-  {
-    "php": [
+{
+  "php": {
+    "title": "PHP",
+    "code": [
       {
         "name": "REST API",
         "version": "3.1.2",
@@ -50,8 +51,11 @@
         "label": "payzen",
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
       }
-    ],
-    "python": [
+    ]
+  },
+  "python": {
+    "title": "Python",
+    "code": [
       {
         "name": "Form Payment",
         "version": "3.4",
@@ -70,8 +74,11 @@
         "label": "payzen",
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
       }
-    ],
-    "java": [
+    ]
+  },
+  "java": {
+    "title": "JAVA",
+    "code": [
       {
         "name": "Webservices v5 - SDK",
         "version": "1.0.6",
@@ -90,8 +97,11 @@
         "label": "payzen",
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
       }
-    ],
-    "asp": [
+    ]
+  },
+  "asp": {
+    "title": "ASP",
+    "code": [
       {
         "name": "Form Payment",
         "version": "",
@@ -102,4 +112,4 @@
       }
     ]
   }
-]
+}

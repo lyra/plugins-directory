@@ -1,102 +1,105 @@
-{
-  "php": [
-    {
-      "name": "REST API",
-      "version": "3.1.2",
-      "link": "https://github.com/LyraNetwork/krypton-php-sdk",
-      "zip": "",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
-    },
-    {
-      "name": "Form Payment 2",
-      "version": "",
-      "link": "",
-      "zip": "/files//integration/payment_form_payzen_1.0f.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
-    },
-    {
-      "name": "Form Payment",
-      "version": "",
-      "link": "",
-      "zip": "/files//integration/payment_form_payzen_1.0f.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
-    },
-    {
-      "name": "Form Payment SDK",
-      "version": "0.2",
-      "link": "https://github.com/payzen/vads-payment-php",
-      "zip": "https://github.com/payzen/vads-payment-php/archive/master.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
-    },
-    {
-      "name": "Webservices ws-v5",
-      "version": "1.4",
-      "link": "https://github.com/payzen/soap-v5-payment-exemple-php",
-      "zip":
-        "https://github.com/payzen/soap-v5-payment-exemple-php/archive/master.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
-    },
-    {
-      "name": "Webservices ws-v4",
-      "version": "",
-      "link": "",
-      "zip": "/files/integration/PayZen_pack_php_ws-v4.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
-    }
-  ],
-  "python": [
-    {
-      "name": "Form Payment",
-      "version": "3.4",
-      "link": "https://github.com/payzen/vads-payment-python",
-      "zip": "https://github.com/payzen/vads-payment-python/archive/master.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
-    },
-    {
-      "name": "Webservices ws-v5",
-      "version": "1.4",
-      "link": "https://github.com/payzen/ws-v5-createPayment-python",
-      "zip":
-        "https://github.com/payzen/ws-v5-createPayment-python/archive/master.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
-    }
-  ],
-  "java": [
-    {
-      "name": "Webservices v5 - SDK",
-      "version": "1.0.6",
-      "link": "https://github.com/payzen/payzen-webservices-v5-sdk-java",
-      "zip":
-        "https://github.com/payzen/payzen-webservices-v5-sdk-java/archive/master.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
-    },
-    {
-      "name": "Webservices v5",
-      "version": "1.5",
-      "link": "https://github.com/payzen/payzen-soapwebservice-java-example",
-      "zip":
-        "https://github.com/payzen/payzen-soapwebservice-java-example/archive/master.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
-    }
-  ],
-  "asp": [
-    {
-      "name": "Form Payment",
-      "version": "",
-      "link": "https://github.com/payzen/vads-payment-asp",
-      "zip": "https://github.com/payzen/vads-payment-asp/archive/master.zip",
-      "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
-    }
-  ]
-}
+[
+  {
+    "php": [
+      {
+        "name": "REST API",
+        "version": "3.1.2",
+        "link": "https://github.com/LyraNetwork/krypton-php-sdk",
+        "zip": "",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      },
+      {
+        "name": "Form Payment 2",
+        "version": "",
+        "link": "",
+        "zip": "/files/integration/payment_form_payzen_1.0f.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      },
+      {
+        "name": "Form Payment",
+        "version": "",
+        "link": "",
+        "zip": "/files/integration/payment_form_payzen_1.0f.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+      },
+      {
+        "name": "Form Payment SDK",
+        "version": "0.2",
+        "link": "https://github.com/payzen/vads-payment-php",
+        "zip": "https://github.com/payzen/vads-payment-php/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+      },
+      {
+        "name": "Webservices ws-v5",
+        "version": "1.4",
+        "link": "https://github.com/payzen/soap-v5-payment-exemple-php",
+        "zip":
+          "https://github.com/payzen/soap-v5-payment-exemple-php/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      },
+      {
+        "name": "Webservices ws-v4",
+        "version": "",
+        "link": "",
+        "zip": "/files/integration/PayZen_pack_php_ws-v4.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      }
+    ],
+    "python": [
+      {
+        "name": "Form Payment",
+        "version": "3.4",
+        "link": "https://github.com/payzen/vads-payment-python",
+        "zip":
+          "https://github.com/payzen/vads-payment-python/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+      },
+      {
+        "name": "Webservices ws-v5",
+        "version": "1.4",
+        "link": "https://github.com/payzen/ws-v5-createPayment-python",
+        "zip":
+          "https://github.com/payzen/ws-v5-createPayment-python/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      }
+    ],
+    "java": [
+      {
+        "name": "Webservices v5 - SDK",
+        "version": "1.0.6",
+        "link": "https://github.com/payzen/payzen-webservices-v5-sdk-java",
+        "zip":
+          "https://github.com/payzen/payzen-webservices-v5-sdk-java/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      },
+      {
+        "name": "Webservices v5",
+        "version": "1.5",
+        "link": "https://github.com/payzen/payzen-soapwebservice-java-example",
+        "zip":
+          "https://github.com/payzen/payzen-soapwebservice-java-example/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      }
+    ],
+    "asp": [
+      {
+        "name": "Form Payment",
+        "version": "",
+        "link": "https://github.com/payzen/vads-payment-asp",
+        "zip": "https://github.com/payzen/vads-payment-asp/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+      }
+    ]
+  }
+]

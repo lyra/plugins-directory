@@ -109,6 +109,36 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
     ]
   }
 ```
+## Code Example file structure
+``` javascript
+[
+  {
+    "title": "PHP", // STRING, Section title displayed
+    "code": [
+      {
+        "name": "REST API", // STRING
+        "version": "3.1.2", // STRING
+        "link": "https://github.com/LyraNetwork/krypton-php-sdk", // STRING
+        "zip": "", // STRING, from github or files
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"] // ARRAY, langs where the code is displayed
+      }
+    ]
+  },
+  { // Each language is an object containing his codes
+    "title": "Python",
+    "code": [
+      {
+        "name": "Form Payment",
+        "version": "3.4",
+        "link": "https://github.com/payzen/vads-payment-python",
+        "zip": "https://github.com/payzen/vads-payment-python/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+      }
+    ]
+  }
+]
+```
 
 ## Naming conventions
 

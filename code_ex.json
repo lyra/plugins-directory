@@ -11,14 +11,6 @@
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
       },
       {
-        "name": "Form Payment 2",
-        "version": "",
-        "link": "",
-        "zip": "/files/integration/payment_form_payzen_1.0f.zip",
-        "label": "payzen",
-        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
-      },
-      {
         "name": "Form Payment",
         "version": "",
         "link": "",

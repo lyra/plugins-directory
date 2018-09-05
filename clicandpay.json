@@ -17,11 +17,5 @@
     "logo": "woocommerce.png",
     "labels": "WordPress",
     "category": "regular"
-  },
-  {
-    "title": "Oxatys",
-    "slug": "oxatys",
-    "logo": "oxatys.png",
-    "category": "regular"
   }
 ]

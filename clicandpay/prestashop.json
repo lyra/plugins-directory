@@ -1,0 +1,18 @@
+{
+  "current": {
+    "cms_version": "v 1.5 - 1.7",
+    "packages": [
+      {
+        "plugin_version": "v1.10.1",
+        "type": "full",
+        "plugin_uri": "",
+        "doc_uri": {
+          "fr-FR": ""
+        },
+        "description": {
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
+        }
+      }
+    ]
+  }
+}

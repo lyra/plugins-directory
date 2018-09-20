@@ -3,12 +3,13 @@
     "cms_version": "v 2.x",
     "packages": [
       {
-        "plugin_version": "v2.1.4",
-        "plugin_uri":
-          "https://github.com/payzen/plugin-magento/releases/download/v2.1.4/PayZen_Magento_2.x_v2.1.4.zip",
-        "doc_uri":
-          "https://lyra.com/doc/files/module/doc/fr-FR/Integration_PayZen_Magento_2.x_v2.1.4.pdf",
-        "type": "full"
+        "plugin_version": "v2.3.1",
+        "type": "full",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.3.1/Lyra_Magento_2.x_v2.3.1.zip",
+        "doc_uri": "",
+        "description": {
+          "default": "<ul><li>SHA-1 / HMAC-SHA-256 compliant</li><li>Requires PHP 5.6 or higher</li></ul>"
+        }
       }
     ]
   },
@@ -17,12 +18,13 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.8.0",
-          "plugin_uri":
-            "https://github.com/payzen/plugin-magento/releases/download/v1.8.0/PayZen_Magento_1.4-1.9_v1.8.0.zip",
-          "doc_uri":
-            "https://lyra.com/doc/files/module/doc/fr-FR/Integration_PayZen_Magento_1.4-1.9_v1.8.0.pdf",
-          "type": "full"
+          "plugin_version": "v1.9.1",
+          "type": "full",
+          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.9.1/Lyra_Magento_1.4-1.9_v1.9.1.zip",
+          "doc_uri": "",
+          "description": {
+            "default": "<ul><li>SHA-1 / HMAC-SHA-256 compliant</li><li>Requires PHP 5.3 or higher</li></ul>"
+          }
         }
       ]
     }

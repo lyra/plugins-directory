@@ -3,11 +3,12 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_version": "v1.0.4",
+        "plugin_version": "v1.0.5",
         "type": "single",
         "plugin_uri": "https://sogecommerce.societegenerale.eu/doc/fr-FR/module-de-paiement-gratuit/shopify/sitemap.html",
         "doc_uri": {
-          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_Shopify_v1.0.4.pdf"
+          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Sogecommerce_Shopify_v1.0.5_fr.pdf",
+          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/en-EN/Sogecommerce_Shopify_v1.0.5_en.pdf"
         }
       }
     ]

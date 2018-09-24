@@ -8,7 +8,7 @@
         "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.6.1/Lyra_WooCommerce_2.x-3.x_v1.6.1.zip",
         "doc_uri": "",
         "description": {
-          "default": "<ul><li>SHA-1 / HMAC-SHA-256 compliant</li><li>Requires PHP 5.3 or higher</li></ul>"
+          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
         }
       }
     ]

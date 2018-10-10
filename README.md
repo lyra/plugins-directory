@@ -25,7 +25,7 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
 
 ## Page file structure
 
-```
+``` javascript
   [
     {
       "title": "PrestaShop",
@@ -56,7 +56,7 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
 
 ## CMS file structure
 
-```
+``` javascript
   {
     "current": {
       "cms_version": "v 1.5 - 1.7", // STRING - prefixed with v

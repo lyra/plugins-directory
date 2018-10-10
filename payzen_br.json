@@ -1,0 +1,27 @@
+[
+  {
+    "title": "PrestaShop",
+    "slug": "prestashop",
+    "logo": "prestashop.png",
+    "category": "regular"
+  },
+  {
+    "title": "Magento",
+    "slug": "magento",
+    "logo": "magento.png",
+    "category": "regular"
+  },
+  {
+    "title": "WooCommerce",
+    "slug": "woocommerce",
+    "logo": "woocommerce.png",
+    "labels": "WordPress",
+    "category": "regular"
+  },
+  {
+    "title": "OpenCart",
+    "logo": "opencart.png",
+    "slug": "opencart",
+    "category": "regular"
+  }
+]

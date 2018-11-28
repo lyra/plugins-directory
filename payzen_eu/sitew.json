@@ -4,8 +4,9 @@
     "ext_dev": true,
     "packages": [
       {
-        "plugin_uri": "https://www.en.sitew.com/Build-a-website-working-with/payzen",
-        "plugin_version": ""
+        "plugin_version": "",
+        "type": "single",
+        "plugin_uri": "https://www.en.sitew.com/Build-a-website-working-with/payzen"
       }
     ]
   }

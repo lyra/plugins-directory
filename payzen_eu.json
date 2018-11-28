@@ -373,6 +373,13 @@
     "category": "commercial"
   },
   {
+    "title": "SiteW",
+    "logo": "sitew.png",
+    "slug": "sitew",
+    "labels": "sitew",
+    "category": "commercial"
+  },
+  {
     "title": "Alatak CBSubs Virtuemart",
     "logo": "alatak-fr-cbsubs.png",
     "slug": "alatakcbsubs",

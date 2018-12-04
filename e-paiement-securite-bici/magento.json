@@ -7,7 +7,7 @@
         "type": "full",
         "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.3.1/BNPP_IRB_Magento_2.x_v2.3.1.zip",
         "doc_uri": {
-          "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/BNPP_IRB_Magento_2.x_v2.3.1_fr.pdf"
+          "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Magento_2.x_v2.3.1_fr.pdf"
         },
         "description": {
           "default": "SHA-1 / HMAC-SHA-256 compliant"
@@ -24,7 +24,7 @@
           "type": "full",
           "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.9.1/BNPP_IRB_Magento_1.4-1.9_v1.9.1.zip",
           "doc_uri": {
-            "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/fr-FR/BNPP_IRB_Magento_1.4-1.9_v1.9.1_fr.pdf"
+            "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Magento_1.4-1.9_v1.9.1_fr.pdf"
           },
           "description": {
             "default": "SHA-1 / HMAC-SHA-256 compliant"

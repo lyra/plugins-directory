@@ -3,11 +3,12 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_version": "v1.0.1",
+        "plugin_version": "v1.0.2",
         "type": "single",
         "plugin_uri": "https://sogecommerce.societegenerale.eu/doc/fr-FR/module-de-paiement-gratuit/ecwid/sitemap.html",
         "doc_uri": {
-          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/fr-FR/Integration_Sogecommerce_Ecwid_v1.0.1.pdf"
+          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_Ecwid_v1.0.2_fr.pdf",
+          "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_Ecwid_v1.0.2_en.pdf"
         }
       }
     ]

@@ -3,12 +3,13 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_version": "v1.0.1",
+        "plugin_version": "v1.0.2",
+        "type": "single",
         "plugin_uri": "https://payzen.io/fr-FR/module-de-paiement-gratuit/ecwid/sitemap.html",
         "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Ecwid_v1.0.1.pdf"
-        },
-        "type": "single"
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Ecwid_v1.0.2_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Ecwid_v1.0.2_en.pdf"
+        }
       }
     ]
   }

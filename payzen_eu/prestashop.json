@@ -35,7 +35,7 @@
         {
           "plugin_version": "v1.2.7",
           "type": "multi",
-          "plugin_uri": "https://payzen.io/files/module/PayZen_PrestaShop_multi_1.4_v1.2.7.zip",
+          "plugin_uri": "https://payzen.io/files/module/eu/PayZen_PrestaShop_multi_1.4_v1.2.7.zip",
           "doc_uri": {
             "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_multi_1.4_v1.2.7_fr.pdf",
             "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_multi_1.4_v1.2.7_en.pdf"

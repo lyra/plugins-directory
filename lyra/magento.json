@@ -3,11 +3,12 @@
     "cms_version": "v 2.x",
     "packages": [
       {
-        "plugin_version": "v2.3.1",
+        "plugin_version": "v2.3.2",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.3.1/Lyra_Magento_2.x_v2.3.1.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.3.2/Lyra_Magento_2.x_v2.3.2.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Magento_2.x_v2.3.1_fr.pdf"
+          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Magento_2.x_v2.3.2_fr.pdf",
+          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Magento_2.x_v2.3.2_en.pdf"
         },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
@@ -20,11 +21,12 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.9.1",
+          "plugin_version": "v1.9.2",
           "type": "full",
-          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.9.1/Lyra_Magento_1.4-1.9_v1.9.1.zip",
+          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.9.2/Lyra_Magento_1.4-1.9_v1.9.2.zip",
           "doc_uri": {
-            "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Magento_1.4-1.9_v1.9.1_fr.pdf"
+            "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Magento_1.4-1.9_v1.9.2_fr.pdf",
+            "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Magento_1.4-1.9_v1.9.2_en.pdf"
           },
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

@@ -60,7 +60,7 @@
     "logo": "drupalcommerce.png",
     "slug": "drupalcommerce",
     "labels": "Drupal",
-    "category": "request"
+    "category": "regular"
   },
   {
     "title": "SPIP",

@@ -3,15 +3,15 @@
     "cms_version": "v 2.x",
     "packages": [
       {
-        "plugin_version": "v2.0.0",
+        "plugin_version": "v2.0.1",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v2.0.0/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v2.0.1/PayZen_Drupal_Commerce_8.x-2.x_v2.0.1.zip",
         "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_fr.pdf",
-          "en-EN": "https://payzen.io/files/module/doc/en-EN/PayZen_Drupal_Commerce_8.x-2.x_v2.0.0_en.pdf"
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Drupal_Commerce_8.x-2.x_v2.0.1_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Drupal_Commerce_8.x-2.x_v2.0.1_en.pdf"
         },
         "description": {
-          "default": "SHA-1 / HMAC-SHA-256 compliant"
+          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.5 or higher"
         }
       }
     ]

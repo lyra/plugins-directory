@@ -1,0 +1,19 @@
+{
+  "current": {
+    "cms_version": "v1.0.2",
+    "packages": [
+      {
+        "plugin_version": "v1.0.1",
+        "type": "single",
+        "plugin_uri": "",
+        "doc_uri": {
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/fr-FR/Integration_Systempay_Ecwid_v1.0.1.pdf",
+          "en_EN": "https://paiement.systempay.fr/doc/files/module/doc/en-EN/Integration_Systempay_Ecwid_v1.0.1.pdf"
+        },
+        "description": {
+          "default": ""
+        }
+      }
+    ]
+  }
+}

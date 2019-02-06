@@ -6,10 +6,6 @@
         "plugin_version": "v2.3.2",
         "type": "full",
         "plugin_uri": "",
-        "doc_uri": {
-          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/fr-FR/Systempay_Magento_2.x_v2.3.1.pdf",
-          "en-En": "https://paiement.systempay.fr/doc/files/module/doc/en-EN/Systempay_Magento_2.x_v2.3.1.pdf"
-        },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
         }
@@ -24,10 +20,6 @@
           "plugin_version": "v1.9.2",
           "type": "full",
           "plugin_uri": "",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/fr-FR/Systempay_Magento_2.x_v2.3.1.pdf",
-            "en-En": "https://paiement.systempay.fr/doc/files/module/doc/en-EN/Systempay_Magento_2.x_v2.3.1.pdf"
-          },
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
           }

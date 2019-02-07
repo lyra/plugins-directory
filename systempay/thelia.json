@@ -1,0 +1,26 @@
+{
+  "current": {
+    "cms_version": "v 1.5",
+    "deprecated": true,
+    "packages": [
+      {
+        "plugin_version": "v1.0",
+        "type": "single",
+        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Thelia_1.5.1_v1.0.zip"
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v1.4",
+      "deprecated": true,
+      "packages": [
+        {
+          "plugin_version": "v1.5a",
+          "type": "single",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Thelia_1.4.2.1_v1.5a.zip"
+        }
+      ]
+    }
+  ]
+}

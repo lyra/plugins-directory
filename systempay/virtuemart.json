@@ -5,42 +5,42 @@
       {
         "plugin_version": "v2.1.0",
         "type": "full",
-        "plugin_uri": "",
-        "description": {
-          "default": ""
-        }
+        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_VirtueMart_3.x_v2.1.0.zip"
       }
     ]
   },
   "archives": [
     {
       "cms_version": "v2.x",
-      "plugin_version": "v1.3.4",
-      "type": "single",
-      "plugin_uri": "",
-      "description": {
-        "default": ""
-      }
+      "packages": [
+        {
+          "plugin_version": "v1.3.4",
+          "type": "single",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_VirtueMart_2.x_v1.3.4.zip"
+        }
+      ]
     },
     {
-      "cms_version": "v1.1.x",
-      "plugin_version": "v2.7",
-      "type": "single",
-      "plugin_uri": "",
-      "description": {
-        "default": ""
-      }
+      "cms_version": "v1.1",
+      "deprecated": true,
+      "packages": [
+        {
+          "plugin_version": "v2.7",
+          "type": "single",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_VirtueMart_1.1.4_v2.7.zip"
+        }
+      ]
     },
     {
       "cms_version": "v1.0.x",
-      "plugin_version": "v1.2c",
-      "type": "single",
-      "plugin_uri": ""
-    },
-    {
-      "description": {
-        "default": ""
-      }
+      "deprecated": true,
+      "packages": [
+        {
+          "plugin_version": "v1.2c",
+          "type": "single",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_VirtueMart_1.0.x_v1.2c.zip"
+        }
+      ]
     }
   ]
 }

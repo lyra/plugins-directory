@@ -41,26 +41,26 @@
     "title": "Shopify",
     "logo": "shopify.png",
     "slug": "shopify",
-    "category": "regular"
+    "category": "request"
   },
   {
     "title": "Ecwid",
     "logo": "ecwid.png",
     "slug": "ecwid",
     "labels": "WIX",
-    "category": "regular"
+    "category": "request"
   },
   {
     "title": "Thelia",
     "logo": "thelia.png",
     "slug": "thelia",
-    "category": "request"
+    "category": "regular"
   },
   {
     "title": "Odoo",
     "logo": "odoo.png",
     "slug": "odoo",
-    "category": "regular"
+    "category": "request"
   },
   {
     "title": "Drupal Commerce",
@@ -181,7 +181,7 @@
     "logo": "hikashop.png",
     "slug": "hikashop",
     "labels": "Joomla",
-    "category": "request"
+    "category": "regular"
   },
   {
     "title": "TOWeb",

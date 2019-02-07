@@ -5,11 +5,24 @@
       {
         "plugin_version": "v1.6.2",
         "type": "full",
-        "plugin_uri": "",
+        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_WooCommerce_2.x-3.x_v1.6.1.zip",
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
         }
       }
     ]
-  }
+  },
+  "archives": [
+    {
+      "cms_version": "v1.5.6",
+      "deprecated": true,
+      "packages": [
+        {
+          "plugin_version": "v1.0a",
+          "type": "single",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_WooCommerce_1.5.6_v1.0a.zip"
+        }
+      ]
+    }
+  ]
 }

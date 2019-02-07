@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.10.2",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.10.2/Sogecommerce_PrestaShop_1.5-1.7_v1.10.2.zip",
+        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_PrestaShop_1.5-1.7_v1.10.1.zip",
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
         }
@@ -19,7 +19,7 @@
         {
           "plugin_version": "v1.4.7",
           "type": "single",
-          "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.4.7/Sogecommerce_PrestaShop_1.4_v1.4.7.zip",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Prestashop_1.4.0.x_v1.4f.zip",
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
           }
@@ -27,7 +27,7 @@
         {
           "plugin_version": "v1.2.7",
           "type": "multi",
-          "plugin_uri": "https://systempay.cyberpluspaiement.com/doc/files/module/Sogecommerce_PrestaShop_multi_1.4_v1.2.7.zip",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Prestashop_1.2.4.0_v2.9a.zip",
           "description": {
             "default": "&#9658; Works with last version of single plugin"
           }

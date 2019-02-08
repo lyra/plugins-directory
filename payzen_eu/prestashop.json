@@ -54,13 +54,17 @@
           "plugin_version": "v2.9a",
           "type": "single",
           "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Prestashop_1.2.4.0_v2.9a.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_prestashop_1.2.4.0_v2.9a.pdf"
+          "doc_uri": {
+            "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_prestashop_1.2.4.0_v2.9a.pdf"
+          }
         },
         {
           "plugin_version": "v1.6a",
           "type": "multi",
           "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Prestashop_multi_1.2.4.0_v1.6a.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_prestashop_multi_1.2.4.0_v1.6a.pdf"
+          "doc_uri": {
+            "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_prestashop_multi_1.2.4.0_v1.6a.pdf"
+          }
         }
       ]
     }

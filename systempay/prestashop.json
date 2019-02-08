@@ -6,7 +6,9 @@
         "plugin_version": "v1.11.0",
         "type": "full",
         "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.11.0/Systempay_PrestaShop_1.5-1.7_v1.11.0.zip",
-        "doc_uri": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_PrestaShop_1.5-1.7_v1.11_fr.pdf",
+        "doc_uri": {
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_PrestaShop_1.5-1.7_v1.11_fr.pdf"
+        },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
         }
@@ -21,7 +23,9 @@
           "plugin_version": "v1.4.7",
           "type": "single",
           "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.4.7/Systempay_Prestashop_1.4_v1.4.7.zip",
-          "doc_uri": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_PrestaShop_1.4_v1.4.7_fr.pdf",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_PrestaShop_1.4_v1.4.7_fr.pdf"
+          },
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
           }
@@ -30,7 +34,9 @@
           "plugin_version": "v1.2.7",
           "type": "multi",
           "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_PrestaShop_multi_1.4_v1.2.7.zip",
-          "doc_uri": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_PrestaShop_multi_1.4_v1.2.7_fr.pdf",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_PrestaShop_multi_1.4_v1.2.7_fr.pdf"
+          },
           "description": {
             "default": "&#9658; Works with last version of single plugin"
           }
@@ -45,13 +51,17 @@
           "plugin_version": "v2.9a",
           "type": "single",
           "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Prestashop_1.2.4.0_v2.9a.zip",
-          "doc_uri": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Prestashop_1.2.4.0_v2.9a.pdf"
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Prestashop_1.2.4.0_v2.9a.pdf"
+          }
         },
         {
           "plugin_version": "v1.6a",
           "type": "multi",
           "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Prestashop_multi_1.2.4.0_v1.6a.zip",
-          "doc_uri": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Prestashop_multi_1.2.4.0_v1.6a.pdf"
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Prestashop_multi_1.2.4.0_v1.6a.pdf"
+          }
         }
       ]
     }

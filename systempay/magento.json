@@ -3,9 +3,12 @@
     "cms_version": "v 2.x",
     "packages": [
       {
-        "plugin_version": "v2.3.1",
+        "plugin_version": "v2.3.2",
         "type": "full",
-        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Magento_2.x_v2.3.1.zip",
+        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.3.2/Systempay_Magento_2.x_v2.3.2.zip",
+        "doc_uri": {
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_2.x_v2.3.2_fr.pdf"
+        },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
         }
@@ -14,12 +17,15 @@
   },
   "archives": [
     {
-      "cms_version": "v1.4 v1.5 v1.6 v1.7 v1.8 1.9",
+      "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
           "plugin_version": "v1.9.2",
           "type": "full",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Magento_1.4-1.9_v1.9.1.zip",
+          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.9.2/Systempay_Magento_1.4-1.9_v1.9.2.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_1.4-1.9_v1.9.2_fr.pdf"
+          },
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
           }
@@ -27,14 +33,23 @@
       ]
     },
     {
-      "cms_version": "1.3",
+      "cms_version": "v 1.3",
+      "deprecated": true,
       "packages": [
         {
           "plugin_version": "v2.13b",
-          "type": "full",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Magento_1.3.2.2_v2.13b.zip",
-          "description": {
-            "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+          "type": "single",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Magento_1.3.2.2_v2.13b.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Magento_1.3.2.2_v2.13b.pdf"
+          }
+        },
+        {
+          "plugin_version": "v1.4a",
+          "type": "multi",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Magento_multi_1.3.2.2_v1.4a.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Magento_multi_1.3.2.2_v1.4a.pdf"
           }
         }
       ]

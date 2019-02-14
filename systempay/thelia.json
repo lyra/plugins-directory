@@ -4,21 +4,35 @@
     "deprecated": true,
     "packages": [
       {
-        "plugin_version": "v1.0",
         "type": "single",
-        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Thelia_1.5.1_v1.0.zip"
+        "plugin_version": "v1.0",
+        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Thelia_1.5.1_v1.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Thelia_1.5.1_v1.0.pdf"
+        }
       }
     ]
   },
   "archives": [
     {
-      "cms_version": "v1.4",
+      "cms_version": "v 1.4",
       "deprecated": true,
       "packages": [
         {
-          "plugin_version": "v1.5a",
           "type": "single",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_Thelia_1.4.2.1_v1.5a.zip"
+          "plugin_version": "v1.5a",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Thelia_1.4.2.1_v1.5a.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Thelia_1.4.2.1_v1.5a.pdf"
+          }
+        },
+        {
+          "type": "multi",
+          "plugin_version": "v1.0a",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Thelia_multi_1.4.2_v1.0a.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Thelia_multi_1.4.2_v1.0a.pdf"
+          }
         }
       ]
     }

@@ -3,9 +3,15 @@
     "cms_version": "v 3",
     "packages": [
       {
-       "plugin_version": "v4.0.0",
+        "plugin_version": "v4.0.0",
         "type": "full",
-        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_OpenCart_3.x_v4.0.0.ocmod.zip"
+        "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v4.0.0/Systempay_OpenCart_3.x_v4.0.0.ocmod.zip",
+        "doc_uri": {
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_OpenCart_3.x_v4.0.0_fr.pdf"
+        },
+        "description": {
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
+        }
       }
     ]
   },
@@ -14,9 +20,12 @@
       "cms_version": "v 2.3",
       "packages": [
         {
-         "plugin_version": "v3.0.0",
+          "plugin_version": "v3.0.0",
           "type": "full",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_OpenCart_2.3.x_v3.0.0.zip"
+          "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v3.0.0/Systempay_OpenCart_2.3.x_v3.0.0.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_OpenCart_2.3.x_v3.0.0.pdf"
+          }
         }
       ]
     },
@@ -24,9 +33,12 @@
       "cms_version": "v 2.0 - 2.2",
       "packages": [
         {
-          "plugin_version": "v2.1.0",
           "type": "full",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_OpenCart_2.0-2.2_v2.1.0.zip"
+          "plugin_version": "v2.1.0",
+          "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v2.1.0/Systempay_OpenCart_2.0-2.2_v2.1.0.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_OpenCart_2.0-2.2_v2.1.0.pdf"
+          }
         }
       ]
     },
@@ -35,9 +47,20 @@
       "deprecated": true,
       "packages": [
         {
-          "type": "single",
           "plugin_version": "v1.2a",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_OpenCart_1.5.5.1_v1.2a.zip"
+          "type": "single",
+          "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v1.2a/Systempay_OpenCart_1.5.5.1_v1.2a.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_OpenCart_1.5.5.1_v1.2a.pdf"
+          }
+        },
+        {
+          "plugin_version": "v1.1a",
+          "type": "multi",
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_OpenCart_multi_1.5.5.1_v1.1a.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_OpenCart_multi_1.5.5.1_v1.1a.pdf"
+          }
         }
       ]
     },
@@ -48,7 +71,10 @@
         {
           "plugin_version": "v1.0c",
           "type": "single",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/fr-FR/Systempay_OpenCart_1.4.9_v1.0c.zip"
+          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_OpenCart_1.4.9_v1.0c.zip",
+          "doc_uri": {
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_opencart_1.4.9_v1.0c.pdf"
+          }
         }
       ]
     }

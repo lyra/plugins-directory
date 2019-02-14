@@ -1,0 +1,18 @@
+{
+  "current": {
+    "cms_version": "v 4.x - 5.x",
+    "packages": [
+      {
+        "plugin_version": "v1.2.0",
+        "type": "single",
+        "plugin_uri": "https://github.com/payzen/plugin-shopware/releases/download/v1.2.0/Systempay_ShopWare_4.x-5.x_v1.2.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_ShopWare_4.x-5.x_v1.2.0_fr.pdf"
+        },
+        "description": {
+          "default": "SHA-1 / HMAC-SHA-256 compliant"
+        }
+      }
+    ]
+  }
+}

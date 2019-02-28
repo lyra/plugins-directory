@@ -17,5 +17,11 @@
     "logo": "woocommerce.png",
     "labels": "WordPress",
     "category": "regular"
+  },
+  {
+    "title": "Shopify",
+    "logo": "shopify.png",
+    "slug": "shopify",
+    "category": "commercial"
   }
 ]

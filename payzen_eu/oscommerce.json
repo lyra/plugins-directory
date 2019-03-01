@@ -4,10 +4,14 @@
     "packages": [
       {
         "type": "full",
-        "plugin_version": "v1.2.0",
-        "plugin_uri": "https://github.com/payzen/plugin-oscommerce/releases/download/v1.2.0/PayZen_osCommerce_2.3.x_v1.2.0.zip",
+        "plugin_version": "v1.3.1",
+        "plugin_uri": "https://github.com/payzen/plugin-oscommerce/releases/download/v1.3.1/PayZen_osCommerce_2.3.x_v1.3.1.zip",
         "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_osCommerce_2.3.x_v1.2.0.pdf"
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_osCommerce_2.3.x_v1.3_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_osCommerce_2.3.x_v1.3_en.pdf"
+        },
+        "description": {
+          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
         }
       }
     ]

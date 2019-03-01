@@ -249,43 +249,5 @@
     "slug": "django",
     "logo": "django.png",
     "category": "request"
-  },
-  {
-    "title": "UGAL",
-    "logo": "ugal.png",
-    "slug": "ugal",
-    "category": "commercial"
-  },
-  {
-    "title": "KingEshop",
-    "logo": "kingeshop.png",
-    "slug": "kingeshop",
-    "category": "commercial"
-  },
-  {
-    "title": "AceShop",
-    "logo": "aceshop.png",
-    "slug": "aceshop",
-    "labels": "Joomla",
-    "category": "commercial"
-  },
-  {
-    "title": "commerce:seo",
-    "logo": "commerceseo.png",
-    "slug": "commerceseo",
-    "category": "commercial"
-  },
-  {
-    "title": "JTL",
-    "logo": "jtl.png",
-    "slug": "jtl",
-    "category": "commercial"
-  },
-  {
-    "title": "JigoShop",
-    "logo": "jigoshop.png",
-    "slug": "jigoshop",
-    "labels": "WordPress",
-    "category": "commercial"
   }
 ]

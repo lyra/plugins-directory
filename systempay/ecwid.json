@@ -1,0 +1,15 @@
+{
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_version": "v1.0.2",
+        "type": "single",
+        "plugin_uri": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/ecwid/sitemap.html",
+        "doc_uri": {
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Ecwid_v1.0.2_fr.pdf"
+        }
+      }
+    ]
+  }
+}

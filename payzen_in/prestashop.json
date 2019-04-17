@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.10.2",
         "type": "single",
-        "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.10.2/PayZen_IN_PrestaShop_1.5-1.7_v1.10.2.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.10.2/PayZen_IN_PrestaShop_1.5-1.7_v1.10.2.zip",
         "doc_uri": {
           "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_PrestaShop_1.5-1.7_v1.10.2_en.pdf"
         },
@@ -22,7 +22,7 @@
         {
           "plugin_version": "v1.4.7",
           "type": "single",
-          "plugin_uri": "https://github.com/payzen/plugin-prestashop/releases/download/v1.4.7/PayZen_IN_PrestaShop_1.4_v1.4.7.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.4.7/PayZen_IN_PrestaShop_1.4_v1.4.7.zip",
           "doc_uri": {
             "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_PrestaShop_1.4_v1.4.7_en.pdf"
           },

@@ -3,7 +3,7 @@
     "cms_version": "v 1.0.7",
     "packages": [
       {
-        "plugin_uri": "https://github.com/payzen/plugin-thecartpress/releases/download/v1.0d/PayZen_TheCartPress_1.0.7_v1.0d.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-thecartpress/releases/download/v1.0d/PayZen_TheCartPress_1.0.7_v1.0d.zip",
         "doc_uri": {
           "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_TheCartPress_1.0.7_v1.0d.pdf"
         },

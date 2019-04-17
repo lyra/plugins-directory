@@ -5,7 +5,7 @@
       {
         "type": "full",
         "plugin_version": "v1.3.1",
-        "plugin_uri": "https://github.com/payzen/plugin-oscommerce/releases/download/v1.3.1/PayZen_osCommerce_2.3.x_v1.3.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.1/PayZen_osCommerce_2.3.x_v1.3.1.zip",
         "doc_uri": {
           "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_osCommerce_2.3.x_v1.3_fr.pdf",
           "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_osCommerce_2.3.x_v1.3_en.pdf"

@@ -3,7 +3,7 @@
     "cms_version": "v 1.3.8 & ++",
     "packages": [
       {
-        "plugin_uri": "https://github.com/payzen/plugin-zencart/releases/download/v1.5.0/PayZen_zencart_1.3.x_v1.5.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-zencart/releases/download/v1.5.0/PayZen_zencart_1.3.x_v1.5.0.zip",
         "doc_uri": {
           "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_zencart_1.3.x_v1.5.0.pdf"
         },

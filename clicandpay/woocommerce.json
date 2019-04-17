@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.7.0",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.7.0/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-3.x_v1.7.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.7.0/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-3.x_v1.7.0.zip",
         "doc_uri": {
           "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-3.x_v1.7_fr.pdf"
         },

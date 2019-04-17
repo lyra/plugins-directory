@@ -5,7 +5,7 @@
       {
         "plugin_version": "v2.3.2",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v2.3.2/Lyra_Magento_2.x_v2.3.2.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.3.2/Lyra_Magento_2.x_v2.3.2.zip",
         "doc_uri": {
           "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Magento_2.x_v2.3.2_fr.pdf",
           "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Magento_2.x_v2.3.2_en.pdf"
@@ -23,7 +23,7 @@
         {
           "plugin_version": "v1.9.2",
           "type": "full",
-          "plugin_uri": "https://github.com/payzen/plugin-magento/releases/download/v1.9.2/Lyra_Magento_1.4-1.9_v1.9.2.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.9.2/Lyra_Magento_1.4-1.9_v1.9.2.zip",
           "doc_uri": {
             "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Magento_1.4-1.9_v1.9.2_fr.pdf",
             "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Magento_1.4-1.9_v1.9.2_en.pdf"

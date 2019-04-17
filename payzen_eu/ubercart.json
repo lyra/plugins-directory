@@ -3,7 +3,7 @@
     "cms_version": "v 7.x-3.x",
     "packages": [
       {
-        "plugin_uri": "https://github.com/payzen/plugin-ubercart/releases/download/v1.0/PayZen_Ubercart_3.0_v1.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-ubercart/releases/download/v1.0/PayZen_Ubercart_3.0_v1.0.zip",
         "doc_uri": {
           "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Ubercart_3.0_v1.0.pdf"
         },

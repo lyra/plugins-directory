@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.3.1",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-oscommerce/releases/download/v1.3.1/Systempay_osCommerce_2.3.x_v1.3.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.1/Systempay_osCommerce_2.3.x_v1.3.1.zip",
         "doc_uri": {
           "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_osCommerce_2.3.x_v1.3_fr.pdf"
         },

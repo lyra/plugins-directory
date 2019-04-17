@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.7.0",
         "type": "single",
-        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.7.0/PayZen_IN_WooCommerce_2.x-3.x_v1.7.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.7.0/PayZen_IN_WooCommerce_2.x-3.x_v1.7.0.zip",
         "doc_uri": {
           "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_WooCommerce_2.x-3.x_v1.7_en.pdf"
         },

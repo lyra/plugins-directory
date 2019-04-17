@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.0.0",
         "type": "single",
-        "plugin_uri": "https://github.com/payzen/plugin-odoo/releases/download/v1.0.0/Sogecommerce_Odoo_10.x_v1.0.0.zip"
+        "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.0.0/Sogecommerce_Odoo_10.x_v1.0.0.zip"
       }
     ]
   }

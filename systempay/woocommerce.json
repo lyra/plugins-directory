@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.7.0",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.7.0/Systempay_WooCommerce_2.x-3.x_v1.7.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.7.0/Systempay_WooCommerce_2.x-3.x_v1.7.0.zip",
         "doc_uri": {
           "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_WooCommerce_2.x-3.x_v1.7_fr.pdf"
         },
@@ -23,7 +23,7 @@
         {
           "plugin_version": "v1.0a",
           "type": "single",
-          "plugin_uri": "https://github.com/payzen/plugin-woocommerce/releases/download/v1.0a/Systempay_WooCommerce_1.5.6_v1.0a.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.0a/Systempay_WooCommerce_1.5.6_v1.0a.zip",
           "doc_uri": {
             "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_WooCommerce_1.5.6_v1.0a.pdf"
           }

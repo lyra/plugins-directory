@@ -5,7 +5,7 @@
       {
         "plugin_version": "v4.0.0",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v4.0.0/Systempay_OpenCart_3.x_v4.0.0.ocmod.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.0.0/Systempay_OpenCart_3.x_v4.0.0.ocmod.zip",
         "doc_uri": {
           "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_OpenCart_3.x_v4.0.0_fr.pdf"
         },
@@ -22,7 +22,7 @@
         {
           "plugin_version": "v3.0.0",
           "type": "full",
-          "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v3.0.0/Systempay_OpenCart_2.3.x_v3.0.0.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.0.0/Systempay_OpenCart_2.3.x_v3.0.0.zip",
           "doc_uri": {
             "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_OpenCart_2.3.x_v3.0.0.pdf"
           }
@@ -35,7 +35,7 @@
         {
           "type": "full",
           "plugin_version": "v2.1.0",
-          "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v2.1.0/Systempay_OpenCart_2.0-2.2_v2.1.0.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v2.1.0/Systempay_OpenCart_2.0-2.2_v2.1.0.zip",
           "doc_uri": {
             "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_OpenCart_2.0-2.2_v2.1.0.pdf"
           }
@@ -49,7 +49,7 @@
         {
           "plugin_version": "v1.2a",
           "type": "single",
-          "plugin_uri": "https://github.com/payzen/plugin-opencart/releases/download/v1.2a/Systempay_OpenCart_1.5.5.1_v1.2a.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v1.2a/Systempay_OpenCart_1.5.5.1_v1.2a.zip",
           "doc_uri": {
             "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_OpenCart_1.5.5.1_v1.2a.pdf"
           }

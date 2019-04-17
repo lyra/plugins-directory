@@ -5,7 +5,7 @@
       {
         "plugin_version": "v2.0.1",
         "type": "full",
-        "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v2.0.1/Systempay_Drupal_Commerce_8.x-2.x_v2.0.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.1/Systempay_Drupal_Commerce_8.x-2.x_v2.0.1.zip",
         "doc_uri": {
           "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Drupal_Commerce_8.x-2.x_v2.0.1_fr.pdf"
         },
@@ -22,7 +22,7 @@
         {
           "plugin_version": "v1.2.0",
           "type": "full",
-          "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v1.2.0/Systempay_Drupal_Commerce_7.x-1.x_v1.2.0.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.2.0/Systempay_Drupal_Commerce_7.x-1.x_v1.2.0.zip",
           "doc_uri": {
             "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Drupal_Commerce_7.x-1.x_v1.2.0.pdf"
           }

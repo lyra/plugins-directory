@@ -5,7 +5,7 @@
       {
         "plugin_version": "v2.0.1",
         "type": "single",
-        "plugin_uri": "https://github.com/payzen/plugin-drupalcommerce/releases/download/v2.0.1/PayZen_IN_Drupal_Commerce_8.x-2.x_v2.0.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.1/PayZen_IN_Drupal_Commerce_8.x-2.x_v2.0.1.zip",
         "doc_uri": {
           "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_Drupal_Commerce_8.x-2.x_v2.0.1_en.pdf"
         },

@@ -1,0 +1,36 @@
+{
+  "current": {
+    "cms_version": "v 2.x",
+    "packages": [
+      {
+        "plugin_version": "v2.3.3",
+        "type": "single",
+        "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.3.3/Cobro_Inmediato_Magento_2.x_v2.3.3.zip",
+        "doc_uri": {
+          "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_Magento_2.x_v2.3.3_es.pdf"
+        },
+        "description": {
+          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
+        }
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v 1.4 - 1.9",
+      "packages": [
+        {
+          "plugin_version": "v1.9.3",
+          "type": "single",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.9.3/Cobro_Inmediato_Magento_1.4-1.9_v1.9.3.zip",
+          "doc_uri": {
+            "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_Magento_1.4-1.9_v1.9.3_es.pdf"
+          },
+          "description": {
+            "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+          }
+        }
+      ]
+    }
+  ]
+}

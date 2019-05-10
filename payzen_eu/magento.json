@@ -21,11 +21,11 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.9.2",
+          "plugin_version": "v1.9.3",
           "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.9.2/PayZen_Magento_1.4-1.9_v1.9.2.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.9.3/PayZen_Magento_1.4-1.9_v1.9.3.zip",
           "doc_uri": {
-            "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Magento_1.4-1.9_v1.9.2_fr.pdf",
+            "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Magento_1.4-1.9_v1.9.3_fr.pdf",
             "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Magento_1.4-1.9_v1.9.2_en.pdf"
           },
           "description": {

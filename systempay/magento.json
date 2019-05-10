@@ -20,11 +20,11 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.9.2",
+          "plugin_version": "v1.9.3",
           "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.9.2/Systempay_Magento_1.4-1.9_v1.9.2.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.9.3/Systempay_Magento_1.4-1.9_v1.9.3.zip",
           "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_1.4-1.9_v1.9.2_fr.pdf"
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_1.4-1.9_v1.9.3_fr.pdf"
           },
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

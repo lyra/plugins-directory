@@ -3,9 +3,9 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_version": "v1.0.2",
+        "plugin_version": "v1.1.0",
         "type": "single",
-        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Ecwid_v1.0.2_fr.pdf"
+        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Ecwid_v1.1.0_fr.pdf"
       }
     ]
   }

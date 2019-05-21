@@ -1,0 +1,38 @@
+{
+  "current": {
+    "cms_version": "v 2.x - 3.x",
+    "packages": [
+      {
+        "plugin_version": "v2.1.0",
+        "type": "full",
+        "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.1.0/PayZen_HikaShop_2.x-3.x_v2.1.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_HikaShop_2.x-3.x_v2.1_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_HikaShop_2.x-3.x_v2.1_de.pdf"
+        },
+        "description": {
+          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+        }
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v 1.x",
+      "packages": [
+        {
+          "type": "single",
+          "plugin_version": "v1.0d",
+          "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v1.0d/PayZen_hikashop_1.4.7_v1.0d.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_hikashop_1.4.7_v1.0d.pdf"
+        },
+        {
+          "type": "multi",
+          "plugin_version": "v1.0c",
+          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_hikashop_multi_1.4.7_v1.0c.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_HikaShop_multi_1.4.7_v1.0c.pdf"
+        }
+      ]
+    }
+  ]
+}

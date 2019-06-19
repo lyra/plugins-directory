@@ -60,7 +60,7 @@
     "title": "Odoo",
     "logo": "odoo.png",
     "slug": "odoo",
-    "category": "request"
+    "category": "regular"
   },
   {
     "title": "Drupal Commerce",

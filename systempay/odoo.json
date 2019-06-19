@@ -5,10 +5,9 @@
       {
         "plugin_version": "v1.1.0",
         "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.1.0/PayZen_Odoo_10-12_v1.1.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.1.0/Systempay_Odoo_10-12_v1.1.0.zip",
         "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_10-12_v1.1_fr.pdf",
-          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_10-12_v1.1_en.pdf"
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Odoo_10-12_v1.1_fr.pdf"
         },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires Python 2.7 or higher"

@@ -15,19 +15,5 @@
         }
       }
     ]
-  },
-  "archives": [
-    {
-      "cms_version": "v 2.x",
-      "deprecated": true,
-      "packages": [
-        {
-          "type": "single",
-          "plugin_version": "v1.3a",
-          "plugin_uri": "https://github.com/lyra/plugin-cscart/releases/download/v1.3a/PayZen_cscart_2.0.12_v1.3a.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_cscart_2.0.12_v1.3a.pdf"
-        }
-      ]
-    }
-  ]
+  }
 }

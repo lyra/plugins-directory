@@ -1,0 +1,19 @@
+{
+  "current": {
+    "cms_version": "v 4.x",
+    "packages": [
+      {
+        "plugin_version": "v2.1.0",
+        "type": "single",
+        "plugin_uri": "https://github.com/lyra/plugin-cscart/releases/download/v2.1.0/ClicAndPay_By_groupe_Credit_du_Nord_CS-Cart_4.x_v2.1.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_CS-Cart_4.x_v2.1_fr.pdf",
+          "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_CS-Cart_4.x_v2.1_en.pdf"
+        },
+        "description": {
+          "default": "&#9658; Requires PHP 5.6 or higher"
+        }
+      }
+    ]
+  }
+}

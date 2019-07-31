@@ -3,9 +3,9 @@
     "cms_version": "v 1.5 - 1.7",
     "packages": [
       {
-        "plugin_version": "v1.11.1",
+        "plugin_version": "v1.11.2",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.11.1/ClicAndPay_By_groupe_Credit_du_Nord_PrestaShop_1.5-1.7_v1.11.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.11.2/ClicAndPay_By_groupe_Credit_du_Nord_PrestaShop_1.5-1.7_v1.11.2.zip",
         "doc_uri": {
           "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_PrestaShop_1.5-1.7_v1.11_fr.pdf",
           "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_PrestaShop_1.5-1.7_v1.11_en.pdf"

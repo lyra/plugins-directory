@@ -54,14 +54,6 @@
           "doc_uri": {
             "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Prestashop_1.2.4.0_v2.9a.pdf"
           }
-        },
-        {
-          "plugin_version": "v1.6a",
-          "type": "multi",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Prestashop_multi_1.2.4.0_v1.6a.zip",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Prestashop_multi_1.2.4.0_v1.6a.pdf"
-          }
         }
       ]
     }

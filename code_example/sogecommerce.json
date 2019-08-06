@@ -1,0 +1,38 @@
+[
+  {
+    "title": "PHP",
+    "code": [
+      {
+        "name": "Payment Form",
+        "version": "0.2.1",
+        "link": false,
+        "zip": "https://github.com/lyra/php-payment-form-examples/releases/download/v0.2.1/Sogecommerce_php-payment-form-examples_v0.2.1.zip",
+        "display": ["fr-FR"]
+      }
+    ]
+  },
+  {
+    "title": "Python",
+    "code": [
+      {
+        "name": "Payment Form",
+        "version": "0.1.0",
+        "link": false,
+        "zip": "https://github.com/lyra/python-payment-form-examples/releases/download/v0.1.0/Sogecommerce_python-payment-form-examples_v0.1.0.zip",
+        "display": ["fr-FR"]
+      }
+    ]
+  },
+  {
+    "title": "ASP",
+    "code": [
+      {
+        "name": "Payment Form",
+        "version": "0.1.0",
+        "link": false,
+        "zip": "https://github.com/lyra/asp-payment-form-examples/releases/download/v0.1.0/Sogecommerce_asp-payment-form-examples_v0.1.0.zip",
+        "display": ["fr-FR"]
+      }
+    ]
+  }
+]

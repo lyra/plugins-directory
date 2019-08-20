@@ -3,9 +3,9 @@
     "cms_version": "v 2.x",
     "packages": [
       {
-        "plugin_version": "v2.4.1",
+        "plugin_version": "v2.4.2",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.4.1/Systempay_Magento_2.x_v2.4.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.4.2/Systempay_Magento_2.x_v2.4.2.zip",
         "doc_uri": {
           "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_2.x_v2.4_fr.pdf"
         },

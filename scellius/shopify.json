@@ -1,0 +1,12 @@
+{
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_version": "v1.0.5",
+        "type": "single",
+        "plugin_uri": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Shopify_v1.0.5_fr.pdf"
+      }
+    ]
+  }
+}

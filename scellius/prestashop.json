@@ -1,0 +1,18 @@
+{
+  "current": {
+    "cms_version": "v 1.5 - 1.7",
+    "packages": [
+      {
+        "plugin_version": "v1.11.2",
+        "type": "full",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.11.2/Scellius_PrestaShop_1.5-1.7_v1.11.2.zip",
+        "doc_uri": {
+          "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_PrestaShop_1.5-1.7_v1.11_fr.pdf"
+        },
+        "description": {
+          "default": "&#9658; Requires PHP 5.3 or higher"
+        }
+      }
+    ]
+  }
+}

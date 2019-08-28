@@ -20,11 +20,11 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.9.4",
+          "plugin_version": "v1.10.0",
           "type": "single",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.9.4/Cobro_Inmediato_Magento_1.4-1.9_v1.9.4.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.0/Cobro_Inmediato_Magento_1.4-1.9_v1.10.0.zip",
           "doc_uri": {
-            "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_Magento_1.4-1.9_v1.9.4_es.pdf"
+            "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_Magento_1.4-1.9_v1.10_es.pdf"
           },
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

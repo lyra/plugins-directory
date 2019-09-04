@@ -3,7 +3,7 @@
     "title": "PrestaShop",
     "slug": "prestashop",
     "logo": "prestashop.png",
-    "category": "request"
+    "category": "regular"
   },
   {
     "title": "Magento",
@@ -16,7 +16,7 @@
     "slug": "woocommerce",
     "logo": "woocommerce.png",
     "labels": "WordPress",
-    "category": "request"
+    "category": "regular"
   },
   {
     "title": "OpenCart",

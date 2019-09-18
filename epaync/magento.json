@@ -1,0 +1,36 @@
+{
+  "current": {
+    "cms_version": "v 2.x",
+    "packages": [
+      {
+        "plugin_version": "v2.4.2",
+        "type": "full",
+        "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.4.2/EpayNC_Magento_2.x_v2.4.2.zip",
+        "doc_uri": {
+          "fr-FR": "https://www.epaync.nc/doc/files/module/doc/EpayNC_Magento_2.x_v2.4_fr.pdf"
+        },
+        "description": {
+          "default": "&#9658; Requires PHP 5.6 or higher"
+        }
+      }
+    ]
+  },
+  "archives": [
+    {
+      "cms_version": "v 1.4 - 1.9",
+      "packages": [
+        {
+          "plugin_version": "v1.10.0",
+          "type": "full",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.0/EpayNC_Magento_1.4-1.9_v1.10.0.zip",
+          "doc_uri": {
+            "fr-FR": "https://www.epaync.nc/doc/files/module/doc/EpayNC_Magento_1.4-1.9_v1.10_fr.pdf"
+          },
+          "description": {
+            "default": "&#9658; Requires PHP 5.3 or higher"
+          }
+        }
+      ]
+    }
+  ]
+}

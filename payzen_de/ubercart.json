@@ -16,19 +16,5 @@
         }
       }
     ]
-  },
-  "archives": [
-    {
-      "cms_version": "v 6.x - 2.x",
-      "deprecated": true,
-      "packages": [
-        {
-          "type": "single",
-          "plugin_version": "v1.5b",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Ubercart_2.2_v1.5b.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Ubercart_2.2_v1.5b.pdf"
-        }
-      ]
-    }
-  ]
+  }
 }

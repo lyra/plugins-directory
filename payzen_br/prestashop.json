@@ -1,13 +1,13 @@
 {
   "current": {
-    "cms_version": "v 1.5 - 1.7",
+    "cms_version": "v 1.7",
     "packages": [
       {
-        "plugin_version": "v1.0.0",
+        "plugin_version": "v1.0.10",
         "type": "full",
-        "plugin_uri": "https://payzen.io/files/module/pt-BR/PayZen_BR_PrestaShop_1.5-1.7_v1.0.0.zip",
+        "plugin_uri": "https://payzen.io/files/module/br/Payzen_PrestaShop_v10.zip",
         "doc_uri": {
-          "pt-BR": "https://payzen.io/files/module/doc/pt-BR/PayZen_BR_PrestaShop_1.5-1.7_v1.0.0_pt.pdf"
+          "pt-BR": "https://payzen.io/files/module/doc/br/Payzen_PrestaShop_v10_pt.pdf"
         }
       }
     ]

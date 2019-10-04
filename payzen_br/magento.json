@@ -1,13 +1,13 @@
 {
   "current": {
-    "cms_version": "v 2.x",
+    "cms_version": "v 2.0 - 2.3",
     "packages": [
       {
-        "plugin_version": "v1.0.0",
+        "plugin_version": "v2.0.5",
         "type": "full",
-        "plugin_uri": "https://payzen.io/files/module/pt-BR/PayZen_BR_Magento_2.x_v1.0.0.zip",
+        "plugin_uri": "https://payzen.io/files/module/br/PayZen_Magento2_v5.zip",
         "doc_uri": {
-          "pt-BR": "https://payzen.io/files/module/doc/pt-BR/PayZen_BR_Magento_2.x_v1.0.0_pt.pdf"
+          "pt-BR": "https://payzen.io/files/module/doc/br/PayZen_Magento2_v5_pt.pdf"
         }
       }
     ]

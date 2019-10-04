@@ -1,13 +1,13 @@
 {
   "current": {
-    "cms_version": "v 2.x - 3.x",
+    "cms_version": "v 3.6",
     "packages": [
       {
-        "plugin_version": "v1.0.0",
+        "plugin_version": "v1.0.27",
         "type": "full",
-        "plugin_uri": "https://payzen.io/files/module/pt-BR/PayZen_BR_WooCommerce_3.x_v1.0.0.zip",
+        "plugin_uri": "https://payzen.io/files/module/br/Payzen_WooCommerce_v27.zip",
         "doc_uri": {
-          "pt-BR": "https://payzen.io/files/module/doc/pt-BR/PayZen_BR_WooCommerce_2.x-3.x_v1.0.0_pt.pdf"
+          "pt-BR": "https://payzen.io/files/module/doc/br/Payzen_WooCommerce_v27_pt.pdf"
         }
       }
     ]

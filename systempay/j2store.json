@@ -5,9 +5,9 @@
       {
         "plugin_version": "v1.0.0",
         "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-j2store/releases/download/v1.0.0/PayZen_J2Store_3.x_v1.0.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-j2store/releases/download/v1.0.0/Systempay_J2Store_3.x_v1.0.0.zip",
         "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_J2Store_3.x_v1.0_fr.pdf"
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_J2Store_3.x_v1.0_fr.pdf"
         },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.5 or higher"

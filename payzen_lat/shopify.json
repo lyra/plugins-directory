@@ -3,9 +3,9 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_version": "v1.0.5",
+        "plugin_version": "v1.1.0",
         "type": "single",
-        "plugin_uri": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Shopify_v1.0.5_es.pdf"
+        "plugin_uri": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Shopify_v1.1_es.pdf"
       }
     ]
   }

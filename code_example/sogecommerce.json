@@ -36,6 +36,18 @@
     ]
   },
   {
+    "title": "JAVA",
+    "code": [
+      {
+        "name": "Mobile payment Server integration",
+        "version": "1.1",
+        "link": false,
+        "zip": "https://github.com/lyra/webview-payment-sparkjava-integration-sample",
+        "display": ["fr-FR", "en-EN"]
+      }
+    ]
+  },
+  {
     "title": "Kotlin",
     "code": [
       {

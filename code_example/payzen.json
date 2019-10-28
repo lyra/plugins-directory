@@ -75,6 +75,13 @@
         "zip": "https://github.com/payzen/payzen-soapwebservice-java-example/archive/master.zip",
         "label": "payzen",
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      },
+      {
+        "name": "Mobile payment Server integration",
+        "version": "1.1",
+        "link": false,
+        "zip": "https://github.com/lyra/webview-payment-sparkjava-integration-sample",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
       }
     ]
   },
@@ -88,6 +95,30 @@
         "zip": "https://github.com/lyra/asp-payment-form-examples/archive/master.zip",
         "label": "payzen",
         "display": ["fr-FR"]
+      }
+    ]
+  },
+  {
+    "title": "Kotlin",
+    "code": [
+      {
+        "name": "Mobile payment via webview",
+        "version": "1.1",
+        "zip": "https://github.com/lyra/webview-payment-android-integration-sample",
+        "link": false,
+        "display": ["fr-FR", "en-EN"]
+      }
+    ]
+  },
+  {
+    "title": "Swift",
+    "code": [
+      {
+        "name": "Mobile payment via webview",
+        "version": "1.1",
+        "zip": "https://github.com/lyra/webview-payment-ios-integration-sample",
+        "link": false,
+        "display": ["fr-FR", "en-EN"]
       }
     ]
   }

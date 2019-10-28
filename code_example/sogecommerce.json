@@ -41,8 +41,8 @@
       {
         "name": "Mobile payment via webview",
         "version": "1.1",
-        "link": "https://github.com/lyra/webview-payment-android-integration-sample",
-        "zip": false,
+        "zip": "https://github.com/lyra/webview-payment-android-integration-sample",
+        "link": false,
         "display": ["fr-FR", "en-EN"]
       }
     ]
@@ -53,8 +53,8 @@
       {
         "name": "Mobile payment via webview",
         "version": "1.1",
-        "link": "https://github.com/lyra/webview-payment-ios-integration-sample",
-        "zip": false,
+        "zip": "https://github.com/lyra/webview-payment-ios-integration-sample",
+        "link": false,
         "display": ["fr-FR", "en-EN"]
       }
     ]

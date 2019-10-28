@@ -79,15 +79,15 @@
       {
         "name": "Mobile payment Server integration",
         "version": "1.1",
-        "link": false,
-        "zip": "https://github.com/lyra/webview-payment-sparkjava-integration-sample",
+        "link": "https://github.com/lyra/webview-payment-sparkjava-integration-sample",
+        "zip": "https://github.com/lyra/webview-payment-sparkjava-integration-sample/archive/v1.1.zip",
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
       },
       {
         "name": "Google Pay mobile Server integration",
         "version": "1.0",
-        "link": false,
-        "zip": "https://github.com/lyra/googlepay-payment-sparkjava-integration-sample",
+        "link": "https://github.com/lyra/googlepay-payment-sparkjava-integration-sample",
+        "zip": "https://github.com/lyra/googlepay-payment-sparkjava-integration-sample/archive/v1.0.0.zip",
         "display": ["fr-FR", "en-EN"]
       }
     ]
@@ -111,15 +111,15 @@
       {
         "name": "Mobile payment via webview",
         "version": "1.1",
-        "zip": "https://github.com/lyra/webview-payment-android-integration-sample",
-        "link": false,
+        "zip": "https://github.com/lyra/webview-payment-android-integration-sample/releases",
+        "link": "https://github.com/lyra/webview-payment-android-integration-sample",
         "display": ["fr-FR", "en-EN", "de-DE"]
       },
       {
         "name": "Google Pay mobile integration",
         "version": "1.0",
-        "zip": "https://github.com/lyra/googlepay-payment-android-integration-sample",
-        "link": false,
+        "zip": "https://github.com/lyra/googlepay-payment-android-integration-sample/archive/v1.0.0.zip",
+        "link": "https://github.com/lyra/googlepay-payment-android-integration-sample",
         "display": ["fr-FR", "en-EN"]
       }
     ]
@@ -130,8 +130,8 @@
       {
         "name": "Mobile payment via webview",
         "version": "1.1",
-        "zip": "https://github.com/lyra/webview-payment-ios-integration-sample",
-        "link": false,
+        "zip": "https://github.com/lyra/webview-payment-ios-integration-sample/releases",
+        "link": "https://github.com/lyra/webview-payment-ios-integration-sample",
         "display": ["fr-FR", "en-EN", "de-DE"]
       }
     ]

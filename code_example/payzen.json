@@ -82,6 +82,13 @@
         "link": false,
         "zip": "https://github.com/lyra/webview-payment-sparkjava-integration-sample",
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      },
+      {
+        "name": "Google Pay mobile Server integration",
+        "version": "1.0",
+        "link": false,
+        "zip": "https://github.com/lyra/googlepay-payment-sparkjava-integration-sample",
+        "display": ["fr-FR", "en-EN"]
       }
     ]
   },
@@ -106,6 +113,13 @@
         "version": "1.1",
         "zip": "https://github.com/lyra/webview-payment-android-integration-sample",
         "link": false,
+        "display": ["fr-FR", "en-EN", "de-DE"]
+      },
+      {
+        "name": "Google Pay mobile integration",
+        "version": "1.0",
+        "zip": "https://github.com/lyra/googlepay-payment-android-integration-sample",
+        "link": false,
         "display": ["fr-FR", "en-EN"]
       }
     ]
@@ -118,7 +132,7 @@
         "version": "1.1",
         "zip": "https://github.com/lyra/webview-payment-ios-integration-sample",
         "link": false,
-        "display": ["fr-FR", "en-EN"]
+        "display": ["fr-FR", "en-EN", "de-DE"]
       }
     ]
   }

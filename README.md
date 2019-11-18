@@ -68,6 +68,9 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
             "fr-FR": "PayZen_PrestaShop_1.5-1.7_v1.8.1_fr.pdf", // STRING
             "en-EN": "PayZen_PrestaShop_1.5-1.7_v1.8.1_en.pdf", // STRING
           }, // may be OBJECT - documentation by languages ...
+          "online_doc_uri":{
+            "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/magento2/sitemap.html", // STRING
+           },
           "type": "full" // STRING - possible values : full, multi and single
         }
       ]

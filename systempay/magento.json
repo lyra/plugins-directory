@@ -20,9 +20,9 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.10.0",
+          "plugin_version": "v1.10.1",
           "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.0/Systempay_Magento_1.4-1.9_v1.10.0.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.1/Systempay_Magento_1.4-1.9_v1.10.1.zip",
           "doc_uri": {
             "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_1.4-1.9_v1.10_fr.pdf"
           },

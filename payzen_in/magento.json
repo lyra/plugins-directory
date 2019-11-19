@@ -20,9 +20,9 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.10.0",
+          "plugin_version": "v1.10.1",
           "type": "single",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.0/PayZen_IN_Magento_1.4-1.9_v1.10.0.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.1/PayZen_IN_Magento_1.4-1.9_v1.10.1.zip",
           "doc_uri": {
             "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_Magento_1.4-1.9_v1.10_en.pdf"
           },

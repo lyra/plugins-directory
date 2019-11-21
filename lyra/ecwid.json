@@ -9,6 +9,9 @@
         "doc_uri": {
           "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Ecwid_v1.1_fr.pdf",
           "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Ecwid_v1.1_en.pdf"
+        },
+        "online_doc_uri": {
+          "fr-FR": "https://lyra.com/doc/fr/collect/module-de-paiement-gratuit/ecwid/sitemap.html"
         }
       }
     ]

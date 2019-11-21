@@ -8,6 +8,10 @@
           "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_3.x_v4.0.0_fr.pdf",
           "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_3.x_v4.0.0_en.pdf"
         },
+        "online_doc_uri": {
+          "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/opencart3/sitemap.html",
+          "en-EN": "https://payzen.io/en-EN/free-payment-plugins/opencart3/sitemap.html"
+        },
         "plugin_version": "v4.0.0",
         "type": "full",
         "description": {

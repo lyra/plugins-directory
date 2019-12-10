@@ -1,0 +1,18 @@
+{
+  "current": {
+    "cms_version": "v 2.x - 3.x",
+    "packages": [
+      {
+        "plugin_version": "v1.8.0",
+        "type": "single",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.0/Cobro_Inmediato_WooCommerce_2.x-3.x_v1.8.0.zip",
+        "doc_uri": {
+          "es-CO": "https://secure.payty.com/doc/files/module/doc/Payty_WooCommerce_2.x-3.x_v1.8_es.pdf"
+        },
+        "description": {
+          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+        }
+      }
+    ]
+  }
+}

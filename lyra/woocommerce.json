@@ -3,12 +3,12 @@
     "cms_version": "v 2.x - 3.x",
     "packages": [
       {
-        "plugin_version": "v1.7.1",
+        "plugin_version": "v1.8.0",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.7.1/Lyra_WooCommerce_2.x-3.x_v1.7.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.0/Lyra_WooCommerce_2.x-3.x_v1.8.0.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_WooCommerce_2.x-3.x_v1.7_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_WooCommerce_2.x-3.x_v1.7_en.pdf"
+          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_WooCommerce_2.x-3.x_v1.8_fr.pdf",
+          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_WooCommerce_2.x-3.x_v1.8_en.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/woocommerce/sitemap.html"

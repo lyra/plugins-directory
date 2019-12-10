@@ -3,11 +3,11 @@
     "cms_version": "v 2.x - 3.x",
     "packages": [
       {
-        "plugin_version": "v1.7.1",
+        "plugin_version": "v1.8.0",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.7.1/EpayNC_WooCommerce_2.x-3.x_v1.7.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.0/EpayNC_WooCommerce_2.x-3.x_v1.8.0.zip",
         "doc_uri": {
-          "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_WooCommerce_2.x-3.x_v1.7_fr.pdf"
+          "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_WooCommerce_2.x-3.x_v1.8_fr.pdf"
         },
         "description": {
           "default": "&#9658; Requires PHP 5.3 or higher"

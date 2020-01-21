@@ -22,9 +22,9 @@
       "packages": [
         {
           "type": "single",
-          "plugin_version": "v1.0",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Thelia_1.5.1_v1.0.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Thelia_1.5.1_v1.0.pdf"
+          "plugin_version": "v1.0.1",
+          "plugin_uri": "https://payzen.io/files/module/eu/PayZen_Thelia_1.5.x_v1.0.1.zip",
+          "doc_uri": "https://payzen.io/files/module/doc/eu/PayZen_Thelia_1.5.x_v1.0_fr.pdf"
         }
       ]
     },

@@ -5,10 +5,10 @@
     "packages": [
       {
         "type": "single",
-        "plugin_version": "v1.0",
-        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Thelia_1.5.1_v1.0.zip",
+        "plugin_version": "v1.0.1",
+        "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Thelia_1.5.x_v1.0.1.zip",
         "doc_uri": {
-          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Thelia_1.5.1_v1.0.pdf"
+          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Thelia_1.5.x_v1.0_fr.pdf"
         }
       }
     ]

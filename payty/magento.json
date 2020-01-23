@@ -14,5 +14,23 @@
         }
       }
     ]
-  }
+  },
+  "archives": [
+    {
+      "cms_version": "v 1.4 - 1.9",
+      "packages": [
+        {
+          "plugin_version": "v1.10.2",
+          "type": "single",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.2/Payty_Magento_1.4-1.9_v1.10.2.zip",
+          "doc_uri": {
+            "es-CO": "https://secure.payty.com/doc/files/module/doc/Payty_Magento_1.4-1.9_v1.10_es.pdf"
+          },
+          "description": {
+            "default": "&#9658; Requires PHP 5.3 or higher"
+          }
+        }
+      ]
+    }
+  ]
 }

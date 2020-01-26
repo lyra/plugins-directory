@@ -4,10 +4,10 @@
     "packages": [
       {
         "plugin_version": "v1.12.0",
-        "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.12.0/PayZen_LAT_PrestaShop_1.5-1.7_v1.12.0.zip",
+        "type": "full",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.12.0/Payty_PrestaShop_1.5-1.7_v1.12.0.zip",
         "doc_uri": {
-          "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_PrestaShop_1.5-1.7_v1.12_es.pdf"
+          "es-CO": "https://secure.payty.com/doc/files/module/doc/Payty_PrestaShop_1.5-1.7_v1.12_es.pdf"
         },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

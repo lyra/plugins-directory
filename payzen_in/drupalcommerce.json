@@ -21,7 +21,7 @@
       "packages": [
         {
           "plugin_version": "v1.2.1",
-          "type": "full",
+          "type": "single",
           "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.2.1/PayZen_IN_Drupal_Commerce_7.x-1.x_v1.2.1.zip",
           "doc_uri": {
             "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_Drupal_Commerce_7.x-1.x_v1.2_en.pdf"

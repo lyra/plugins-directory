@@ -20,11 +20,14 @@
       "cms_version": "v 1.x",
       "packages": [
         {
-          "plugin_version": "v1.2.0",
+          "plugin_version": "v1.2.1",
           "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.2.0/Systempay_Drupal_Commerce_7.x-1.x_v1.2.0.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.2.1/Systempay_Drupal_Commerce_7.x-1.x_v1.2.1.zip",
           "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Drupal_Commerce_7.x-1.x_v1.2.0.pdf"
+            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Drupal_Commerce_7.x-1.x_v1.2_fr.pdf"
+          },
+          "description": {
+              "default": "&#9658; Requires PHP 5.3 or higher"
           }
         }
       ]

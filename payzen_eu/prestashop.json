@@ -8,7 +8,8 @@
         "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.12.0/PayZen_PrestaShop_1.5-1.7_v1.12.0.zip",
         "doc_uri": {
           "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_1.5-1.7_v1.12_fr.pdf",
-          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_1.5-1.7_v1.12_en.pdf"
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_1.5-1.7_v1.12_en.pdf",
+          "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_1.5-1.7_v1.12_es.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/prestashop/sitemap.html",

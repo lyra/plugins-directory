@@ -21,9 +21,9 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.10.2",
+          "plugin_version": "v1.10.3",
           "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.2/ClicAndPay_By_groupe_Credit_du_Nord_Magento_1.4-1.9_v1.10.2.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.3/ClicAndPay_By_groupe_Credit_du_Nord_Magento_1.4-1.9_v1.10.3.zip",
           "doc_uri": {
             "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Magento_1.4-1.9_v1.10_fr.pdf",
             "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Magento_1.4-1.9_v1.10_en.pdf"

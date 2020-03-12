@@ -20,9 +20,9 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.10.3",
+          "plugin_version": "v1.11.0",
           "type": "single",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.10.3/Payty_Magento_1.4-1.9_v1.10.3.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.11.0/Payty_Magento_1.4-1.9_v1.11.0.zip",
           "doc_uri": {
             "es-CO": "https://secure.payty.com/doc/files/module/doc/Payty_Magento_1.4-1.9_v1.10_es.pdf"
           },

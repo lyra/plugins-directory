@@ -3,13 +3,13 @@
     "cms_version": "v 2.x - 3.x",
     "packages": [
       {
-        "plugin_version": "v1.8.1",
+        "plugin_version": "v1.8.2",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.1/PayZen_WooCommerce_2.x-3.x_v1.8.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.2/PayZen_WooCommerce_2.x-4.x_v1.8.2.zip",
         "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_WooCommerce_2.x-3.x_v1.8_fr.pdf",
-          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_WooCommerce_2.x-3.x_v1.8_en.pdf",
-          "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_WooCommerce_2.x-3.x_v1.8_es.pdf"
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_WooCommerce_2.x-4.x_v1.8_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_WooCommerce_2.x-4.x_v1.8_en.pdf",
+          "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_WooCommerce_2.x-4.x_v1.8_es.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/woocommerce/sitemap.html",

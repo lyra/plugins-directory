@@ -3,12 +3,12 @@
     "cms_version": "v 10 - 12",
     "packages": [
       {
-        "plugin_version": "v1.1.1",
+        "plugin_version": "v1.2.0",
         "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.1.1/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-12_v1.1.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.0/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-13_v1.2.0.zip",
         "doc_uri": {
-          "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-12_v1.1_fr.pdf",
-          "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-12_v1.1_en.pdf"
+          "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-13_v1.2_fr.pdf",
+          "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-13_v1.2_en.pdf"
         },
         "description": {
           "default": "&#9658; Requires Python 2.7 or higher"

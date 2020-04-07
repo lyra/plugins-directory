@@ -3,9 +3,9 @@
     "cms_version": "v 10 - 12",
     "packages": [
       {
-        "plugin_version": "v1.1.1",
+        "plugin_version": "v1.2.0",
         "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.1.1/PayZen_IN_Odoo_10-12_v1.1.1.zip"
+        "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.0/PayZen_IN_Odoo_10-13_v1.2.0.zip"
       }
     ]
   }

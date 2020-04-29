@@ -1,5 +1,23 @@
 {
   "current": {
+    "cms_version": "v 6.x",
+    "packages": [
+      {
+        "plugin_version": "v2.0.0",
+        "type": "single",
+        "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v2.0.0/PayZen_Shopware_6.x_v2.0.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Shopware_6.x_v2.0_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Shopware_6.x_v2.0_en.pdf",
+          "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Shopware_6.x_v2.0_en.pdf"
+        },
+        "description": {
+          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 7.2 or higher"
+        }
+      }
+    ]
+  },
+  "archives": [{
     "cms_version": "v 4.x - 5.x",
     "packages": [
       {
@@ -15,5 +33,5 @@
         }
       }
     ]
-  }
+  }]
 }

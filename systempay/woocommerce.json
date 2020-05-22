@@ -3,9 +3,9 @@
     "cms_version": "v 2.x - 4.x",
     "packages": [
       {
-        "plugin_version": "v1.8.2",
+        "plugin_version": "v1.8.3",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.2/Systempay_WooCommerce_2.x-4.x_v1.8.2.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.3/Systempay_WooCommerce_2.x-4.x_v1.8.3.zip",
         "doc_uri": {
           "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_WooCommerce_2.x-4.x_v1.8_fr.pdf"
         },

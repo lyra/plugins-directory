@@ -251,10 +251,10 @@
     "category": "request"
   },
   {
-    "title": "Oxatis",
-    "logo": "oxatis.png",
-    "slug": "oxatis",
-    "labels": "oxatis",
+    "title": "NewOxatis",
+    "logo": "newoxatis.png",
+    "slug": "newoxatis",
+    "labels": "newoxatis",
     "category": "request"
   }
 ]

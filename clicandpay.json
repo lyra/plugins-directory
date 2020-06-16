@@ -249,5 +249,12 @@
     "slug": "django",
     "logo": "django.png",
     "category": "request"
+  },
+  {
+    "title": "Oxatis",
+    "logo": "oxatis.png",
+    "slug": "oxatis",
+    "labels": "oxatis",
+    "category": "request"
   }
 ]

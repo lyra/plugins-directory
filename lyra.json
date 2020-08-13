@@ -25,6 +25,12 @@
     "category": "regular"
   },
   {
+    "title": "OpenCart",
+    "logo": "opencart.png",
+    "slug": "opencart",
+    "category": "regular"
+  },
+  {
     "title": "Shopify",
     "logo": "shopify.png",
     "slug": "shopify",

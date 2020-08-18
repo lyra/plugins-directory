@@ -3,9 +3,9 @@
     "cms_version": "v 1.5 - 1.7",
     "packages": [
       {
-        "plugin_version": "v1.13.3",
+        "plugin_version": "v1.13.4",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.13.3/Lyra_PrestaShop_1.5-1.7_v1.13.3.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.13.4/Lyra_PrestaShop_1.5-1.7_v1.13.4.zip",
         "doc_uri": {
           "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.12_fr.pdf",
           "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.12_en.pdf"

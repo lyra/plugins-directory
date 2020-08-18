@@ -3,11 +3,11 @@
     "cms_version": "v 3.x",
     "packages": [
       {
-        "plugin_version": "v2.1.0",
+        "plugin_version": "v2.2.0",
         "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.1.0/PayZen_IN_VirtueMart_3.x_v2.1.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/PayZen_IN_VirtueMart_3.x_v2.2.0.zip",
         "doc_uri": {
-          "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_VirtueMart_3.x_v2.1.0_en.pdf"
+          "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_VirtueMart_3.x_v2.2_en.pdf"
         }
       }
     ]

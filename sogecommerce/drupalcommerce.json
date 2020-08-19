@@ -21,12 +21,12 @@
       "cms_version": "v 1.x",
       "packages": [
         {
-          "plugin_version": "v1.2.1",
+          "plugin_version": "v1.3.0",
           "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.2.1/Sogecommerce_Drupal_Commerce_7.x-1.x_v1.2.1.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.0/Sogecommerce_Drupal_Commerce_7.x-1.x_v1.3.0.zip",
           "doc_uri": {
-            "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_Drupal_Commerce_7.x-1.x_v1.2_fr.pdf",
-            "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_Drupal_Commerce_7.x-1.x_v1.2_en.pdf"
+            "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_Drupal_Commerce_7.x-1.x_v1.3_fr.pdf",
+            "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_Drupal_Commerce_7.x-1.x_v1.3_en.pdf"
           },
           "description": {
               "default": "&#9658; Requires PHP 5.3 or higher"

@@ -1,0 +1,18 @@
+{
+  "current": {
+    "cms_version": "v 3.x",
+    "packages": [
+      {
+        "plugin_version": "v2.2.0",
+        "type": "single",
+        "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/PayZen_LAT_VirtueMart_3.x_v2.2.0.zip",
+        "doc_uri": {
+          "en-EN": "https://payzen.io/files/module/doc/in/PayZen_LAT_VirtueMart_3.x_v2.2_es.pdf"
+        },
+        "description": {
+          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+        }
+      }
+    ]
+  }
+}

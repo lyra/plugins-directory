@@ -1,0 +1,12 @@
+{
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_version": "v1.2.4",
+        "type": "single",
+        "plugin_uri": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_Shopify_v1.2_es.pdf"
+      }
+    ]
+  }
+}

@@ -37,6 +37,12 @@
     "category": "commercial"
   },
   {
+    "title": "Jumpseller",
+    "logo": "jumpseller.png",
+    "slug": "jumpseller",
+    "category": "commercial"
+  },
+  {
     "title": "Ecwid",
     "logo": "ecwid.png",
     "slug": "ecwid",

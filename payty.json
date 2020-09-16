@@ -23,5 +23,11 @@
     "logo": "shopify.png",
     "slug": "shopify",
     "category": "regular"
+  },
+  {
+    "title": "Jumpseller",
+    "logo": "jumpseller.png",
+    "slug": "jumpseller",
+    "category": "commercial"
   }
 ]

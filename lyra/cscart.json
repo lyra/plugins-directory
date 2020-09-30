@@ -7,8 +7,8 @@
         "type": "single",
         "plugin_uri": "https://github.com/lyra/plugin-cscart/releases/download/v2.1.0/Lyra_CS-Cart_4.x_v2.1.0.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_CS-Cart_4.x_v2.1_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_CS-Cart_4.x_v2.1_en.pdf"
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_CS-Cart_4.x_v2.1_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_CS-Cart_4.x_v2.1_en.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/cscart4/sitemap.html",

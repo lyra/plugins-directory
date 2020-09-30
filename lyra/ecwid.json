@@ -7,8 +7,8 @@
         "type": "single",
         "plugin_uri": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/ecwid/sitemap.html",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Ecwid_v1.1_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Ecwid_v1.1_en.pdf"
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Ecwid_v1.1_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Ecwid_v1.1_en.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/ecwid/sitemap.html",

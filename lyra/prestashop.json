@@ -7,8 +7,8 @@
         "type": "full",
         "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.13.4/Lyra_PrestaShop_1.5-1.7_v1.13.4.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.12_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.12_en.pdf"
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.12_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.12_en.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/prestashop/sitemap.html",
@@ -29,8 +29,8 @@
           "type": "single",
           "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.4.7/Lyra_PrestaShop_1.4_v1.4.7.zip",
           "doc_uri": {
-            "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_PrestaShop_1.4_v1.4.7_fr.pdf",
-            "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_PrestaShop_1.4_v1.4.7_en.pdf"
+            "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.4_v1.4.7_fr.pdf",
+            "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.4_v1.4.7_en.pdf"
           },
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
@@ -39,10 +39,10 @@
         {
           "plugin_version": "v1.2.7",
           "type": "multi",
-          "plugin_uri": "https://lyra.com/doc/files/module/Lyra_PrestaShop_multi_1.4_v1.2.7.zip",
+          "plugin_uri": "https://docs.lyra.com/files/module/Lyra_PrestaShop_multi_1.4_v1.2.7.zip",
           "doc_uri": {
-            "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_PrestaShop_multi_1.4_v1.2.7_fr.pdf",
-            "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_PrestaShop_multi_1.4_v1.2.7_en.pdf"
+            "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_multi_1.4_v1.2.7_fr.pdf",
+            "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_multi_1.4_v1.2.7_en.pdf"
           },
           "description": {
             "default": "&#9658; Works with last version of single plugin"

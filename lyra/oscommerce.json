@@ -7,8 +7,8 @@
         "plugin_version": "v1.3.2",
         "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.2/Lyra_osCommerce_2.3.x_v1.3.2.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_osCommerce_2.3.x_v1.3_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_osCommerce_2.3.x_v1.3_en.pdf"
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_osCommerce_2.3.x_v1.3_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_osCommerce_2.3.x_v1.3_en.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/oscommerce/sitemap.html",

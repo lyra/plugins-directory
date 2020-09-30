@@ -7,8 +7,8 @@
         "type": "full",
         "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.1/Lyra_Drupal_Commerce_8.x-2.x_v2.0.1.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Drupal_Commerce_8.x-2.x_v2.0.1_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Drupal_Commerce_8.x-2.x_v2.0.1_en.pdf"
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_8.x-2.x_v2.0.1_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_8.x-2.x_v2.0.1_en.pdf"
         },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.5 or higher"
@@ -25,8 +25,8 @@
           "type": "full",
           "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.0/Lyra_Drupal_Commerce_7.x-1.x_v1.3.0.zip",
           "doc_uri": {
-            "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Drupal_Commerce_7.x-1.x_v1.3_fr.pdf",
-            "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Drupal_Commerce_7.x-1.x_v1.3_en.pdf"
+            "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_7.x-1.x_v1.3_fr.pdf",
+            "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_7.x-1.x_v1.3_en.pdf"
           },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/drupal-commerce/sitemap.html",

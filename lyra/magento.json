@@ -7,8 +7,8 @@
         "type": "full",
         "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.4.9/Lyra_Magento_2.x_v2.4.9.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Magento_2.x_v2.4_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Magento_2.x_v2.4_en.pdf"
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Magento_2.x_v2.4_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Magento_2.x_v2.4_en.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/magento2/sitemap.html",
@@ -29,8 +29,8 @@
           "type": "full",
           "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.11.2/Lyra_Magento_1.4-1.9_v1.11.2.zip",
           "doc_uri": {
-            "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_Magento_1.4-1.9_v1.11_fr.pdf",
-            "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_Magento_1.4-1.9_v1.11_en.pdf"
+            "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Magento_1.4-1.9_v1.11_fr.pdf",
+            "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Magento_1.4-1.9_v1.11_en.pdf"
           },
           "online_doc_uri": {
             "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/magento/sitemap.html",

@@ -7,8 +7,8 @@
         "type": "full",
         "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.1.1/Lyra_HikaShop_2.x-3.x_v2.1.1.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_HikaShop_2.x-3.x_v2.1_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_HikaShop_2.x-3.x_v2.1_en.pdf"
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_HikaShop_2.x-3.x_v2.1_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_HikaShop_2.x-3.x_v2.1_en.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/hikashop/sitemap.html",

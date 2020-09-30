@@ -5,8 +5,8 @@
       {
         "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.0/Lyra_OpenCart_3.x_v4.1.0.ocmod.zip",
         "doc_uri": {
-          "fr-FR": "https://lyra.com/doc/files/module/doc/Lyra_OpenCart_3.x_v4.1_fr.pdf",
-          "en-EN": "https://lyra.com/doc/files/module/doc/Lyra_OpenCart_3.x_v4.1_en.pdf"
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_OpenCart_3.x_v4.1_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_OpenCart_3.x_v4.1_en.pdf"
         },
         "online_doc_uri": {
           "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/opencart3/sitemap.html",

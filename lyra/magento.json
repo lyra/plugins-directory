@@ -11,8 +11,8 @@
           "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Magento_2.x_v2.4_en.pdf"
         },
         "online_doc_uri": {
-          "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/magento2/sitemap.html",
-          "en-EN": "https://lyra.com/en/doc/collect/free-payment-plugins/magento2/sitemap.html"
+          "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/magento2/sitemap.html",
+          "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/magento2/sitemap.html"
         },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
@@ -33,8 +33,8 @@
             "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Magento_1.4-1.9_v1.11_en.pdf"
           },
           "online_doc_uri": {
-            "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/magento/sitemap.html",
-            "en-EN": "https://lyra.com/en/doc/collect/free-payment-plugins/magento/sitemap.html"
+            "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/magento/sitemap.html",
+            "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/magento/sitemap.html"
           },
           "description": {
             "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

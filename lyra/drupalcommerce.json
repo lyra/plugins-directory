@@ -29,8 +29,8 @@
             "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_7.x-1.x_v1.3_en.pdf"
           },
         "online_doc_uri": {
-          "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/drupal-commerce/sitemap.html",
-          "en-EN": "https://lyra.com/en/doc/collect/free-payment-plugins/drupal-commerce/sitemap.html"
+          "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/drupal-commerce/sitemap.html",
+          "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/drupal-commerce/sitemap.html"
         },
           "description": {
               "default": "&#9658; Requires PHP 5.3 or higher"

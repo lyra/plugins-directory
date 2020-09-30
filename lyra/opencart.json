@@ -9,8 +9,8 @@
           "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_OpenCart_3.x_v4.1_en.pdf"
         },
         "online_doc_uri": {
-          "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/opencart3/sitemap.html",
-          "en-EN": "https://lyra.com/en/doc/collect/free-payment-plugins/opencart3/sitemap.html"
+          "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/opencart3/sitemap.html",
+          "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/opencart3/sitemap.html"
         },
         "plugin_version": "v4.1.0",
         "type": "full",

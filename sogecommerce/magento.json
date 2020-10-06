@@ -3,9 +3,9 @@
     "cms_version": "v 2.x",
     "packages": [
       {
-        "plugin_version": "v2.4.9",
+        "plugin_version": "v2.4.10",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.4.9/Sogecommerce_Magento_2.x_v2.4.9.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.4.10/Sogecommerce_Magento_2.x_v2.4.10.zip",
         "doc_uri": {
           "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_Magento_2.x_v2.4_fr.pdf",
           "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_Magento_2.x_v2.4_en.pdf"

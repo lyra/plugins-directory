@@ -48,6 +48,12 @@
     "slug": "ecwid",
     "labels": "WIX",
     "category": "commercial"
+  }, 
+  {
+    "title": "Wix",
+    "logo": "wix.png",
+    "slug": "wix",
+    "category": "commercial"
   },
   {
     "title": "Thelia",

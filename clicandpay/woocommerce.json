@@ -3,9 +3,9 @@
     "cms_version": "v 2.x - 4.x",
     "packages": [
       {
-        "plugin_version": "v1.8.5",
+        "plugin_version": "v1.8.6",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.5/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8.5.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.6/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8.6.zip",
         "doc_uri": {
           "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8_fr.pdf",
           "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8_en.pdf"

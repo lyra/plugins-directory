@@ -7,7 +7,7 @@
         "type": "single",
         "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.13.5/PayZen_IN_PrestaShop_1.5-1.7_v1.13.5.zip",
         "doc_uri": {
-          "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_PrestaShop_1.5-1.7_v1.12_en.pdf"
+          "en-EN": "https://payzen.io/files/module/doc/in/PayZen_IN_PrestaShop_1.5-1.7_v1.13_en.pdf"
         },
         "description": {
           "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

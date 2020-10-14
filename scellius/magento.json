@@ -21,9 +21,9 @@
       "cms_version": "v 1.4 - 1.9",
       "packages": [
         {
-          "plugin_version": "v1.11.2",
+          "plugin_version": "v1.11.3",
           "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.11.2/Scellius_Magento_1.4-1.9_v1.11.2.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.11.3/Scellius_Magento_1.4-1.9_v1.11.3.zip",
           "doc_uri": {
             "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_1.4-1.9_v1.11_fr.pdf",
             "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_1.4-1.9_v1.11_en.pdf"

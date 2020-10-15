@@ -3,9 +3,11 @@
     "cms_version": "v 4.x",
     "packages": [
       {
-        "plugin_uri": "https://github.com/lyra/plugin-xtcommerce/releases/download/v1.0.1/PayZen_xtCommerce_4.1.x_v1.0.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-xtcommerce/releases/download/v1.1.0/PayZen_xtCommerce_4.x-6.x_v1.1.0.zip",
         "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_xtCommerce_4.1.x_v1.0.pdf"
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_xtCommerce_4.x-6.x_v1.1_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_xtCommerce_4.x-6.x_v1.1_en.pdf",
+          "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_xtCommerce_4.x-6.x_v1.1_es.pdf"
         },
         "plugin_version": "v1.0",
         "type": "full"

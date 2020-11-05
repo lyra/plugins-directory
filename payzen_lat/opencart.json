@@ -1,11 +1,11 @@
 {
   "current": {
-    "cms_version": "v 3",
+    "cms_version": "v 3.x",
     "packages": [
       {
-        "plugin_version": "v4.1.0",
+        "plugin_version": "v4.1.1",
         "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.0/PayZen_LAT_OpenCart_3.x_v4.1.0.ocmod.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.1/PayZen_LAT_OpenCart_3.x_v4.1.1.ocmod.zip",
         "doc_uri": {
           "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_OpenCart_3.x_v4.1_es.pdf"
         },

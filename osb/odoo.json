@@ -1,0 +1,19 @@
+{
+    "current": {
+        "cms_version": "v 10 - 13",
+        "packages": [
+            {
+                "plugin_version": "v1.2.0",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.0/OSB_Odoo_10-13_v1.2.0.zip",
+                "doc_uri": {
+                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-13_v1.2_fr.pdf",
+                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-13_v1.2_en.pdf"
+                },
+                "description": {
+                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    }
+}

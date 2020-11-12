@@ -1,0 +1,53 @@
+[
+    {
+        "title": "PrestaShop",
+        "slug": "prestashop",
+        "logo": "prestashop.png",
+        "category": "regular"
+    },
+    {
+        "title": "Magento",
+        "slug": "magento",
+        "logo": "magento.png",
+        "category": "regular"
+    },
+    {
+        "title": "WooCommerce",
+        "slug": "woocommerce",
+        "logo": "woocommerce.png",
+        "label": "WordPress",
+        "category": "regular"
+    },
+    {
+        "title": "VirtueMart",
+        "slug": "virtuemart",
+        "logo": "virtuemart.png",
+        "labels": "Joomla",
+        "category": "regular"
+    },
+    {
+        "title": "osCommerce",
+        "slug": "oscommerce",
+        "logo": "oscommerce.png",
+        "category": "regular"
+    },
+    {
+        "title": "Shopify",
+        "logo": "shopify.png",
+        "slug": "shopify",
+        "category": "regular"
+    },
+    {
+        "title": "Odoo",
+        "logo": "odoo.png",
+        "slug": "odoo",
+        "category": "regular"
+    },
+    {
+        "title": "Drupal Commerce",
+        "logo": "drupalcommerce.png",
+        "slug": "drupalcommerce",
+        "labels": "Drupal",
+        "category": "regular"
+    }
+]

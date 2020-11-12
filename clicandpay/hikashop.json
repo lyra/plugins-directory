@@ -3,9 +3,9 @@
     "cms_version": "v 2.x - 3.x",
     "packages": [
       {
-        "plugin_version": "v2.1.1",
+        "plugin_version": "v2.1.2",
         "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.1.1/ClicAndPay_By_groupe_Credit_du_Nord_HikaShop_2.x-3.x_v2.1.1.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.1.2/ClicAndPay_By_groupe_Credit_du_Nord_HikaShop_2.x-3.x_v2.1.2.zip",
         "doc_uri": {
           "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_HikaShop_2.x-3.x_v2.1_fr.pdf",
           "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_HikaShop_2.x-3.x_v2.1_en.pdf"

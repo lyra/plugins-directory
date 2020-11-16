@@ -1,78 +1,73 @@
 {
-  "current": {
-    "cms_version": "v 3.x",
-    "packages": [
-      {
-        "plugin_version": "v2.2.0",
-        "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/Systempay_VirtueMart_3.x_v2.2.0.zip",
-        "doc_uri": {
-          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_3.x_v2.2_fr.pdf",
-          "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_3.x_v2.2_en.pdf"
+    "current": {
+        "cms_version": "v 3.x",
+        "packages": [
+            {
+                "plugin_version": "v2.2.0",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/Systempay_VirtueMart_3.x_v2.2.0.zip",
+                "doc_uri": {
+                    "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_3.x_v2.2_fr.pdf",
+                    "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_3.x_v2.2_en.pdf"
+                },
+                "description": {
+                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    },
+    "archives": [
+        {
+            "cms_version": "v 2.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.4.0",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v1.4.0/Systempay_VirtueMart_2.x_v1.4.0.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_2.x_v1.4_fr.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                    }
+                }
+            ]
         },
-        "description": {
-          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+        {
+            "cms_version": "v 1.1",
+            "deprecated": true,
+            "packages": [
+                {
+                    "plugin_version": "v2.7",
+                    "type": "single",
+                    "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_1.1.4_v2.7.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_VirtueMart_1.1.4_v2.7.pdf"
+                    }
+                },
+                {
+                    "plugin_version": "v1.2",
+                    "type": "multi",
+                    "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_multi_1.1.4_v1.2.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_VirtueMart_multi_1.1.4_v1.2.pdf"
+                    }
+                }
+            ]
+        },
+        {
+            "cms_version": "v 1.0",
+            "deprecated": true,
+            "packages": [
+                {
+                    "plugin_version": "v1.2c",
+                    "type": "single",
+                    "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_1.0.x_v1.2c.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Virtuemart_1.0.X_v1.2c.pdf"
+                    }
+                }
+            ]
         }
-      }
     ]
-  },
-  "archives": [
-    {
-      "cms_version": "v 2.x",
-      "packages": [
-        {
-          "plugin_version": "v1.3.4",
-          "type": "single",
-          "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v1.3.4/Systempay_VirtueMart_2.x_v1.3.4.zip",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_VirtueMart_2.x_v1.3.4.pdf"
-          }
-        },
-        {
-          "plugin_version": "v1.0b",
-          "type": "multi",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_multi_2.0.8_v1.0b.zip",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_VirtueMart_multi_2.0.8_v1.0b.pdf"
-          }
-        }
-      ]
-    },
-    {
-      "cms_version": "v 1.1",
-      "deprecated": true,
-      "packages": [
-        {
-          "plugin_version": "v2.7",
-          "type": "single",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_1.1.4_v2.7.zip",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_VirtueMart_1.1.4_v2.7.pdf"
-          }
-        },
-        {
-          "plugin_version": "v1.2",
-          "type": "multi",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_multi_1.1.4_v1.2.zip",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_VirtueMart_multi_1.1.4_v1.2.pdf"
-          }
-        }
-      ]
-    },
-    {
-      "cms_version": "v 1.0",
-      "deprecated": true,
-      "packages": [
-        {
-          "plugin_version": "v1.2c",
-          "type": "single",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_1.0.x_v1.2c.zip",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Virtuemart_1.0.X_v1.2c.pdf"
-          }
-        }
-      ]
-    }
-  ]
 }

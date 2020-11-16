@@ -1,72 +1,77 @@
 {
-  "current": {
-    "cms_version": "v 3.x",
-    "packages": [
-      {
-        "plugin_version": "v2.2.0",
-        "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/PayZen_VirtueMart_3.x_v2.2.0.zip",
-        "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_fr.pdf",
-          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_en.pdf",
-          "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_es.pdf"
+    "current": {
+        "cms_version": "v 3.x",
+        "packages": [
+            {
+                "plugin_version": "v2.2.0",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/PayZen_VirtueMart_3.x_v2.2.0.zip",
+                "doc_uri": {
+                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_fr.pdf",
+                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_en.pdf",
+                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_es.pdf"
+                },
+                "online_doc_uri": {
+                    "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/virtuemart/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/free-payment-plugins/virtuemart3/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    },
+    "archives": [
+        {
+            "cms_version": "v 2.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.4.0",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v1.4.0/PayZen_VirtueMart_2.x_v1.4.0.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_2.x_v1.4_fr.pdf",
+                        "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_2.x_v1.4_en.pdf"
+                    },
+                    "online_doc_uri": {
+                        "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/virtuemart/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/free-payment-plugins/virtuemart/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                    }
+                }
+            ]
         },
-        "online_doc_uri": {
-          "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/virtuemart/sitemap.html",
-          "en-EN": "https://payzen.io/en-EN/free-payment-plugins/virtuemart3/sitemap.html"
+        {
+            "cms_version": "v 1.1",
+            "deprecated": true,
+            "packages": [
+                {
+                    "type": "single",
+                    "plugin_version": "v2.7",
+                    "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_1.1.4_v2.7.zip",
+                    "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_VirtueMart_1.1.4_v2.7.pdf"
+                },
+                {
+                    "type": "multi",
+                    "plugin_version": "v1.2",
+                    "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_multi_1.1.4_v1.2.zip",
+                    "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_VirtueMart_multi_1.1.4_v1.2.pdf"
+                }
+            ]
         },
-        "description": {
-          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+        {
+            "cms_version": "v 1.0",
+            "deprecated": true,
+            "packages": [
+                {
+                    "type": "single",
+                    "plugin_version": "v1.2c",
+                    "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_1.0.x_v1.2c.zip",
+                    "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_Payzen_Virtuemart_1.0.X_v1.2c.pdf"
+                }
+            ]
         }
-      }
     ]
-  },
-  "archives": [
-    {
-      "cms_version": "v 2.x",
-      "packages": [
-        {
-          "type": "single",
-          "plugin_version": "v1.3.4",
-          "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v1.3.4/PayZen_VirtueMart_2.x_v1.3.4.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_VirtueMart_2.x_v1.3.4.pdf"
-        },
-        {
-          "type": "multi",
-          "plugin_version": "v1.0b",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_multi_2.0.8_v1.0b.zip"
-        }
-      ]
-    },
-    {
-      "cms_version": "v 1.1",
-      "deprecated": true,
-      "packages": [
-        {
-          "type": "single",
-          "plugin_version": "v2.7",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_1.1.4_v2.7.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_VirtueMart_1.1.4_v2.7.pdf"
-        },
-        {
-          "type": "multi",
-          "plugin_version": "v1.2",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_multi_1.1.4_v1.2.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_VirtueMart_multi_1.1.4_v1.2.pdf"
-        }
-      ]
-    },
-    {
-      "cms_version": "v 1.0",
-      "deprecated": true,
-      "packages": [
-        {
-          "type": "single",
-          "plugin_version": "v1.2c",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_VirtueMart_1.0.x_v1.2c.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_Payzen_Virtuemart_1.0.X_v1.2c.pdf"
-        }
-      ]
-    }
-  ]
 }

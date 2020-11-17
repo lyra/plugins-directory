@@ -8,8 +8,7 @@
                 "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/PayZen_VirtueMart_3.x_v2.2.0.zip",
                 "doc_uri": {
                     "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_fr.pdf",
-                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_en.pdf",
-                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_es.pdf"
+                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_en.pdf"
                 },
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/virtuemart/sitemap.html",

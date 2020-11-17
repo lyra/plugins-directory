@@ -21,5 +21,26 @@
                 }
             ]
         }
-    ]
+    ],
+    "current": {
+        "cms_version": "v 3.x",
+        "packages": [
+            {
+                "plugin_version": "v2.2.0",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/Lyra_VirtueMart_3.x_v2.2.0.zip",
+                "doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_VirtueMart_3.x_v2.2_fr.pdf",
+                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_VirtueMart_3.x_v2.2_en.pdf"
+                },
+                "online_doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/virtuemart3/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/virtuemart3/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    }
 }

@@ -1,34 +1,34 @@
 [
-  {
-    "title": "PrestaShop",
-    "slug": "prestashop",
-    "logo": "prestashop.png",
-    "category": "regular"
-  },
-  {
-    "title": "Magento",
-    "slug": "magento",
-    "logo": "magento.png",
-    "category": "regular"
-  },
-  {
-    "title": "WooCommerce",
-    "slug": "woocommerce",
-    "logo": "woocommerce.png",
-    "labels": "WordPress",
-    "category": "regular"
-  },
-  {
-    "title": "Shopify",
-    "logo": "shopify.png",
-    "slug": "shopify",
-    "category": "commercial"
-  },
-  {
-    "title": "Drupal Commerce",
-    "logo": "drupalcommerce.png",
-    "slug": "drupalcommerce",
-    "labels": "Drupal",
-    "category": "regular"
-  }
+    {
+        "title": "PrestaShop",
+        "slug": "prestashop",
+        "logo": "prestashop.png",
+        "category": "regular"
+    },
+    {
+        "title": "Magento",
+        "slug": "magento",
+        "logo": "magento.png",
+        "category": "regular"
+    },
+    {
+        "title": "WooCommerce",
+        "slug": "woocommerce",
+        "logo": "woocommerce.png",
+        "labels": "WordPress",
+        "category": "regular"
+    },
+    {
+        "title": "Shopify",
+        "logo": "shopify.png",
+        "slug": "shopify",
+        "category": "commercial"
+    },
+    {
+        "title": "Drupal Commerce",
+        "logo": "drupalcommerce.png",
+        "slug": "drupalcommerce",
+        "labels": "Drupal",
+        "category": "regular"
+    }
 ]

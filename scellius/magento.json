@@ -1,38 +1,38 @@
 {
-  "current": {
-    "cms_version": "v 2.x",
-    "packages": [
-      {
-        "plugin_version": "v2.4.11",
-        "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.4.11/Scellius_Magento_2.x_v2.4.11.zip",
-        "doc_uri": {
-          "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_2.x_v2.4_fr.pdf",
-          "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_2.x_v2.4_en.pdf"
-        },
-        "description": {
-          "default": "&#9658; Requires PHP 5.6 or higher"
-        }
-      }
-    ]
-  },
-  "archives": [
-    {
-      "cms_version": "v 1.4 - 1.9",
-      "packages": [
+    "current": {
+        "cms_version": "v 2.x",
+        "packages": [
+            {
+                "plugin_version": "v2.5.0",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.0/Scellius_Magento_2.x_v2.5.0.zip",
+                "doc_uri": {
+                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_2.x_v2.5_fr.pdf",
+                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_2.x_v2.5_en.pdf"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 5.6 or higher"
+                }
+            }
+        ]
+    },
+    "archives": [
         {
-          "plugin_version": "v1.11.4",
-          "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.11.4/Scellius_Magento_1.4-1.9_v1.11.4.zip",
-          "doc_uri": {
-            "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_1.4-1.9_v1.11_fr.pdf",
-            "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_1.4-1.9_v1.11_en.pdf"
-          },
-          "description": {
-            "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
-          }
+            "cms_version": "v 1.4 - 1.9",
+            "packages": [
+                {
+                    "plugin_version": "v1.11.4",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.11.4/Scellius_Magento_1.4-1.9_v1.11.4.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_1.4-1.9_v1.11_fr.pdf",
+                        "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Magento_1.4-1.9_v1.11_en.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                    }
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

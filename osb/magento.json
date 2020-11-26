@@ -3,12 +3,12 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.4.11",
+                "plugin_version": "v2.5.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.4.11/OSB_Magento_2.x_v2.4.11.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.0/OSB_Magento_2.x_v2.5.0.zip",
                 "doc_uri": {
-                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Magento_2.x_v2.4_fr.pdf",
-                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Magento_2.x_v2.4_en.pdf"
+                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Magento_2.x_v2.5_fr.pdf",
+                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Magento_2.x_v2.5_en.pdf"
                 },
                 "description": {
                     "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"

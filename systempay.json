@@ -70,6 +70,13 @@
         "category": "regular"
     },
     {
+        "title": "WiziShop",
+        "logo": "wizishop.png",
+        "slug": "wizishop",
+        "labels": "wizishop",
+        "category": "commercial"
+    },
+    {
         "title": "SPIP",
         "logo": "spip.png",
         "slug": "spip",

@@ -1,36 +1,36 @@
 {
-  "current": {
-    "cms_version": "v 2.x",
-    "packages": [
-      {
-        "plugin_version": "v2.0.1",
-        "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.1/EpayNC_Drupal_Commerce_8.x-2.x_v2.0.1.zip",
-        "doc_uri": {
-          "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_Drupal_Commerce_8.x-2.x_v2.0.1_fr.pdf"
-        },
-        "description": {
-          "default": "&#9658; Requires PHP 5.5 or higher"
-        }
-      }
-    ]
-  },
-  "archives": [
-    {
-      "cms_version": "v 1.x",
-      "packages": [
+    "current": {
+        "cms_version": "v 8.x - 2.x",
+        "packages": [
+            {
+                "plugin_version": "v2.0.2",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.2/EpayNC_Drupal_Commerce_8.x-2.x_v2.0.2.zip",
+                "doc_uri": {
+                    "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_Drupal_Commerce_8.x-2.x_v2.0_fr.pdf"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 5.5 or higher"
+                }
+            }
+        ]
+    },
+    "archives": [
         {
-          "plugin_version": "v1.2.1",
-          "type": "full",
-          "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.0/EpayNC_Drupal_Commerce_7.x-1.x_v1.3.0.zip",
-          "doc_uri": {
-            "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_Drupal_Commerce_7.x-1.x_v1.3_fr.pdf"
-          },
-          "description": {
-              "default": "&#9658; Requires PHP 5.3 or higher"
-          }
+            "cms_version": "v 1.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.2.1",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.0/EpayNC_Drupal_Commerce_7.x-1.x_v1.3.0.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_Drupal_Commerce_7.x-1.x_v1.3_fr.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 5.3 or higher"
+                    }
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

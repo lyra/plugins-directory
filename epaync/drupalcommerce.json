@@ -20,7 +20,7 @@
             "cms_version": "v 1.x",
             "packages": [
                 {
-                    "plugin_version": "v1.2.1",
+                    "plugin_version": "v1.3.0",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.0/EpayNC_Drupal_Commerce_7.x-1.x_v1.3.0.zip",
                     "doc_uri": {

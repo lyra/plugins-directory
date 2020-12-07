@@ -258,12 +258,6 @@
         "category": "request"
     },
     {
-        "title": "Django CMS",
-        "slug": "django",
-        "logo": "django.png",
-        "category": "request"
-    },
-    {
         "title": "KingEshop",
         "logo": "kingeshop.png",
         "slug": "kingeshop",

@@ -245,12 +245,6 @@
         "category": "request"
     },
     {
-        "title": "Django CMS",
-        "slug": "django",
-        "logo": "django.png",
-        "category": "request"
-    },
-    {
         "title": "NewOxatis",
         "logo": "newoxatis.png",
         "slug": "newoxatis",

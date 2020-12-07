@@ -251,12 +251,6 @@
         "category": "request"
     },
     {
-        "title": "Django CMS",
-        "slug": "django",
-        "logo": "django.png",
-        "category": "request"
-    },
-    {
         "title": "UGAL",
         "logo": "ugal.png",
         "slug": "ugal",

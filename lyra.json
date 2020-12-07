@@ -250,12 +250,6 @@
         "category": "request"
     },
     {
-        "title": "Django CMS",
-        "slug": "django",
-        "logo": "django.png",
-        "category": "request"
-    },
-    {
         "title": "VirtueMart",
         "logo": "virtuemart.png",
         "slug": "virtuemart",

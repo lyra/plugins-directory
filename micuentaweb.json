@@ -243,11 +243,5 @@
         "logo": "skadate.png",
         "slug": "skadate",
         "category": "request"
-    },
-    {
-        "title": "Django CMS",
-        "slug": "django",
-        "logo": "django.png",
-        "category": "request"
     }
 ]

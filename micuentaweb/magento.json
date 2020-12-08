@@ -28,10 +28,10 @@
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"
-                    },
-                    "deprecated": true
+                    }
                 }
-            ]
+            ],
+            "deprecated": true
         }
     ]
 }

@@ -25,9 +25,9 @@
             "cms_version": "v 1.4 - 1.9",
             "packages": [
                 {
-                    "plugin_version": "v1.12.0",
+                    "plugin_version": "v1.12.1",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.0/Lyra_Magento_1.4-1.9_v1.12.0.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.1/Lyra_Magento_1.4-1.9_v1.12.1.zip",
                     "doc_uri": {
                         "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Magento_1.4-1.9_v1.12_fr.pdf",
                         "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Magento_1.4-1.9_v1.12_en.pdf"

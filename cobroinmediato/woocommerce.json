@@ -1,18 +1,18 @@
 {
-  "current": {
-    "cms_version": "v 2.x - 4.x",
-    "packages": [
-      {
-        "plugin_version": "v1.8.7",
-        "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.7/Cobro_Inmediato_WooCommerce_2.x-4.x_v1.8.7.zip",
-        "doc_uri": {
-          "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_WooCommerce_2.x-4.x_v1.8_es.pdf"
-        },
-        "description": {
-          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
-        }
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "v 2.x - 4.x",
+        "packages": [
+            {
+                "plugin_version": "v1.8.8",
+                "type": "single",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.8/Cobro_Inmediato_WooCommerce_2.x-4.x_v1.8.8.zip",
+                "doc_uri": {
+                    "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_WooCommerce_2.x-4.x_v1.8_es.pdf"
+                },
+                "description": {
+                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    }
 }

@@ -1,19 +1,19 @@
 {
-  "current": {
-    "cms_version": "v 2.x - 4.x",
-    "packages": [
-      {
-        "plugin_version": "v1.8.7",
-        "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.7/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8.7.zip",
-        "doc_uri": {
-          "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8_fr.pdf",
-          "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8_en.pdf"
-        },
-        "description": {
-          "default": "&#9658; Requires PHP 5.3 or higher"
-        }
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "v 2.x - 4.x",
+        "packages": [
+            {
+                "plugin_version": "v1.8.8",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.8/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8.8.zip",
+                "doc_uri": {
+                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8_fr.pdf",
+                    "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_WooCommerce_2.x-4.x_v1.8_en.pdf"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    }
 }

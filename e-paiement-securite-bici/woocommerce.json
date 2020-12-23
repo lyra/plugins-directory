@@ -3,9 +3,9 @@
         "cms_version": "v 2.x - 4.x",
         "packages": [
             {
-                "plugin_version": "v1.8.8",
+                "plugin_version": "v1.8.9",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.8/BNPP_IRB_WooCommerce_2.x-4.x_v1.8.8.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.9/BNPP_IRB_WooCommerce_2.x-4.x_v1.8.9.zip",
                 "doc_uri": {
                     "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_WooCommerce_2.x-4.x_v1.8_fr.pdf"
                 },

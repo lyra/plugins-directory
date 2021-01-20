@@ -1,14 +1,14 @@
 {
     "current": {
-        "cms_version": "v 10 - 13",
+        "cms_version": "v 10 - 14",
         "packages": [
             {
-                "plugin_version": "v1.2.0",
+                "plugin_version": "v1.2.1",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.0/OSB_Odoo_10-13_v1.2.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.1/OSB_Odoo_10-14_v1.2.1.zip",
                 "doc_uri": {
-                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-13_v1.2_fr.pdf",
-                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-13_v1.2_en.pdf"
+                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-14_v1.2_fr.pdf",
+                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-14_v1.2_en.pdf"
                 },
                 "description": {
                     "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires Python 2.7 or higher"

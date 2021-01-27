@@ -42,7 +42,7 @@
         "slug": "virtuemart",
         "logo": "virtuemart.png",
         "labels": "Joomla",
-        "category": "top"
+        "category": "regular"
     },
     {
         "title": "osCommerce",
@@ -54,7 +54,7 @@
         "title": "OpenCart",
         "logo": "opencart.png",
         "slug": "opencart",
-        "category": "top"
+        "category": "regular"
     },
     {
         "title": "Thelia",
@@ -73,7 +73,7 @@
         "logo": "drupalcommerce.png",
         "slug": "drupalcommerce",
         "labels": "Drupal",
-        "category": "top"
+        "category": "regular"
     },
     {
         "title": "SPIP",
@@ -143,7 +143,7 @@
         "title": "OXID eShop CE",
         "logo": "oxideshopce.png",
         "slug": "oxideshopce",
-        "category": "top"
+        "category": "regular"
     },
     {
         "title": "xt:Commerce",

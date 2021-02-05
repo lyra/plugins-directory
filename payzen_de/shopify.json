@@ -3,12 +3,13 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_version": "v1.2.1",
-        "type": "single",
+        "plugin_version": "v1.2.6",
+        "type": "full",
         "plugin_uri": "https://payzen.io/en-EN/free-payment-plugins/shopify/sitemap.html",
         "doc_uri": {
           "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Shopify_v1.2_fr.pdf",
-          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Shopify_v1.2_en.pdf"
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Shopify_v1.2_en.pdf",
+          "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Shopify_v1.2_es.pdf"
         }
       }
     ]

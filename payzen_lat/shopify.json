@@ -7,7 +7,7 @@
         "type": "single",
         "plugin_uri": "https://payzen.io/lat/free-payment-plugins/shopify/sitemap.html",
         "doc_uri": {
-          "en-IN": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Shopify_v1.2_es.pdf"
+          "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Shopify_v1.2_es.pdf"
         }
       }
     ]

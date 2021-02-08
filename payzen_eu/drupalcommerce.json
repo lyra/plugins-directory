@@ -1,14 +1,14 @@
 {
     "current": {
-        "cms_version": "v 8.x - 2.x",
+        "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.0.2",
+                "plugin_version": "v2.0.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.2/PayZen_Drupal_Commerce_8.x-2.x_v2.0.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.3/PayZen_Drupal_Commerce_2.x_v2.0.3.zip",
                 "doc_uri": {
-                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Drupal_Commerce_8.x-2.x_v2.0_fr.pdf",
-                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Drupal_Commerce_8.x-2.x_v2.0_en.pdf"
+                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Drupal_Commerce_2.x_v2.0_fr.pdf",
+                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Drupal_Commerce_2.x_v2.0_en.pdf"
                 },
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/drupal-commerce2/sitemap.html",

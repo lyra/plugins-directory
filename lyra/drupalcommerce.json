@@ -1,17 +1,17 @@
 {
     "current": {
-        "cms_version": "v 8.x - 2.x",
+        "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.0.2",
+                "plugin_version": "v2.0.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.2/Lyra_Drupal_Commerce_8.x-2.x_v2.0.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.3/Lyra_Drupal_Commerce_2.x_v2.0.3.zip",
                 "doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_8.x-2.x_v2.0_fr.pdf",
-                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_8.x-2.x_v2.0_en.pdf"
+                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_2.x_v2.0_fr.pdf",
+                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_2.x_v2.0_en.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/drupal-commerce2/notes-de-version.html",
+                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/drupal-commerce2/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/drupal-commerce2/sitemap.html"
                 },
                 "description": {

@@ -1,14 +1,14 @@
 {
     "current": {
-        "cms_version": "v 8.x - 2.x",
+        "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.0.2",
+                "plugin_version": "v2.0.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.2/Scellius_Drupal_Commerce_8.x-2.x_v2.0.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.3/Scellius_Drupal_Commerce_2.x_v2.0.3.zip",
                 "doc_uri": {
-                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Drupal_Commerce_8.x-2.x_v2.0_fr.pdf",
-                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Drupal_Commerce_8.x-2.x_v2.0_en.pdf"
+                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Drupal_Commerce_2.x_v2.0_fr.pdf",
+                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/files/module/doc/Scellius_Drupal_Commerce_2.x_v2.0_en.pdf"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.5 or higher"

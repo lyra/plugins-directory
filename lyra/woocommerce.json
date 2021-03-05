@@ -3,9 +3,9 @@
         "cms_version": "v 2.x - 4.x",
         "packages": [
             {
-                "plugin_version": "v1.8.9",
+                "plugin_version": "v1.8.10",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.9/Lyra_WooCommerce_2.x-4.x_v1.8.9.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.10/Lyra_WooCommerce_2.x-4.x_v1.8.10.zip",
                 "doc_uri": {
                     "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_WooCommerce_2.x-4.x_v1.8_fr.pdf",
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_WooCommerce_2.x-4.x_v1.8_en.pdf"

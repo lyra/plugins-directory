@@ -3,12 +3,15 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.0.3",
+                "plugin_version": "v2.0.4",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.3/Systempay_Drupal_Commerce_2.x_v2.0.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.4/Systempay_Drupal_Commerce_2.x_v2.0.4.zip",
                 "doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Drupal_Commerce_2.x_v2.0_fr.pdf",
                     "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Drupal_Commerce_2.x_v2.0_en.pdf"
+                },
+                "online_doc_uri": {
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/drupalcommerce2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.5 or higher"
@@ -27,6 +30,9 @@
                     "doc_uri": {
                         "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Drupal_Commerce_1.x_v1.3_fr.pdf",
                         "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Drupal_Commerce_1.x_v1.3_en.pdf"
+                    },
+                    "online_doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/drupalcommerce/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

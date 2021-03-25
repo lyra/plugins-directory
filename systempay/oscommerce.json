@@ -1,42 +1,45 @@
 {
-  "current": {
-    "cms_version": "v 2.3.x",
-    "packages": [
-      {
-        "plugin_version": "v1.3.2",
-        "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.2/Systempay_osCommerce_2.3.x_v1.3.2.zip",
-        "doc_uri": {
-          "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_osCommerce_2.3.x_v1.3_fr.pdf"
-        },
-        "description": {
-          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
+    "current": {
+        "cms_version": "v 2.3.x",
+        "packages": [
+            {
+                "plugin_version": "v1.3.2",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.2/Systempay_osCommerce_2.3.x_v1.3.2.zip",
+                "doc_uri": {
+                    "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_osCommerce_2.3.x_v1.3_fr.pdf"
+                },
+                "online_doc_uri": {
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/oscommerce/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
+                }
+            }
+        ]
+    },
+    "archives": [
+        {
+            "cms_version": "v 2.2.x",
+            "deprecated": true,
+            "packages": [
+                {
+                    "plugin_version": "v2.7a",
+                    "type": "single",
+                    "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_osCommerce_2.2ms2_v2.7a.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_osCommerce_2.2ms2_v2.7a.pdf"
+                    }
+                },
+                {
+                    "plugin_version": "v1.5a",
+                    "type": "multi",
+                    "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_osCommerce_multi_2.2ms2_v1.5a.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_osCommerce_multi_2.2ms2_v1.5a.pdf"
+                    }
+                }
+            ]
         }
-      }
     ]
-  },
-  "archives": [
-    {
-      "cms_version": "v 2.2.x",
-      "deprecated": true,
-      "packages": [
-        {
-          "plugin_version": "v2.7a",
-          "type": "single",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_osCommerce_2.2ms2_v2.7a.zip",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_osCommerce_2.2ms2_v2.7a.pdf"
-          }
-        },
-        {
-          "plugin_version": "v1.5a",
-          "type": "multi",
-          "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_osCommerce_multi_2.2ms2_v1.5a.zip",
-          "doc_uri": {
-            "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_osCommerce_multi_2.2ms2_v1.5a.pdf"
-          }
-        }
-      ]
-    }
-  ]
 }

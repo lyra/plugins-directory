@@ -3,7 +3,9 @@
         "cms_version": "v 3.x",
         "packages": [
             {
-                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.1/Lyra_OpenCart_3.x_v4.1.1.ocmod.zip",
+                "plugin_version": "v4.1.2",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.2/Lyra_OpenCart_3.x_v4.1.2.ocmod.zip",
                 "doc_uri": {
                     "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_OpenCart_3.x_v4.1_fr.pdf",
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_OpenCart_3.x_v4.1_en.pdf"
@@ -12,8 +14,6 @@
                     "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/opencart3/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/opencart3/sitemap.html"
                 },
-                "plugin_version": "v4.1.1",
-                "type": "full",
                 "description": {
                     "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
                 }

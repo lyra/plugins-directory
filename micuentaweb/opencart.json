@@ -1,18 +1,18 @@
 {
-  "current": {
-    "cms_version": "v 3.x",
-    "packages": [
-      {
-        "plugin_version": "v4.1.1",
-        "type": "single",
-        "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.1/Mi_Cuenta_Web_OpenCart_3.x_v4.1.1.ocmod.zip",
-        "doc_uri": {
-          "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_OpenCart_3.x_v4.1_es.pdf"
-        },
-        "description": {
-          "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
-        }
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "v 3.x",
+        "packages": [
+            {
+                "plugin_version": "v4.1.2",
+                "type": "single",
+                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.2/Mi_Cuenta_Web_OpenCart_3.x_v4.1.2.ocmod.zip",
+                "doc_uri": {
+                    "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_OpenCart_3.x_v4.1_es.pdf"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    }
 }

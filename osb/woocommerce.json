@@ -1,14 +1,14 @@
 {
     "current": {
-        "cms_version": "v 2.x - 4.x",
+        "cms_version": "v 2.x - 5.x",
         "packages": [
             {
-                "plugin_version": "v1.8.10",
+                "plugin_version": "v1.9.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.8.10/OSB_WooCommerce_2.x-4.x_v1.8.10.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.9.0/OSB_WooCommerce_2.x-5.x_v1.9.0.zip",
                 "doc_uri": {
-                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_WooCommerce_2.x-4.x_v1.8_fr.pdf",
-                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_WooCommerce_2.x-4.x_v1.8_en.pdf"
+                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_WooCommerce_2.x-5.x_v1.9_fr.pdf",
+                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_WooCommerce_2.x-5.x_v1.9_en.pdf"
                 },
                 "description": {
                     "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

@@ -20,9 +20,9 @@
             "cms_version": "v 1.4 - 1.9",
             "packages": [
                 {
-                    "plugin_version": "v1.12.2",
+                    "plugin_version": "v1.12.3",
                     "type": "single",
-                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.2/Mi_Cuenta_Web_Magento_1.4-1.9_v1.12.2.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.3/Mi_Cuenta_Web_Magento_1.4-1.9_v1.12.3.zip",
                     "doc_uri": {
                         "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_Magento_1.4-1.9_v1.12_es.pdf"
                     },

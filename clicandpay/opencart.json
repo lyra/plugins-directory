@@ -1,0 +1,22 @@
+{
+    "archives": [
+        {
+            "cms_version": "v 2.0 - 2.2",
+            "packages": [
+                {
+                    "plugin_version": "v2.2.0",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v2.2.0/ClicAndPay_By_groupe_Credit_du_Nord_OpenCart_2.0-2.2_v2.2.0.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_OpenCart_2.0-2.2_v2.2_fr.pdf",
+                        "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_OpenCart_2.0-2.2_v2.2_en.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 5.3 or higher"
+                    }
+                }
+            ],
+            "deprecated": true
+        }
+    ]
+}

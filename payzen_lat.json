@@ -249,5 +249,11 @@
         "logo": "skadate.png",
         "slug": "skadate",
         "category": "request"
+    },
+    {
+        "title": "GiveWP",
+        "logo": "givewp.png",
+        "slug": "givewp",
+        "category": "regular"
     }
 ]

@@ -261,5 +261,11 @@
         "slug": "orocommercekiboko",
         "labels": "kiboko",
         "category": "provider"
+    },
+    {
+        "title": "GiveWP",
+        "logo": "givewp.png",
+        "slug": "givewp",
+        "category": "regular"
     }
 ]

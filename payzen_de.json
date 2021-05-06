@@ -288,5 +288,11 @@
         "slug": "jigoshop",
         "labels": "WordPress",
         "category": "regular"
+    },
+    {
+        "title": "GiveWP",
+        "logo": "givewp.png",
+        "slug": "givewp",
+        "category": "regular"
     }
 ]

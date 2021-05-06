@@ -15,7 +15,7 @@
         "title": "WooCommerce",
         "slug": "woocommerce",
         "logo": "woocommerce.png",
-        "label": "WordPress",
+        "labels": "WordPress",
         "category": "regular"
     },
     {
@@ -266,6 +266,7 @@
         "title": "GiveWP",
         "logo": "givewp.png",
         "slug": "givewp",
+        "labels": "WordPress",
         "category": "regular"
     }
 ]

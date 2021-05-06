@@ -135,7 +135,7 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
         "version": "3.4",
         "link": "https://github.com/payzen/vads-payment-python",
         "zip": "https://github.com/payzen/vads-payment-python/archive/master.zip",
-        "label": "payzen",
+        "labels": "payzen",
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
       }
     ]

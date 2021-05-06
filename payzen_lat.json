@@ -254,6 +254,7 @@
         "title": "GiveWP",
         "logo": "givewp.png",
         "slug": "givewp",
+        "labels": "WordPress",
         "category": "regular"
     }
 ]

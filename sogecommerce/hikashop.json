@@ -3,9 +3,9 @@
         "cms_version": "v 2.x - 3.x",
         "packages": [
             {
-                "plugin_version": "v2.1.3",
+                "plugin_version": "v2.1.4",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.1.3/Sogecommerce_HikaShop_2.x-3.x_v2.1.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.1.4/Sogecommerce_HikaShop_2.x-3.x_v2.1.4.zip",
                 "doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_HikaShop_2.x-3.x_v2.1_fr.pdf",
                     "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_HikaShop_2.x-3.x_v2.1_en.pdf"

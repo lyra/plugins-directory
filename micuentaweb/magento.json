@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.5.5",
+                "plugin_version": "v2.5.6",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.5/Mi_Cuenta_Web_Magento_2.x_v2.5.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.6/Mi_Cuenta_Web_Magento_2.x_v2.5.6.zip",
                 "doc_uri": {
                     "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_Magento_2.x_v2.5_es.pdf"
                 },

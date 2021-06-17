@@ -1,0 +1,25 @@
+{
+    "current": {
+        "cms_version": "v 11.x - 13.x",
+        "packages": [
+            {
+                "plugin_version": "v1.0.2",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v1.0.2/PayZen_Dolibarr_11.x-13.x_v1.0.2.zip",
+                "doc_uri": {
+                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Dolibarr_11.x-13.x_v1.0_fr.pdf",
+                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Dolibarr_11.x-13.x_v1.0_en.pdf",
+                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Dolibarr_11.x-13.x_v1.0_es.pdf"
+                },
+                "online_doc_uri": {
+                    "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/dolibarr/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/free-payment-plugins/dolibarr/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/free-payment-plugins/dolibarr/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    }
+}

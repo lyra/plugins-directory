@@ -295,5 +295,11 @@
         "slug": "givewp",
         "labels": "WordPress",
         "category": "regular"
+    },
+    {
+        "title": "Dolibarr",
+        "logo": "dolibarr.png",
+        "slug": "dolibarr",
+        "category": "regular"
     }
 ]

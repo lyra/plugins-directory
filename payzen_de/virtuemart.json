@@ -3,16 +3,18 @@
         "cms_version": "v 3.x",
         "packages": [
             {
-                "plugin_version": "v2.2.0",
+                "plugin_version": "v2.2.1",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.0/PayZen_VirtueMart_3.x_v2.2.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.1/PayZen_VirtueMart_3.x_v2.2.1.zip",
                 "doc_uri": {
                     "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_fr.pdf",
-                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_en.pdf"
+                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_en.pdf",
+                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x_v2.2_es.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/virtuemart3/sitemap.html",
-                    "en-EN": "https://payzen.io/en-EN/free-payment-plugins/virtuemart3/sitemap.html"
+                    "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/virtuemart/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/free-payment-plugins/virtuemart3/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/free-payment-plugins/virtuemart3/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

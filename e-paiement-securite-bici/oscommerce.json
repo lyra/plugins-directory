@@ -3,9 +3,9 @@
     "cms_version": "v 2.3",
     "packages": [
       {
-        "plugin_version": "v1.3.2",
+        "plugin_version": "v1.3.3",
         "type": "full",
-        "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.2/BNPP_IRB_osCommerce_2.3.x_v1.3.2.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.3/BNPP_IRB_osCommerce_2.3.x_v1.3.3.zip",
         "doc_uri": {
           "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_osCommerce_2.3.x_v1.3_fr.pdf"
         },

@@ -17,12 +17,12 @@
     },
     "archives": [
         {
-            "cms_version": "v 2.3",
+            "cms_version": "v 2.3.x",
             "packages": [
                 {
-                    "plugin_version": "v3.1.0",
+                    "plugin_version": "v3.1.1",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.0/BNPP_IRB_OpenCart_2.3.x_v3.1.0.ocmod.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.1/BNPP_IRB_OpenCart_2.3.x_v3.1.1.ocmod.zip",
                     "doc_uri": {
                         "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_OpenCart_2.3.x_v3.1_fr.pdf"
                     },

@@ -20,9 +20,9 @@
             "cms_version": "v 2.3.x",
             "packages": [
                 {
-                    "plugin_version": "v3.1.0",
+                    "plugin_version": "v3.1.1",
                     "type": "single",
-                    "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.0/PayZen_IN_OpenCart_2.3.x_v3.1.0.ocmod.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.1/PayZen_IN_OpenCart_2.3.x_v3.1.1.ocmod.zip",
                     "doc_uri": {
                         "en-IN": "https://payzen.io/files/module/doc/in/PayZen_IN_OpenCart_2.3.x_v3.1_en.pdf"
                     },

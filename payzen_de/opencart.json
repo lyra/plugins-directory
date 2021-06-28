@@ -24,16 +24,21 @@
     },
     "archives": [
         {
-            "cms_version": "v 2.3",
+            "cms_version": "v 2.3.x",
             "packages": [
                 {
-                    "plugin_version": "v3.1.0",
+                    "plugin_version": "v3.1.1",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.0/PayZen_OpenCart_2.3.x_v3.1.0.ocmod.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.1/PayZen_OpenCart_2.3.x_v3.1.1.ocmod.zip",
                     "doc_uri": {
                         "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.3.x_v3.1_fr.pdf",
                         "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.3.x_v3.1_en.pdf",
                         "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.3.x_v3.1_es.pdf"
+                    },
+                    "online_doc_uri": {
+                        "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/opencart/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/free-payment-plugins/opencart/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/free-payment-plugins/opencart/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

@@ -10,6 +10,9 @@
                     "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_OpenCart_3.x_v4.1_fr.pdf",
                     "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_OpenCart_3.x_v4.1_en.pdf"
                 },
+                "online_doc_uri": {
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/opencart3/sitemap.html"
+                },
                 "description": {
                     "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
                 }
@@ -27,6 +30,9 @@
                     "doc_uri": {
                         "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_OpenCart_2.3.x_v3.1_fr.pdf",
                         "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_OpenCart_2.3.x_v3.1_en.pdf"
+                    },
+                    "online_doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/opencart2-3/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"

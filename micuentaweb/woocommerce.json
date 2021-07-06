@@ -3,9 +3,9 @@
         "cms_version": "v 2.x - 5.x",
         "packages": [
             {
-                "plugin_version": "v1.9.1",
+                "plugin_version": "v1.9.2",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.9.1/Mi_Cuenta_Web_WooCommerce_2.x-5.x_v1.9.1.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.9.2/Mi_Cuenta_Web_WooCommerce_2.x-5.x_v1.9.2.zip",
                 "doc_uri": {
                     "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_WooCommerce_2.x-5.x_v1.9_es.pdf"
                 },

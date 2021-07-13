@@ -37,6 +37,12 @@
         "category": "commercial"
     },
     {
+        "title": "OpenMage",
+        "slug": "openmage",
+        "logo": "openmage.png",
+        "category": "regular"
+    },
+    {
         "title": "VirtueMart",
         "slug": "virtuemart",
         "logo": "virtuemart.png",

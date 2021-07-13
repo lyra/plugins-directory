@@ -250,6 +250,12 @@
         "category": "request"
     },
     {
+        "title": "OpenMage",
+        "slug": "openmage",
+        "logo": "openmage.png",
+        "category": "regular"
+    },
+    {
         "title": "VirtueMart",
         "logo": "virtuemart.png",
         "slug": "virtuemart",

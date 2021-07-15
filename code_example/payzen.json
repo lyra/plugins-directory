@@ -38,7 +38,7 @@
     "code": [
       {
         "name": "Payment form integration",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "link": "https://github.com/lyra/java-payment-form-examples",
         "zip": "https://github.com/lyra/java-payment-form-examples/archive/master.zip",
         "display": ["fr-FR", "en-EN", "de-DE", "es-ES", "pt-BR", "lat", "in"]

@@ -27,11 +27,11 @@
     "title": "ASP",
     "code": [
       {
-        "name": "Payment Form",
-        "version": "0.1.0",
-        "link": false,
-        "zip": "https://github.com/lyra/asp-payment-form-examples/releases/download/v0.1.0/Systempay_asp-payment-form-examples_v0.1.0.zip",
-        "display": ["fr-FR"]
+        "name": "Payment form integration",
+        "version": "1.3.0",
+        "link": "https://github.com/lyra/asp-payment-form-examples",
+        "zip": "https://github.com/lyra/asp-payment-form-examples/archive/master.zip",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
       }
     ]
   },

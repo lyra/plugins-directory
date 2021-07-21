@@ -31,7 +31,7 @@
         "version": "1.3.0",
         "link": "https://github.com/lyra/asp-payment-form-examples",
         "zip": "https://github.com/lyra/asp-payment-form-examples/archive/master.zip",
-        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+        "display": ["fr-FR", "en-EN"]
       }
     ]
   },

@@ -41,6 +41,7 @@
         "title": "OpenMage",
         "slug": "openmage",
         "logo": "openmage.png",
+        "labels": "Magento",
         "category": "regular"
     },
     {

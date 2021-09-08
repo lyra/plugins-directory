@@ -24,10 +24,18 @@
     "title": "Python",
     "code": [
       {
-        "name": "Payment Form",
+        "name": "Payment form integration",
         "version": "3.4",
         "link": "https://github.com/lyra/python-payment-form-examples",
         "zip": "https://github.com/lyra/python-payment-form-examples/archive/master.zip",
+        "label": "payzen",
+        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+      },
+      {
+        "name": "Embedded payment fields integration with Flask",
+        "version": "1.0.0",
+        "link": "https://github.com/lyra/flask-embedded-form-examples",
+        "zip": "https://github.com/lyra/flask-embedded-form-examples/archive/master.zip",
         "label": "payzen",
         "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
       }

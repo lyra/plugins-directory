@@ -19,6 +19,13 @@
         "category": "regular"
     },
     {
+        "title": "OpenMage",
+        "logo": "openmage.png",
+        "slug": "openmage",
+        "labels": "Magento",
+        "category": "regular"
+    },
+    {
         "title": "Shopify",
         "logo": "shopify.png",
         "slug": "shopify",

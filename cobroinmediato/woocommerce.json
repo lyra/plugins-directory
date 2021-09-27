@@ -3,9 +3,9 @@
         "cms_version": "v 2.x - 5.x",
         "packages": [
             {
-                "plugin_version": "v1.9.3",
+                "plugin_version": "v1.9.4",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.9.3/Cobro_Inmediato_WooCommerce_2.x-5.x_v1.9.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.9.4/Cobro_Inmediato_WooCommerce_2.x-5.x_v1.9.4.zip",
                 "doc_uri": {
                     "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_WooCommerce_2.x-5.x_v1.9_es.pdf"
                 },

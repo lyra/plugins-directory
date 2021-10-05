@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.5.9",
+                "plugin_version": "v2.5.10",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.9/Cobro_Inmediato_Magento_2.x_v2.5.9.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.10/Cobro_Inmediato_Magento_2.x_v2.5.10.zip",
                 "doc_uri": {
                     "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_Magento_2.x_v2.5_es.pdf"
                 },

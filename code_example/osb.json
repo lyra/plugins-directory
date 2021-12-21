@@ -1,0 +1,74 @@
+[
+  {
+    "title": "PHP",
+    "code": [
+      {
+        "name": "Payment Form",
+        "version": "0.2.1",
+        "link": false,
+        "zip": "https://github.com/lyra/php-payment-form-examples/releases/download/v0.2.1/OSB_php-payment-form-examples_v0.2.1.zip",
+        "display": ["fr-FR"]
+      }
+    ]
+  },
+  {
+    "title": "Python",
+    "code": [
+      {
+        "name": "Payment Form",
+        "version": "0.1.0",
+        "link": false,
+        "zip": "https://github.com/lyra/python-payment-form-examples/releases/download/v0.1.0/OSB_python-payment-form-examples_v0.1.0.zip",
+        "display": ["fr-FR"]
+      }
+    ]
+  },
+  {
+    "title": "ASP",
+    "code": [
+      {
+        "name": "Payment form integration",
+        "version": "1.3.0",
+        "link": "https://github.com/lyra/asp-payment-form-examples",
+        "zip": "https://github.com/lyra/asp-payment-form-examples/archive/master.zip",
+        "display": ["fr-FR"]
+      }
+    ]
+  },
+  {
+    "title": "Java",
+    "code": [
+      {
+        "name": "Mobile payment Server integration",
+        "version": "1.1",
+        "link": "https://github.com/lyra/webview-payment-sparkjava-integration-sample",
+        "zip": "https://github.com/lyra/webview-payment-sparkjava-integration-sample/archive/v1.1.zip",
+        "display": ["fr-FR"]
+      }
+    ]
+  },
+  {
+    "title": "Kotlin",
+    "code": [
+      {
+        "name": "Mobile payment via webview",
+        "version": "1.1",
+        "zip": "https://github.com/lyra/webview-payment-android-integration-sample/archive/v1.1.zip",
+        "link": "https://github.com/lyra/webview-payment-android-integration-sample",
+        "display": ["fr-FR"]
+      }
+    ]
+  },
+  {
+    "title": "Swift",
+    "code": [
+      {
+        "name": "Mobile payment via webview",
+        "version": "1.1",
+        "zip": "https://github.com/lyra/webview-payment-ios-integration-sample/archive/v1.1.zip",
+        "link": "https://github.com/lyra/webview-payment-ios-integration-sample",
+        "display": ["fr-FR"]
+      }
+    ]
+  }
+]

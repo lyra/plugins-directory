@@ -1,0 +1,13 @@
+{
+  "current": {
+    "cms_version": "",
+    "ext_dev": true,
+    "packages": [
+      {
+        "type": "single",
+        "plugin_uri": "https://www.wizishop.fr/",
+        "plugin_version": ""
+      }
+    ]
+  }
+}

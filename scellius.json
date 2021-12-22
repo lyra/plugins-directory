@@ -256,5 +256,12 @@
         "logo": "boxecommerce.png",
         "slug": "boxecommerce",
         "category": "provider"
+    },
+    {
+        "title": "WiziShop",
+        "logo": "wizishop.png",
+        "slug": "wizishop",
+        "labels": "wizishop",
+        "category": "provider"
     }
 ]

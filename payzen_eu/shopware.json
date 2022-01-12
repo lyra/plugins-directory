@@ -12,7 +12,7 @@
                     "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Shopware_6.x_v2.0_es.pdf"
                 },
                 "description": {
-                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 7.2 or higher"
+                    "default": "&#9658; Requires PHP 7.2 or higher"
                 }
             }
         ]
@@ -35,7 +35,7 @@
                         "es-ES": "https://payzen.io/es-ES/free-payment-plugins/shopware/sitemap.html"
                     },
                     "description": {
-                        "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
+                        "default": "&#9658; Requires PHP 5.6 or higher"
                     }
                 }
             ]

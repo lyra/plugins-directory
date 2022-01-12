@@ -10,7 +10,7 @@
                     "en-IN": "https://payzen.io/files/module/doc/in/PayZen_IN_VirtueMart_3.x_v2.2_en.pdf"
                 },
                 "description": {
-                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 5.3 or higher"
                 }
             }
         ]
@@ -27,7 +27,7 @@
                         "en-IN": "https://payzen.io/files/module/doc/in/PayZen_IN_VirtueMart_2.x_v1.4_en.pdf"
                     },
                     "description": {
-                        "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                        "default": "&#9658; Requires PHP 5.3 or higher"
                     }
                 }
             ]

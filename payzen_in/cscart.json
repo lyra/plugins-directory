@@ -10,7 +10,7 @@
                     "en-IN": "https://payzen.io/files/module/doc/in/PayZen_IN_CS-Cart_4.x_v2.2_en.pdf"
                 },
                 "description": {
-                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.6 or higher"
+                    "default": "&#9658; Requires PHP 5.6 or higher"
                 }
             }
         ]

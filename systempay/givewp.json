@@ -11,7 +11,7 @@
                     "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_GiveWP_2.x_v1.0_en.pdf"
                 },
                 "description": {
-                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 5.3 or higher"
                 }
             }
         ]

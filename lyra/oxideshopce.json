@@ -11,7 +11,7 @@
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_OXID_eShop_CE_4.9-6.x_v2.1_en.pdf"
                 },
                 "description": {
-                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 5.3 or higher"
                 }
             }
         ]

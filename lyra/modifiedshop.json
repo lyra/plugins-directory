@@ -12,7 +12,7 @@
                     "es-ES": "https://docs.lyra.com/files/module/doc/Lyra_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2_es.pdf"
                 },
                 "description": {
-                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 5.3 or higher"
                 }
             }
         ]

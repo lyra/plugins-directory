@@ -11,7 +11,7 @@
                     "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_OpenCart_3.x_v4.1_en.pdf"
                 },
                 "description": {
-                    "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 5.3 or higher"
                 }
             }
         ]
@@ -29,7 +29,7 @@
                         "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_OpenCart_2.3.x_v3.1_en.pdf"
                     },
                     "description": {
-                        "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                        "default": "&#9658; Requires PHP 5.3 or higher"
                     }
                 }
             ]
@@ -46,7 +46,7 @@
                         "en-EN": "https://sogecommerce.societegenerale.eu/doc/files/module/doc/Sogecommerce_OpenCart_2.0-2.2_v2.2_en.pdf"
                     },
                     "description": {
-                        "default": "&#9658; SHA-1 / HMAC-SHA-256 compliant&nbsp;&nbsp;&nbsp;&#9658; Requires PHP 5.3 or higher"
+                        "default": "&#9658; Requires PHP 5.3 or higher"
                     }
                 }
             ],

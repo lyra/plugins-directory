@@ -3,15 +3,15 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.5.10",
+                "plugin_version": "v2.5.11",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.10/Systempay_Magento_2.x_v2.5.10.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.11/Systempay_Magento_2.x_v2.5.11.zip",
                 "doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_2.x_v2.5_fr.pdf",
                     "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_2.x_v2.5_en.pdf"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 5.6 or higher"
+                    "default": "&#9658; Requires PHP 7.0 or higher"
                 }
             }
         ]

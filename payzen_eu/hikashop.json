@@ -17,7 +17,7 @@
                     "es-ES": "https://payzen.io/es-ES/free-payment-plugins/hikashop/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 7.0 or higher"
                 }
             }
         ]

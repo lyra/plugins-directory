@@ -10,7 +10,7 @@
                     "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_OpenCart_3.x_v4.1_es.pdf"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 7.0 or higher"
                 }
             }
         ]

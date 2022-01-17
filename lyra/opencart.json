@@ -15,7 +15,7 @@
                     "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/opencart3/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 7.0 or higher"
                 }
             }
         ]

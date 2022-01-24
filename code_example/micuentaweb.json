@@ -1,0 +1,62 @@
+[
+  {
+    "title": "PHP",
+    "code": [
+      {
+        "name": "Payment Form",
+        "version": "0.2.1",
+        "link": true,
+        "zip": "https://github.com/lyra/php-payment-form-examples/releases/download/v0.2.1/Cobro_Inmediato_php-payment-form-examples_v0.2.1.zip",
+        "display": ["es-PE"]
+      }
+    ]
+  },
+  {
+    "title": "Python",
+    "code": [
+      {
+        "name": "Payment Form",
+        "version": "0.1.0",
+        "link": false,
+        "zip": "https://github.com/lyra/python-payment-form-examples/releases/download/v0.1.0/Cobro_Inmediato_python-payment-form-examples_v0.1.0.zip",
+        "display": ["es-PE"]
+      }
+    ]
+  },
+  {
+    "title": "JAVA",
+    "code": [
+      {
+        "name": "Mobile payment Server integration",
+        "version": "1.1",
+        "link": false,
+        "zip": "https://github.com/lyra/webview-payment-sparkjava-integration-sample",
+        "display": ["es-PE"]
+      }
+    ]
+  },
+  {
+    "title": "Kotlin",
+    "code": [
+      {
+        "name": "Mobile payment via webview",
+        "version": "1.1",
+        "zip": "https://github.com/lyra/webview-payment-android-integration-sample",
+        "link": false,
+        "display": ["es-PE"]
+      }
+    ]
+  },
+  {
+    "title": "Swift",
+    "code": [
+      {
+        "name": "Mobile payment via webview",
+        "version": "1.1",
+        "zip": "https://github.com/lyra/webview-payment-ios-integration-sample",
+        "link": false,
+        "display": ["es-PE"]
+      }
+    ]
+  }
+]

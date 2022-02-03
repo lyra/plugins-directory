@@ -1,0 +1,12 @@
+{
+  "current": {
+    "cms_version": "",
+    "ext_dev": true,
+    "packages": [
+      {
+        "plugin_uri": "http://www.abopress.com/fr/",
+        "plugin_version": ""
+      }
+    ]
+  }
+}

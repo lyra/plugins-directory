@@ -1,0 +1,20 @@
+{
+  "current": {
+    "cms_version": "v 3.x",
+    "packages": [
+      {
+        "plugin_version": "v2.0.0",
+        "type": "full",
+        "plugin_uri": "https://github.com/lyra/plugin-gambio/releases/download/v2.0.0/PayZen_Gambio_3.x_v2.0.0.zip",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Gambio_3.x_v2.0_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Gambio_3.x_v2.0_en.pdf",
+          "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Gambio_3.x_v2.0_es.pdf"
+        },
+        "description": {
+          "default": "&#9658; Requires PHP 5.3 or higher"
+        }
+      }
+    ]
+  }
+}

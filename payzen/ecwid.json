@@ -1,0 +1,20 @@
+{
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_version": "v1.1.0",
+        "type": "single",
+        "plugin_uri": "https://payzen.io/fr-FR/module-de-paiement-gratuit/ecwid/sitemap.html",
+        "doc_uri": {
+          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Ecwid_v1.1_fr.pdf",
+          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Ecwid_v1.1_en.pdf"
+        },
+        "online_doc_uri": {
+          "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/ecwid/sitemap.html",
+          "en-EN": "https://payzen.io/en-EN/free-payment-plugins/ecwid/sitemap.html"
+        }
+      }
+    ]
+  }
+}

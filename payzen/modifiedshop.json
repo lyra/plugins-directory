@@ -1,0 +1,20 @@
+{
+    "current": {
+        "cms_version": "v 1.x - 2.x",
+        "packages": [
+            {
+                "plugin_version": "v1.2.0",
+                "type": "single",
+                "plugin_uri": "https://github.com/lyra/plugin-modifiedshop/releases/download/v1.2.0/PayZen_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2.0.zip",
+                "doc_uri": {
+                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2_fr.pdf",
+                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2_en.pdf",
+                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2_es.pdf"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    }
+}

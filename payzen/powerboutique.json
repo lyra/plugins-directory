@@ -1,0 +1,12 @@
+{
+  "current": {
+    "cms_version": "",
+    "ext_dev": true,
+    "packages": [
+      {
+        "plugin_uri": "https://tpev.powerboutique.com/boutique/formulaire_perso.cfm?code_lg=lg_fr&num_formulaire=51 ",
+        "plugin_version": ""
+      }
+    ]
+  }
+}

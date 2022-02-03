@@ -1,0 +1,20 @@
+{
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_version": "v1.0.0",
+        "type": "single",
+        "plugin_uri": "https://docs.lyra.com/files/module/doc/Lyra_Jumpseller_v1.0_fr.pdf",
+        "doc_uri": {
+          "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Jumpseller_v1.0_fr.pdf",
+          "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Jumpseller_v1.0_en.pdf"
+        },
+        "online_doc_uri": {
+          "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/jumpseller/sitemap.html",
+          "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/jumpseller/sitemap.html"
+        }
+      }
+    ]
+  }
+}

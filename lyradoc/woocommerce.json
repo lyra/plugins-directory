@@ -1,0 +1,23 @@
+{
+    "current": {
+        "cms_version": "v 2.x - 5.x",
+        "packages": [
+            {
+                "plugin_version": "v1.9.4",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.9.4/Lyra_WooCommerce_2.x-5.x_v1.9.4.zip",
+                "doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_WooCommerce_2.x-5.x_v1.9_fr.pdf",
+                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_WooCommerce_2.x-5.x_v1.9_en.pdf"
+                },
+                "online_doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/woocommerce/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/woocommerce/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 5.3 or higher"
+                }
+            }
+        ]
+    }
+}

@@ -1,6 +1,13 @@
 {
   "current": {
     "cms_version": "",
-    "packages": []
+    "ext_dev": true,
+    "packages": [
+      {
+        "type": "single",
+        "plugin_uri": "https://www.lauyan.com/fr/features.html",
+        "plugin_version": ""
+      }
+    ]
   }
 }

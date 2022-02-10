@@ -14,5 +14,23 @@
                 }
             }
         ]
-    }
+    },
+    "archives": [
+        {
+            "cms_version": "v 10 - 14",
+            "packages": [
+                {
+                    "plugin_version": "v1.2.2",
+                    "type": "single",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.2/PayZen_LAT_Odoo_10-14_v1.2.2.zip",
+                    "doc_uri": {
+                        "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Odoo_10-14_v1.2_es.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires Python 2.7 or higher"
+                    }
+                }
+            ]
+        }
+    ]
 }

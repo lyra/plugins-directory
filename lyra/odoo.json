@@ -12,7 +12,7 @@
                     "es-ES": "https://docs.lyra.com/files/module/doc/Lyra_Odoo_15_v2.0_es.pdf"
                 },
                 "description": {
-                    "default": "&#9658; Requires Python 2.7 or higher"
+                    "default": "&#9658; Requires Python 3.7 or higher"
                 }
             }
         ]

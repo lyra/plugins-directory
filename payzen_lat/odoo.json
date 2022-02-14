@@ -10,7 +10,7 @@
                     "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Odoo_15_v2.0_es.pdf"
                 },
                 "description": {
-                    "default": "&#9658; Requires Python 2.7 or higher"
+                    "default": "&#9658; Requires Python 3.7 or higher"
                 }
             }
         ]

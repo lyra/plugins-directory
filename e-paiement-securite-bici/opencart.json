@@ -3,9 +3,9 @@
         "cms_version": "v 3.x",
         "packages": [
             {
-                "plugin_version": "v4.1.4",
+                "plugin_version": "v4.1.5",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.4/BNPP_IRB_OpenCart_3.x_v4.1.4.ocmod.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.5/BNPP_IRB_OpenCart_3.x_v4.1.5.ocmod.zip",
                 "doc_uri": {
                     "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_OpenCart_3.x_v4.1_fr.pdf"
                 },

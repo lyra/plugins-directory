@@ -71,7 +71,7 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
           "online_doc_uri":{
             "fr-FR": "https://lyra.com/fr/doc/collect/module-de-paiement-gratuit/magento2/sitemap.html", // STRING
            },
-          "type": "full" // STRING - possible values : full, multi and single
+          "type": "full" // STRING - possible values : full, multi, single and single-embedded
         }
       ]
     },

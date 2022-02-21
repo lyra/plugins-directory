@@ -9,6 +9,11 @@
         "plugin_version": "v1.2.3"
       },
       {
+        "type": "single-embedded",
+        "plugin_uri": "https://github.com/thelia-modules/PayzenEmbedded/archive/master.zip",
+        "plugin_version": "v1.0.7"
+      },
+      {
         "type": "multi",
         "plugin_uri": "https://github.com/thelia-modules/PayzenMulti/archive/master.zip",
         "plugin_version": "v1.0"

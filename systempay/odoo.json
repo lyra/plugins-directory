@@ -18,6 +18,23 @@
     },
     "archives": [
         {
+            "cms_version": "v 15",
+            "packages": [
+                {
+                    "plugin_version": "v2.0.0",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.0/Systempay_Odoo_15_v2.0.0.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Odoo_15_v2.0_fr.pdf",
+                        "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Odoo_15_v2.0_en.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires Python 3.7 or higher"
+                    }
+                }
+            ]
+        },
+        {
             "cms_version": "v 10 - 14",
             "packages": [
                 {

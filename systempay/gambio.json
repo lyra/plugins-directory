@@ -10,7 +10,7 @@
                     "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Gambio_3.x_v2.0_fr.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/gambio/sitemap.html"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/gambio/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

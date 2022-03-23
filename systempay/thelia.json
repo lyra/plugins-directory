@@ -11,7 +11,7 @@
                     "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Thelia_1.5.x_v1.0_fr.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/thelia/sitemap.html"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/thelia/sitemap.html"
                 }
             }
         ]

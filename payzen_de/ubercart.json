@@ -12,9 +12,9 @@
                     "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Ubercart_7.x-3.x_v2.1_es.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/ubercart/sitemap.html",
-                    "en-EN": "https://payzen.io/en-EN/free-payment-plugins/ubercart/sitemap.html",
-                    "es-ES": "https://payzen.io/es-ES/free-payment-plugins/ubercart/sitemap.html"
+                    "fr-FR": "https://payzen.io/fr-FR/plugins/ubercart/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/plugins/ubercart/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/ubercart/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

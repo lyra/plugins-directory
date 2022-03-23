@@ -11,8 +11,8 @@
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_CS-Cart_4.x_v2.2_en.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/cscart4/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/cscart4/sitemap.html"
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/cscart4/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/cscart4/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.6 or higher"

@@ -11,8 +11,8 @@
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Ubercart_7.x-3.x_v2.1_en.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/ubercart/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/ubercart/sitemap.html"
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/ubercart/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/ubercart/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

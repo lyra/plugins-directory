@@ -12,9 +12,9 @@
                     "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_3.x_v4.1_es.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/opencart3/sitemap.html",
-                    "en-EN": "https://payzen.io/en-EN/free-payment-plugins/opencart3/sitemap.html",
-                    "es-ES": "https://payzen.io/es-ES/free-payment-plugins/opencart3/sitemap.html"
+                    "fr-FR": "https://payzen.io/fr-FR/plugins/opencart3/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/plugins/opencart3/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/opencart3/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"
@@ -36,9 +36,9 @@
                         "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.3.x_v3.1_es.pdf"
                     },
                     "online_doc_uri": {
-                        "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/opencart2-3/sitemap.html",
-                        "en-EN": "https://payzen.io/en-EN/free-payment-plugins/opencart2-3/sitemap.html",
-                        "es-ES": "https://payzen.io/es-ES/free-payment-plugins/opencart2-3/sitemap.html"
+                        "fr-FR": "https://payzen.io/fr-FR/plugins/opencart2-3/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/plugins/opencart2-3/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/plugins/opencart2-3/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"
@@ -59,9 +59,9 @@
                         "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.0-2.2_v2.2_es.pdf"
                     },
                     "online_doc_uri": {
-                        "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/opencart/sitemap.html",
-                        "en-EN": "https://payzen.io/en-EN/free-payment-plugins/opencart/sitemap.html",
-                        "es-ES": "https://payzen.io/es-ES/free-payment-plugins/opencart/sitemap.html"
+                        "fr-FR": "https://payzen.io/fr-FR/plugins/opencart/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/plugins/opencart/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/plugins/opencart/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

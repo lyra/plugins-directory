@@ -11,7 +11,7 @@
                     "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Drupal_Commerce_2.x_v2.0_en.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/drupalcommerce2/sitemap.html"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/drupalcommerce2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.5 or higher"
@@ -32,7 +32,7 @@
                         "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Drupal_Commerce_1.x_v1.3_en.pdf"
                     },
                     "online_doc_uri": {
-                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/drupalcommerce/sitemap.html"
+                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/drupalcommerce/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

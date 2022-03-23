@@ -10,7 +10,7 @@
                     "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_J2Store_3.x_v1.0_fr.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/j2store/sitemap.html"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/j2store/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.5 or higher"

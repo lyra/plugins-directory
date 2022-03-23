@@ -46,8 +46,8 @@
                         "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Odoo_10-14_v1.2_en.pdf"
                     },
                     "online_doc_uri": {
-                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/odoo/sitemap.html",
-                        "en-EN": "https://paiement.systempay.fr/doc/en-EN/free-payment-plugins/odoo/sitemap.html"
+                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/odoo/sitemap.html",
+                        "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/odoo/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires Python 2.7 or higher"

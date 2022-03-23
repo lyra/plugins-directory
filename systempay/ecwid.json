@@ -7,7 +7,7 @@
                 "type": "single",
                 "plugin_uri": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Ecwid_v1.1_fr.pdf",
                 "online_doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/ecwid/sitemap.html"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/ecwid/sitemap.html"
                 }
             }
         ]

@@ -28,7 +28,7 @@
                         "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_2.x_v1.4_fr.pdf"
                     },
                     "online_doc_uri": {
-                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/virtuemart2/sitemap.html"
+                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/virtuemart2/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

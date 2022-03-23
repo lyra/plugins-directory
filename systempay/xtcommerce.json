@@ -11,7 +11,7 @@
                     "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_xtCommerce_4.x-6.x_v1.1_en.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/xtcommerce/sitemap.html"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/xtcommerce/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.3 or higher"

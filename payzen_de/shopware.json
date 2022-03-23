@@ -30,9 +30,9 @@
                         "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_ShopWare_4.x-5.x_v1.3_en.pdf"
                     },
                     "online_doc_uri": {
-                        "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/shopware/sitemap.html",
-                        "en-EN": "https://payzen.io/en-EN/free-payment-plugins/shopware/sitemap.html",
-                        "es-ES": "https://payzen.io/es-ES/free-payment-plugins/shopware/sitemap.html"
+                        "fr-FR": "https://payzen.io/fr-FR/plugins/shopware/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/plugins/shopware/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/plugins/shopware/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.6 or higher"

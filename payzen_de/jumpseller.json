@@ -12,8 +12,8 @@
           "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Jumpseller_v1.0_es.pdf"
         },
         "online_doc_uri": {
-          "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/jumpseller/sitemap.html",
-          "en-EN": "https://payzen.io/en-EN/free-payment-plugins/jumpseller/sitemap.html"
+          "fr-FR": "https://payzen.io/fr-FR/plugins/jumpseller/sitemap.html",
+          "en-EN": "https://payzen.io/en-EN/plugins/jumpseller/sitemap.html"
         }
       }
     ]

@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.2.6",
         "type": "single",
-        "plugin_uri": "https://secure.payty.com/doc/es-CO/free-payment-plugins/shopify/sitemap.html",
+        "plugin_uri": "https://secure.payty.com/doc/es-CO/plugins/shopify/sitemap.html",
         "doc_uri": {
           "es-CO": "https://secure.payty.com/doc/files/module/doc/Payty_Shopify_v1.2_es.pdf"
         }

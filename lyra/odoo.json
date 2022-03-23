@@ -11,6 +11,10 @@
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Odoo_15_v2.0_en.pdf",
                     "es-ES": "https://docs.lyra.com/files/module/doc/Lyra_Odoo_15_v2.0_es.pdf"
                 },
+                "online_doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/odoo15/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/odoo15/sitemap.html"
+                },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
                 }

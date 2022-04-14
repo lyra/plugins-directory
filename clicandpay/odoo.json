@@ -3,9 +3,9 @@
         "cms_version": "v 15",
         "packages": [
             {
-                "plugin_version": "v2.0.0",
+                "plugin_version": "v2.0.1",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.0/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.1/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0.1.zip",
                 "doc_uri": {
                     "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0_fr.pdf",
                     "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0_en.pdf"

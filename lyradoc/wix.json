@@ -3,7 +3,7 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_version": "v1.2.4",
+        "plugin_version": "v1.2.11",
         "type": "single",
         "plugin_uri": "https://docs.lyra.com/fr/collect/plugins/wix/sitemap.html",
         "doc_uri": {

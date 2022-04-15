@@ -38,6 +38,12 @@
         "category": "commercial"
     },
     {
+        "title": "Wix",
+        "logo": "wix.png",
+        "slug": "wix",
+        "category": "commercial"
+    },
+    {
         "title": "OpenMage",
         "slug": "openmage",
         "logo": "openmage.png",

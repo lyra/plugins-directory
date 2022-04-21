@@ -12,9 +12,9 @@
                     "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_WooCommerce_2.x-5.x_v1.9_es.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/woocommerce/sitemap.html",
-                    "en-EN": "https://payzen.io/en-EN/free-payment-plugins/woocommerce/sitemap.html",
-                    "es-ES": "https://payzen.io/es-ES/free-payment-plugins/woocommerce/sitemap.html"
+                    "fr-FR": "https://payzen.io/fr-FR/plugins/woocommerce/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/plugins/woocommerce/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/woocommerce/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

@@ -12,8 +12,8 @@
                     "es-ES": "https://docs.lyra.com/files/module/doc/Lyra_HikaShop_2.x-4.x_v2.1_es.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/hikashop/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/hikashop/sitemap.html"
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/hikashop/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/hikashop/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"

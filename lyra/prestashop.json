@@ -11,8 +11,8 @@
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.15_en.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/prestashop/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/prestashop/sitemap.html"
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/prestashop/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/prestashop/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

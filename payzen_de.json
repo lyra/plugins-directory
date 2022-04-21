@@ -76,6 +76,12 @@
         "category": "commercial"
     },
     {
+        "title": "Wix",
+        "logo": "wix.png",
+        "slug": "wix",
+        "category": "commercial"
+    },
+    {
         "title": "osCommerce",
         "slug": "oscommerce",
         "logo": "oscommerce.png",

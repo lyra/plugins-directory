@@ -3,13 +3,18 @@
         "cms_version": "v 15",
         "packages": [
             {
-                "plugin_version": "v2.0.0",
+                "plugin_version": "v2.0.1",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.0/PayZen_Odoo_15_v2.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.1/PayZen_Odoo_15_v2.0.1.zip",
                 "doc_uri": {
                     "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_15_v2.0_fr.pdf",
                     "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_15_v2.0_en.pdf",
                     "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_15_v2.0_es.pdf"
+                },
+                "online_doc_uri": {
+                    "fr-FR": "https://payzen.io/fr-FR/plugins/odoo15/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/plugins/odoo15/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/odoo15/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
@@ -31,9 +36,9 @@
                         "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_10-14_v1.2_es.pdf"
                     },
                     "online_doc_uri": {
-                        "fr-FR": "https://payzen.io/fr-FR/module-de-paiement-gratuit/odoo/sitemap.html",
-                        "en-EN": "https://payzen.io/en-EN/free-payment-plugins/odoo/sitemap.html",
-                        "es-ES": "https://payzen.io/es-ES/free-payment-plugins/odoo/sitemap.html"
+                        "fr-FR": "https://payzen.io/fr-FR/plugins/odoo/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/plugins/odoo/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/plugins/odoo/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires Python 2.7 or higher"

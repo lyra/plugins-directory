@@ -11,8 +11,8 @@
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_osCommerce_2.3.x_v1.3_en.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/oscommerce/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/oscommerce/sitemap.html"
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/oscommerce/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/oscommerce/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

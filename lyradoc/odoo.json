@@ -11,8 +11,8 @@
                     "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Odoo_10-14_v1.2_en.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/module-de-paiement-gratuit/odoo/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/free-payment-plugins/odoo/sitemap.html"
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/odoo/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/odoo/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 2.7 or higher"

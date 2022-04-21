@@ -10,7 +10,7 @@
                     "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Shopware_6.x_v2.0_fr.pdf"
                 },
                 "online_doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/module-de-paiement-gratuit/shopware6/sitemap.html"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/shopware6/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.2 or higher"

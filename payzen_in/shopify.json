@@ -5,7 +5,7 @@
       {
         "plugin_version": "v1.2.6",
         "type": "single",
-        "plugin_uri": "https://payzen.io/in/free-payment-plugins/shopify/sitemap.html",
+        "plugin_uri": "https://payzen.io/in/plugins/shopify/sitemap.html",
         "doc_uri": {
           "en-IN": "https://payzen.io/files/module/doc/in/PayZen_IN_Shopify_v1.2_en.pdf"
         }

@@ -22,7 +22,8 @@
         "title": "Shopify",
         "logo": "shopify.png",
         "slug": "shopify",
-        "category": "request"
+        "category": "request",
+        "support_url": "https://www.lyra.com/fr/shopify-contact/"
     },
     {
         "title": "Ecwid",

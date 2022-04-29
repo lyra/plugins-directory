@@ -45,12 +45,6 @@
         "category": "regular"
     },
     {
-        "title": "Shopify",
-        "logo": "shopify.png",
-        "slug": "shopify",
-        "category": "commercial"
-    },
-    {
         "title": "Ecwid",
         "logo": "ecwid.png",
         "slug": "ecwid",

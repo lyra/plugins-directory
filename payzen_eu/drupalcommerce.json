@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.0.4",
+                "plugin_version": "v2.0.5",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.4/PayZen_Drupal_Commerce_2.x_v2.0.4.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.5/PayZen_Drupal_Commerce_2.x_v2.0.5.zip",
                 "doc_uri": {
                     "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Drupal_Commerce_2.x_v2.0_fr.pdf",
                     "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Drupal_Commerce_2.x_v2.0_en.pdf"

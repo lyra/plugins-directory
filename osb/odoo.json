@@ -15,5 +15,24 @@
                 }
             }
         ]
-    }
+    },
+    "archives": [
+        {
+            "cms_version": "v 10 - 14",
+            "packages": [
+                {
+                    "plugin_version": "v1.2.4",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.4/OSB_Odoo_10-14_v1.2.4.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-14_v1.2_fr.pdf",
+                        "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-14_v1.2_en.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires Python 2.7 or higher"
+                    }
+                }
+            ]
+        }
+    ]
 }

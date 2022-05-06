@@ -21,9 +21,9 @@
             "cms_version": "v 10 - 14",
             "packages": [
                 {
-                    "plugin_version": "v1.2.3",
+                    "plugin_version": "v1.2.4",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.3/Systempay_Odoo_10-14_v1.2.3.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.4/Systempay_Odoo_10-14_v1.2.4.zip",
                     "doc_uri": {
                         "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Odoo_10-14_v1.2_fr.pdf",
                         "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Odoo_10-14_v1.2_en.pdf"

@@ -19,6 +19,7 @@
     "archives": [
         {
             "cms_version": "v 2.3.x",
+            "deprecated": true,
             "packages": [
                 {
                     "plugin_version": "v3.1.1",

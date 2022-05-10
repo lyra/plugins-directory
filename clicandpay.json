@@ -26,12 +26,6 @@
         "category": "regular"
     },
     {
-        "title": "Shopify",
-        "logo": "shopify.png",
-        "slug": "shopify",
-        "category": "commercial"
-    },
-    {
         "title": "VirtueMart",
         "slug": "virtuemart",
         "logo": "virtuemart.png",

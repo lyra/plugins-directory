@@ -13,8 +13,8 @@
                 },
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/virtuemart/sitemap.html",
-                    "en-EN": "https://payzen.io/en-EN/plugins/virtuemart/sitemap.html",
-                    "es-ES": "https://payzen.io/es-ES/plugins/virtuemart/sitemap.html"
+                    "en-EN": "https://payzen.io/en-EN/plugins/virtuemart3/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/virtuemart3/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

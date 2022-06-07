@@ -3,9 +3,9 @@
         "cms_version": "v 15",
         "packages": [
             {
-                "plugin_version": "v2.0.1",
+                "plugin_version": "v2.0.2",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.1/PayZen_Odoo_15_v2.0.1.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.2/PayZen_Odoo_15_v2.0.2.zip",
                 "doc_uri": {
                     "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_15_v2.0_fr.pdf",
                     "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_15_v2.0_en.pdf",

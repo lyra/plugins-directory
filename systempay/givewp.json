@@ -4,7 +4,7 @@
         "packages": [
             {
                 "plugin_version": "v1.0.0",
-                "type": "full",
+                "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-givewp/releases/download/v1.0.0/Systempay_GiveWP_2.x_v1.0.0.zip",
                 "doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_GiveWP_2.x_v1.0_fr.pdf",

@@ -3,9 +3,9 @@
         "cms_version": "v 15",
         "packages": [
             {
-                "plugin_version": "v2.0.2",
+                "plugin_version": "v2.0.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.2/OSB_Odoo_15_v2.0.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/OSB_Odoo_15_v2.0.3.zip",
                 "doc_uri": {
                     "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_15_v2.0_fr.pdf",
                     "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_15_v2.0_en.pdf"

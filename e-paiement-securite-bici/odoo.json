@@ -1,19 +1,37 @@
 {
     "current": {
-        "cms_version": "v 10 - 14",
-        "deprecated": true,
+        "cms_version": "v 15",
         "packages": [
             {
-                "plugin_version": "v1.2.4",
+                "plugin_version": "v2.0.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.4/BNPP_IRB_Odoo_10-14_v1.2.4.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/BNPP_IRB_Odoo_15_v2.0.3.zip",
                 "doc_uri": {
-                    "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Odoo_10-14_v1.2_fr.pdf"
+                    "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Odoo_15_v2.0_fr.pdf"
                 },
                 "description": {
-                    "default": "&#9658; Requires Python 2.7 or higher"
+                    "default": "&#9658; Requires Python 3.7 or higher"
                 }
             }
         ]
-    }
+    },
+    "archives": [
+        {
+            "cms_version": "v 10 - 14",
+            "deprecated": true,
+            "packages": [
+                {
+                    "plugin_version": "v1.2.4",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.4/BNPP_IRB_Odoo_10-14_v1.2.4.zip",
+                    "doc_uri": {
+                        "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Odoo_10-14_v1.2_fr.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires Python 2.7 or higher"
+                    }
+                }
+            ]
+        }
+    ]
 }

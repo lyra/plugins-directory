@@ -3,12 +3,12 @@
         "cms_version": "v 2.x - 6.x",
         "packages": [
             {
-                "plugin_version": "v1.9.5",
+                "plugin_version": "v1.10.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.9.5/OSB_WooCommerce_2.x-6.x_v1.9.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.0/OSB_WooCommerce_2.x-6.x_v1.10.0.zip",
                 "doc_uri": {
-                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_WooCommerce_2.x-5.x_v1.9_fr.pdf",
-                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_WooCommerce_2.x-5.x_v1.9_en.pdf"
+                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_WooCommerce_2.x-6.x_v1.10_fr.pdf",
+                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_WooCommerce_2.x-6.x_v1.10_en.pdf"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

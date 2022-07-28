@@ -5,7 +5,11 @@
       {
         "plugin_version": "v2",
         "type": "full",
-        "plugin_uri": "https://docs.lyra.com/fr/collect/plugins/shopifyv2/sitemap.html",
+        "doc_uri": {
+          "fr-FR": "https://docs.lyra.com/fr/collect/plugins/shopifyv2/sitemap.html",
+          "en-EN": "https://docs.lyra.com/en/collect/plugins/shopifyv2/sitemap.html",
+          "es-ES": "https://docs.lyra.com/es/collect/plugins/shopifyv2/sitemap.html"
+        },
         "online_doc_uri": {
           "fr-FR": "https://docs.lyra.com/fr/collect/plugins/shopifyv2/sitemap.html",
           "en-EN": "https://docs.lyra.com/en/collect/plugins/shopifyv2/sitemap.html",

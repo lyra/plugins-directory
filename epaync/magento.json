@@ -6,9 +6,6 @@
                 "plugin_version": "v2.6.3",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.3/EpayNC_Magento_2.x_v2.6.3.zip",
-                "doc_uri": {
-                    "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_Magento_2.x_v2.6_fr.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://epaync.nc/doc/fr-FR/plugins/magento2/sitemap.html"
                 },
@@ -26,8 +23,8 @@
                     "plugin_version": "v1.12.5",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/EpayNC_Magento_1.4-1.9_v1.12.5.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_Magento_1.4-1.9_v1.12_fr.pdf"
+                    "online_doc_uri": {
+                        "fr-FR": "https://epaync.nc/doc/fr-FR/plugins/magento/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

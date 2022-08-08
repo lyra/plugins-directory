@@ -6,8 +6,8 @@
                 "plugin_version": "v1.15.5",
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.5/PayZen_LAT_PrestaShop_1.5-1.7_v1.15.5.zip",
-                "doc_uri": {
-                    "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_PrestaShop_1.5-1.7_v1.15_es.pdf"
+                "online_doc_uri": {
+                    "lat": "https://payzen.io/lat/plugins/prestashop/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"

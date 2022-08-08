@@ -6,8 +6,8 @@
                 "plugin_version": "v2.0.5",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.5/EpayNC_Drupal_Commerce_2.x_v2.0.5.zip",
-                "doc_uri": {
-                    "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_Drupal_Commerce_2.x_v2.0_fr.pdf"
+                "online_doc_uri": {
+                    "fr-FR": "https://epaync.nc/doc/fr-FR/plugins/drupal-commerce2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.5 or higher"
@@ -23,8 +23,8 @@
                     "plugin_version": "v1.3.1",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.1/EpayNC_Drupal_Commerce_1.x_v1.3.1.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://epaync.nc/doc/files/module/doc/EpayNC_Drupal_Commerce_1.x_v1.3_fr.pdf"
+                    "online_doc_uri": {
+                        "fr-FR": "https://epaync.nc/doc/fr-FR/plugins/drupal-commerce/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

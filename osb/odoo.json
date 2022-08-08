@@ -6,9 +6,9 @@
                 "plugin_version": "v2.0.3",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/OSB_Odoo_15_v2.0.3.zip",
-                "doc_uri": {
-                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_15_v2.0_fr.pdf",
-                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_15_v2.0_en.pdf"
+                "online_doc_uri": {
+                    "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/odoo15/sitemap.html",
+                    "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/odoo15/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
@@ -25,10 +25,6 @@
                     "plugin_version": "v1.2.4",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.4/OSB_Odoo_10-14_v1.2.4.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-14_v1.2_fr.pdf",
-                        "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_10-14_v1.2_en.pdf"
-                    },
                     "online_doc_uri": {
                         "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/odoo/sitemap.html",
                         "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/odoo/sitemap.html"

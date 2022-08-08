@@ -6,10 +6,6 @@
                 "plugin_version": "v2.6.3",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.3/Systempay_Magento_2.x_v2.6.3.zip",
-                "doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_2.x_v2.6_fr.pdf",
-                    "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_2.x_v2.6_en.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/magento2/sitemap.html",
                     "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/magento2/sitemap.html"
@@ -28,9 +24,9 @@
                     "plugin_version": "v1.12.5",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/Systempay_Magento_1.4-1.9_v1.12.5.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_1.4-1.9_v1.12_fr.pdf",
-                        "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Magento_1.4-1.9_v1.12_en.pdf"
+                    "online_doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/magento/sitemap.html",
+                        "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/magento/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

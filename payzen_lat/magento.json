@@ -6,11 +6,8 @@
                 "plugin_version": "v2.6.3",
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.3/PayZen_LAT_Magento_2.x_v2.6.3.zip",
-                "doc_uri": {
-                    "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Magento_2.x_v2.6_es.pdf"
-                },
                 "online_doc_uri": {
-                    "es-ES": "https://payzen.io/lat/plugins/magento2/sitemap.html"
+                    "lat": "https://payzen.io/lat/plugins/magento2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"
@@ -26,8 +23,8 @@
                     "plugin_version": "v1.12.5",
                     "type": "single",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/PayZen_LAT_Magento_1.4-1.9_v1.12.5.zip",
-                    "doc_uri": {
-                        "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Magento_1.4-1.9_v1.12_es.pdf"
+                    "online_doc_uri": {
+                        "lat": "https://payzen.io/lat/plugins/magento/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

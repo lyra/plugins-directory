@@ -6,8 +6,8 @@
         "plugin_version": "v1.1.0",
         "type": "single",
         "plugin_uri": "https://github.com/lyra/plugin-xtcommerce/releases/download/v1.1.0/PayZen_LAT_xtCommerce_4.x-6.x_v1.1.0.zip",
-        "doc_uri": {
-          "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_xtCommerce_4.x-6.x_v1.1_es.pdf"
+        "online_doc_uri": {
+          "lat": "https://payzen.io/lat/plugins/xtcommerce/sitemap.html"
         },
         "description": {
           "default": "&#9658; Requires PHP 7.3 or higher"

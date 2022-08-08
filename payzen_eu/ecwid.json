@@ -6,10 +6,6 @@
         "plugin_version": "v1.1.0",
         "type": "single",
         "plugin_uri": "https://payzen.io/fr-FR/plugins/ecwid/sitemap.html",
-        "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Ecwid_v1.1_fr.pdf",
-          "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Ecwid_v1.1_en.pdf"
-        },
         "online_doc_uri": {
           "fr-FR": "https://payzen.io/fr-FR/plugins/ecwid/sitemap.html",
           "en-EN": "https://payzen.io/en-EN/plugins/ecwid/sitemap.html"

@@ -7,9 +7,6 @@
                 "type": "single",
                 "plugin_version": "v1.0.1",
                 "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_Thelia_1.5.x_v1.0.1.zip",
-                "doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Thelia_1.5.x_v1.0_fr.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/thelia/sitemap.html"
                 }

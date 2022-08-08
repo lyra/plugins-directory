@@ -23,8 +23,8 @@
                     "plugin_version": "v1.4.0",
                     "type": "single",
                     "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v1.4.0/Mi_Cuenta_Web_VirtueMart_2.x_v1.4.0.zip",
-                    "doc_uri": {
-                        "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Micuentaweb_VirtueMart_2.x_v1.4_es.pdf"
+                    "online_doc_uri": {
+                        "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/virtuemart2/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

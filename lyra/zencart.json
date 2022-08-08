@@ -6,10 +6,10 @@
                 "plugin_version": "v1.6.0",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-zencart/releases/download/v1.6.0/Lyra_ZenCart_1.3-1.5_v1.6.0.zip",
-                "doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_ZenCart_1.3-1.5_v1.6_fr.pdf",
-                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_ZenCart_1.3-1.5_v1.6_en.pdf",
-                    "es-ES": "https://docs.lyra.com/files/module/doc/Lyra_ZenCart_1.3-1.5_v1.6_es.pdf"
+                "online_doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/zencart/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/zencart/sitemap.html",
+                    "es-ES": "https://docs.lyra.com/es/collect/plugins/zencart/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

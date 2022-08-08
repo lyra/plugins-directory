@@ -6,10 +6,6 @@
                 "plugin_version": "v2.0.5",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.5/Lyra_Drupal_Commerce_2.x_v2.0.5.zip",
-                "doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_2.x_v2.0_fr.pdf",
-                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_2.x_v2.0_en.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/drupal-commerce2/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/plugins/drupal-commerce2/sitemap.html"
@@ -28,10 +24,6 @@
                     "plugin_version": "v1.3.1",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.1/Lyra_Drupal_Commerce_1.x_v1.3.1.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_1.x_v1.3_fr.pdf",
-                        "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Drupal_Commerce_1.x_v1.3_en.pdf"
-                    },
                     "online_doc_uri": {
                         "fr-FR": "https://docs.lyra.com/fr/collect/plugins/drupal-commerce/sitemap.html",
                         "en-EN": "https://docs.lyra.com/en/collect/plugins/drupal-commerce/sitemap.html"

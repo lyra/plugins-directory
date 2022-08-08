@@ -6,11 +6,6 @@
                 "plugin_version": "v3.0.0",
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v3.0.0/PayZen_Shopware_6.4.x_v3.0.0.zip",
-                "doc_uri": {
-                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Shopware_6.4.x_v3.0_fr.pdf",
-                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Shopware_6.4.x_v3.0_en.pdf",
-                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Shopware_6.4.x_v3.0_es.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/shopware6/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/shopware6/sitemap.html",
@@ -48,10 +43,6 @@
                     "plugin_version": "v1.3.1",
                     "type": "single",
                     "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v1.3.1/PayZen_ShopWare_4.x-5.x_v1.3.1.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_ShopWare_4.x-5.x_v1.3_fr.pdf",
-                        "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_ShopWare_4.x-5.x_v1.3_en.pdf"
-                    },
                     "online_doc_uri": {
                         "fr-FR": "https://payzen.io/fr-FR/plugins/shopware/sitemap.html",
                         "en-EN": "https://payzen.io/en-EN/plugins/shopware/sitemap.html",

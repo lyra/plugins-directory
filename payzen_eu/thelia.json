@@ -29,7 +29,9 @@
           "type": "single",
           "plugin_version": "v1.0.1",
           "plugin_uri": "https://payzen.io/files/module/eu/PayZen_Thelia_1.5.x_v1.0.1.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/eu/PayZen_Thelia_1.5.x_v1.0_fr.pdf"
+          "online_doc_uri": {
+            "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Thelia_1.5.x_v1.0_fr.pdf"
+          }
         }
       ]
     },

@@ -6,9 +6,9 @@
                 "plugin_version": "v2.2.4",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.4/Systempay_VirtueMart_3.x-4.x_v2.2.4.zip",
-                "doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_3.x_v2.2_fr.pdf",
-                    "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_3.x_v2.2_en.pdf"
+                "online_doc_uri": {
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/virtuemart3/sitemap.html",
+                    "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/virtuemart3/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"
@@ -24,9 +24,6 @@
                     "plugin_version": "v1.4.0",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v1.4.0/Systempay_VirtueMart_2.x_v1.4.0.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_VirtueMart_2.x_v1.4_fr.pdf"
-                    },
                     "online_doc_uri": {
                         "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/virtuemart2/sitemap.html"
                     },

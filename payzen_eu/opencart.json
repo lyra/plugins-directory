@@ -6,11 +6,6 @@
                 "plugin_version": "v4.1.6",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.6/PayZen_OpenCart_3.x_v4.1.6.ocmod.zip",
-                "doc_uri": {
-                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_3.x_v4.1_fr.pdf",
-                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_3.x_v4.1_en.pdf",
-                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_3.x_v4.1_es.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/opencart3/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/opencart3/sitemap.html",
@@ -31,11 +26,6 @@
                     "plugin_version": "v3.1.1",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.1/PayZen_OpenCart_2.3.x_v3.1.1.ocmod.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.3.x_v3.1_fr.pdf",
-                        "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.3.x_v3.1_en.pdf",
-                        "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.3.x_v3.1_es.pdf"
-                    },
                     "online_doc_uri": {
                         "fr-FR": "https://payzen.io/fr-FR/plugins/opencart2-3/sitemap.html",
                         "en-EN": "https://payzen.io/en-EN/plugins/opencart2-3/sitemap.html",
@@ -54,11 +44,6 @@
                     "plugin_version": "v2.2.1",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v2.2.1/PayZen_OpenCart_2.0-2.2_v2.2.1.ocmod.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.0-2.2_v2.2_fr.pdf",
-                        "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.0-2.2_v2.2_en.pdf",
-                        "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_OpenCart_2.0-2.2_v2.2_es.pdf"
-                    },
                     "online_doc_uri": {
                         "fr-FR": "https://payzen.io/fr-FR/plugins/opencart/sitemap.html",
                         "en-EN": "https://payzen.io/en-EN/plugins/opencart/sitemap.html",

@@ -32,12 +32,6 @@
         "category": "regular"
     },
     {
-        "title": "Shopify",
-        "logo": "shopify.png",
-        "slug": "shopify",
-        "category": "regular"
-    },
-    {
         "title": "Odoo",
         "logo": "odoo.png",
         "slug": "odoo",

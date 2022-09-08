@@ -3,16 +3,18 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.5.13",
+                "plugin_version": "v2.6.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.13/Lyra_Magento_2.x_v2.5.13.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.0/Lyra_Magento_2.x_v2.6.0.zip",
                 "doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Magento_2.x_v2.5_fr.pdf",
-                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Magento_2.x_v2.5_en.pdf"
+                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Magento_2.x_v2.6_fr.pdf",
+                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Magento_2.x_v2.6_en.pdf",
+                    "es-ES": "https://docs.lyra.com/files/module/doc/Lyra_Magento_2.x_v2.6_es.pdf"
                 },
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/magento2/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/plugins/magento2/sitemap.html"
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/magento2/sitemap.html",
+                    "es-ES": "https://docs.lyra.com/es-ES/collect/plugins/magento2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"

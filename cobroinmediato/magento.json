@@ -3,11 +3,14 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.5.13",
+                "plugin_version": "v2.6.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.5.13/Cobro_Inmediato_Magento_2.x_v2.5.13.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.0/Cobro_Inmediato_Magento_2.x_v2.6.0.zip",
                 "doc_uri": {
-                    "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_Magento_2.x_v2.5_es.pdf"
+                    "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_Magento_2.x_v2.6_es.pdf"
+                },
+                "online_doc_uri": {
+                    "es-AR": "https://secure.cobroinmediato.tech/doc/es-AR/plugins/magento2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"

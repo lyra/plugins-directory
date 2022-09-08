@@ -3,11 +3,14 @@
         "cms_version": "v 2.x - 6.x",
         "packages": [
             {
-                "plugin_version": "v1.10.1",
+                "plugin_version": "v1.10.2",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.1/PayZen_LAT_WooCommerce_2.x-6.x_v1.10.1.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.2/PayZen_LAT_WooCommerce_2.x-6.x_v1.10.2.zip",
                 "doc_uri": {
                     "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_WooCommerce_2.x-6.x_v1.10_es.pdf"
+                },
+                "online_doc_uri": {
+                    "es-ES": "https://payzen.io/lat/plugins/woocommerce/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

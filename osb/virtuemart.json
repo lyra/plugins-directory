@@ -7,8 +7,8 @@
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.4/OSB_VirtueMart_3.x-4.x_v2.2.4.zip",
                 "doc_uri": {
-                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_VirtueMart_3.x_v2.2_fr.pdf",
-                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_VirtueMart_3.x_v2.2_en.pdf"
+                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_VirtueMart_3.x-4.x_v2.2_fr.pdf",
+                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_VirtueMart_3.x-4.x_v2.2_en.pdf"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"

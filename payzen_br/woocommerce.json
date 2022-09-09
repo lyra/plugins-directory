@@ -4,7 +4,7 @@
         "packages": [
             {
                 "plugin_version": "v1.10.2",
-                "type": "full",
+                "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.2/PayZen_BR_WooCommerce_2.x-6.x_v1.10.2.zip",
                 "doc_uri": {
                     "pt-BR": "https://payzen.io/files/module/doc/br/PayZen_BR_WooCommerce_2.x-6.x_v1.10_pt.pdf"

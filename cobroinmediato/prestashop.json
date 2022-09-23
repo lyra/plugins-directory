@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7",
         "packages": [
             {
-                "plugin_version": "v1.15.3",
+                "plugin_version": "v1.15.4",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.3/Cobro_Inmediato_PrestaShop_1.5-1.7_v1.15.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.4/Cobro_Inmediato_PrestaShop_1.5-1.7_v1.15.4.zip",
                 "doc_uri": {
                     "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_PrestaShop_1.5-1.7_v1.15_es.pdf"
                 },

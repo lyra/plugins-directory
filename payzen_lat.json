@@ -25,12 +25,6 @@
         "category": "regular"
     },
     {
-        "title": "Shopify",
-        "logo": "shopify.png",
-        "slug": "shopify",
-        "category": "request"
-    },
-    {
         "title": "Jumpseller",
         "logo": "jumpseller.png",
         "slug": "jumpseller",

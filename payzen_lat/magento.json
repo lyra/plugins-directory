@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.6.1",
+                "plugin_version": "v2.6.2",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.1/PayZen_LAT_Magento_2.x_v2.6.1.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.2/PayZen_LAT_Magento_2.x_v2.6.2.zip",
                 "doc_uri": {
                     "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Magento_2.x_v2.6_es.pdf"
                 },

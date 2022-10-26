@@ -1,13 +1,16 @@
 {
     "current": {
-        "cms_version": "v 6.x",
+        "cms_version": "v 6.4.x",
         "packages": [
             {
-                "plugin_version": "v2.0.0",
+                "plugin_version": "v3.0.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v2.0.0/PayZen_LAT_Shopware_6.x_v2.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v3.0.0/PayZen_LAT_Shopware_6.4.x_v3.0.0.zip",
                 "doc_uri": {
-                    "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Shopware_6.x_v2.0_es.pdf"
+                    "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Shopware_6.4.x_v3.0_es.pdf"
+                },
+                "online_doc_uri": {
+                    "es-ES": "https://payzen.io/lat/plugins/shopware6/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.2 or higher"
@@ -16,6 +19,22 @@
         ]
     },
     "archives": [
+        {
+            "cms_version": "v 6.1.x-6.3.x",
+            "packages": [
+                {
+                    "plugin_version": "v2.0.0",
+                    "type": "single",
+                    "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v2.0.0/PayZen_LAT_Shopware_6.1.x-6.3.x_v2.0.0.zip",
+                    "doc_uri": {
+                        "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Shopware_6.1.x-6.3.x_v2.0_es.pdf"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 7.2 or higher"
+                    }
+                }
+            ]
+        },
         {
             "cms_version": "v 5.x",
             "packages": [

@@ -38,12 +38,6 @@
         "category": "request"
     },
     {
-        "title": "Shopify",
-        "logo": "shopify.png",
-        "slug": "shopify",
-        "category": "regular"
-    },
-    {
         "title": "Ecwid",
         "logo": "ecwid.png",
         "slug": "ecwid",

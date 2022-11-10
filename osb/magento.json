@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.6.2",
+                "plugin_version": "v2.6.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.2/OSB_Magento_2.x_v2.6.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.3/OSB_Magento_2.x_v2.6.3.zip",
                 "doc_uri": {
                     "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Magento_2.x_v2.6_fr.pdf",
                     "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Magento_2.x_v2.6_en.pdf"

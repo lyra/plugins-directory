@@ -6,9 +6,10 @@
                 "plugin_version": "v1.0.0",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-openmage/releases/download/v1.0.0/Lyra_OpenMage_19-20_v1.0.0.zip",
-                "doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_OpenMage_19-20_v1.0_fr.pdf",
-                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_OpenMage_19-20_v1.0_en.pdf"
+                "online_doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/openmage/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/openmage/sitemap.html",
+                    "es-ES": "https://docs.lyra.com/es/collect/plugins/openmage/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

@@ -7,7 +7,7 @@
         "type": "single",
         "plugin_version": "v1.0.1",
         "plugin_uri": "https://clicandpay.groupecdn.fr/doc/files/module/ClicAndPay_By_groupe_Credit_du_Nord_Thelia_1.5.x_v1.0.1.zip",
-        "doc_uri": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Thelia_1.5.x_v1.0_fr.pdf"
+        "online_doc_uri": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/thelia/sitemap.html"
       }
     ]
   }

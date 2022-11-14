@@ -26,8 +26,8 @@
                     "plugin_version": "v1.12.5",
                     "type": "single",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/Payty_Magento_1.4-1.9_v1.12.5.zip",
-                    "doc_uri": {
-                        "es-CO": "https://secure.payty.com/doc/files/module/doc/Payty_Magento_1.4-1.9_v1.12_es.pdf"
+                    "online_doc_uri": {
+                        "es-CO": "https://secure.payty.com/doc/es-CO/plugins/magento/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

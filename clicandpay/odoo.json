@@ -7,7 +7,7 @@
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0.3.zip",
                 "doc_uri": {
-                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0_fr.pdf",
+                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/odoo15/sitemap.html",
                     "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0_en.pdf"
                 },
                 "description": {
@@ -26,7 +26,7 @@
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.4/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-14_v1.2.4.zip",
                     "doc_uri": {
-                        "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-14_v1.2_fr.pdf",
+                        "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/odoo/sitemap.html",
                         "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_10-14_v1.2_en.pdf"
                     },
                     "description": {

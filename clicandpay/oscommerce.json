@@ -6,8 +6,8 @@
                 "plugin_version": "v1.3.4",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.4/ClicAndPay_By_groupe_Credit_du_Nord_osCommerce_2.3.x_v1.3.4.zip",
-                "doc_uri": {
-                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_osCommerce_2.3.x_v1.3_fr.pdf",
+                "online_doc_uri": {
+                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/oscommerce/sitemap.html",
                     "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_osCommerce_2.3.x_v1.3_en.pdf"
                 },
                 "description": {

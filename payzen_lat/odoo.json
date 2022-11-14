@@ -6,8 +6,8 @@
                 "plugin_version": "v2.0.3",
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/PayZen_LAT_Odoo_15_v2.0.3.zip",
-                "doc_uri": {
-                    "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Odoo_15_v2.0_es.pdf"
+                "online_doc_uri": {
+                    "lat": "https://payzen.io/lat/plugins/odoo15/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
@@ -24,8 +24,8 @@
                     "plugin_version": "v1.2.4",
                     "type": "single",
                     "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.4/PayZen_LAT_Odoo_10-14_v1.2.4.zip",
-                    "doc_uri": {
-                        "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Odoo_10-14_v1.2_es.pdf"
+                    "online_doc_uri": {
+                        "lat": "https://payzen.io/lat/plugins/odoo/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires Python 2.7 or higher"

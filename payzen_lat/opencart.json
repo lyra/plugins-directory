@@ -6,11 +6,8 @@
                 "plugin_version": "v4.1.6",
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.6/PayZen_LAT_OpenCart_3.x_v4.1.6.ocmod.zip",
-                "doc_uri": {
-                    "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_OpenCart_3.x_v4.1_es.pdf"
-                },
                 "online_doc_uri": {
-                    "es-ES": "https://payzen.io/lat/plugins/opencart3/sitemap.html"
+                    "lat": "https://payzen.io/lat/plugins/opencart3/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"
@@ -27,8 +24,8 @@
                     "plugin_version": "v3.1.1",
                     "type": "single",
                     "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.1/PayZen_LAT_OpenCart_2.3.x_v3.1.1.ocmod.zip",
-                    "doc_uri": {
-                        "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_OpenCart_2.3.x_v3.1_es.pdf"
+                    "online_doc_uri": {
+                        "lat": "https://payzen.io/lat/plugins/opencart2-3/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"
@@ -43,8 +40,8 @@
                     "plugin_version": "v2.2.1",
                     "type": "single",
                     "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v2.2.1/PayZen_LAT_OpenCart_2.0-2.2_v2.2.1.ocmod.zip",
-                    "doc_uri": {
-                        "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_OpenCart_2.0-2.2_v2.2_es.pdf"
+                    "online_doc_uri": {
+                        "lat": "https://payzen.io/lat/plugins/opencart/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

@@ -6,8 +6,8 @@
                 "plugin_version": "v2.1.1",
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-ubercart/releases/download/v2.1.1/PayZen_LAT_Ubercart_7.x-3.x_v2.1.1.zip",
-                "doc_uri": {
-                    "es-ES": "https://payzen.io/files/module/doc/lat/PayZen_LAT_Ubercart_7.x-3.x_v2.1_es.pdf"
+                "online_doc_uri": {
+                    "lat": "https://payzen.io/lat/plugins/ubercart/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.3 or higher"

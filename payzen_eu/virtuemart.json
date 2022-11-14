@@ -6,11 +6,6 @@
                 "plugin_version": "v2.2.4",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.4/PayZen_VirtueMart_3.x-4.x_v2.2.4.zip",
-                "doc_uri": {
-                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x-4.x_v2.2_fr.pdf",
-                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x-4.x_v2.2_en.pdf",
-                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_3.x-4.x_v2.2_es.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/virtuemart/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/virtuemart3/sitemap.html",
@@ -30,10 +25,6 @@
                     "plugin_version": "v1.4.0",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v1.4.0/PayZen_VirtueMart_2.x_v1.4.0.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_2.x_v1.4_fr.pdf",
-                        "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_VirtueMart_2.x_v1.4_en.pdf"
-                    },
                     "online_doc_uri": {
                         "fr-FR": "https://payzen.io/fr-FR/plugins/virtuemart2/sitemap.html",
                         "en-EN": "https://payzen.io/en-EN/plugins/virtuemart2/sitemap.html"

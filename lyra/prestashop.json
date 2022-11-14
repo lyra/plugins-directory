@@ -6,11 +6,6 @@
                 "plugin_version": "v1.15.5",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.5/Lyra_PrestaShop_1.5-1.7_v1.15.5.zip",
-                "doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.15_fr.pdf",
-                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.15_en.pdf",
-                    "es-ES": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.5-1.7_v1.15_es.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/prestashop/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/plugins/prestashop/sitemap.html",

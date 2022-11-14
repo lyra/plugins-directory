@@ -26,8 +26,8 @@
                     "plugin_version": "v1.12.5",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/BNPP_IRB_Magento_1.4-1.9_v1.12.5.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Magento_1.4-1.9_v1.12_fr.pdf"
+                    "online_doc_uri": {
+                        "fr-FR": "https://e-paiement-securite-bici.com/doc/fr-FR/plugins/magento/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

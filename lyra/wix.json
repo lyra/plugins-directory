@@ -6,13 +6,10 @@
                 "plugin_version": "v1.2.11",
                 "type": "single",
                 "plugin_uri": "https://docs.lyra.com/fr/collect/plugins/wix/sitemap.html",
-                "doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Wix_v1.2_fr.pdf",
-                    "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Wix_v1.2_en.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/wix/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/plugins/wix/sitemap.html"
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/wix/sitemap.html",
+                    "es-ES": "https://docs.lyra.com/es/collect/plugins/wix/sitemap.html"
                 }
             }
         ]

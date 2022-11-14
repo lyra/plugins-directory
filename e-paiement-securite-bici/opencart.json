@@ -27,8 +27,8 @@
                     "plugin_version": "v3.1.1",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v3.1.1/BNPP_IRB_OpenCart_2.3.x_v3.1.1.ocmod.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_OpenCart_2.3.x_v3.1_fr.pdf"
+                    "online_doc_uri": {
+                        "fr-FR": "https://e-paiement-securite-bici.com/doc/fr-FR/plugins/opencart2-3/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"
@@ -43,8 +43,8 @@
                     "plugin_version": "v2.2.1",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v2.2.1/BNPP_IRB_OpenCart_2.0-2.2_v2.2.1.ocmod.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_OpenCart_2.0-2.2_v2.2_fr.pdf"
+                    "online_doc_uri": {
+                        "fr-FR": "https://e-paiement-securite-bici.com/doc/fr-FR/plugins/opencart/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

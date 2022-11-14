@@ -6,11 +6,6 @@
                 "plugin_version": "v2.6.3",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.3/PayZen_Magento_2.x_v2.6.3.zip",
-                "doc_uri": {
-                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Magento_2.x_v2.6_fr.pdf",
-                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Magento_2.x_v2.6_en.pdf",
-                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Magento_2.x_v2.6_es.pdf"
-                },
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/magento2/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/magento2/sitemap.html",
@@ -30,11 +25,6 @@
                     "plugin_version": "v1.12.5",
                     "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/PayZen_Magento_1.4-1.9_v1.12.5.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Magento_1.4-1.9_v1.12_fr.pdf",
-                        "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Magento_1.4-1.9_v1.12_en.pdf",
-                        "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Magento_1.4-1.9_v1.12_es.pdf"
-                    },
                     "online_doc_uri": {
                         "fr-FR": "https://payzen.io/fr-FR/plugins/magento/sitemap.html",
                         "en-EN": "https://payzen.io/en-EN/plugins/magento/sitemap.html",

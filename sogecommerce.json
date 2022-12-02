@@ -258,5 +258,12 @@
         "slug": "newoxatis",
         "labels": "newoxatis",
         "category": "commercial"
+    },
+    {
+        "title": "WiziShop",
+        "logo": "wizishop.png",
+        "slug": "wizishop",
+        "labels": "wizishop",
+        "category": "commercial"
     }
 ]

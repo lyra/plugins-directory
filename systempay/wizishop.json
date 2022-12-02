@@ -4,7 +4,16 @@
         "ext_dev": true,
         "packages": [
             {
-                "plugin_uri": "https://www.wizishop.fr/aides/nouveautes/fonctionnalites/nouveau-moyen-de-paiement-cyberplus-systempay-banque-populaire.html",
+                "online_doc_uri": [
+                    {
+                        "label": "Banque Populaire",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-1901/"
+                    },
+                    {
+                        "label": "Caisse d'épargne",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-2201/"
+                    }
+                ],
                 "plugin_version": ""
             }
         ]

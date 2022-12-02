@@ -258,5 +258,12 @@
         "slug": "orocommercekiboko",
         "labels": "kiboko",
         "category": "provider"
+    },
+    {
+        "title": "WiziShop",
+        "logo": "wizishop.png",
+        "slug": "wizishop",
+        "labels": "wizishop",
+        "category": "commercial"
     }
 ]

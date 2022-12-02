@@ -43,5 +43,12 @@
         "slug": "drupalcommerce",
         "labels": "Drupal",
         "category": "regular"
+    },
+    {
+        "title": "WiziShop",
+        "logo": "wizishop.png",
+        "slug": "wizishop",
+        "labels": "wizishop",
+        "category": "commercial"
     }
 ]

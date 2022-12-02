@@ -1,0 +1,41 @@
+{
+    "current": {
+        "cms_version": "",
+        "ext_dev": true,
+        "packages": [
+            {
+                "online_doc_uri": [
+                    {
+                        "label": "Banque Tarneaud",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-4001/"
+                    },
+                    {
+                        "label": "Société Marseillaise de Crédit",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-4501/"
+                    },
+                    {
+                        "label": "Banque Rhône-Alpes",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-4301/"
+                    },
+                    {
+                        "label": "Banque Nuger",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-4101/"
+                    },
+                    {
+                        "label": "Banque Laydernier",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-4401/"
+                    },
+                    {
+                        "label": "Banque Kolb",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-4201/"
+                    },
+                    {
+                        "label": "Banque Courtois",
+                        "link": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-3901/"
+                    }
+                ],
+                "plugin_version": ""
+            }
+        ]
+    }
+}

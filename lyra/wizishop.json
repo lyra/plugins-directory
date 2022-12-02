@@ -5,7 +5,7 @@
     "packages": [
       {
         "type": "single",
-        "plugin_uri": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-2004/",
+        "plugin_uri": "https://services.wizishop.com/fr/service/lyra-collect",
         "plugin_version": ""
       }
     ]

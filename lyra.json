@@ -281,5 +281,12 @@
         "logo": "dolibarr.png",
         "slug": "dolibarr",
         "category": "regular"
+    },
+    {
+        "title": "WiziShop",
+        "logo": "wizishop.png",
+        "slug": "wizishop",
+        "labels": "wizishop",
+        "category": "commercial"
     }
 ]

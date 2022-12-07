@@ -6,8 +6,8 @@
                 "plugin_version": "v2.0.5",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.5/ClicAndPay_By_groupe_Credit_du_Nord_Drupal_Commerce_2.x_v2.0.5.zip",
-                "doc_uri": {
-                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Drupal_Commerce_2.x_v2.0_fr.pdf"
+                "online_doc_uri": {
+                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/drupal-commerce2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 5.5 or higher"

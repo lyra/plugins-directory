@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7",
         "packages": [
             {
-                "plugin_version": "v1.15.5",
+                "plugin_version": "v1.15.6",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.5/EpayNC_PrestaShop_1.5-1.7_v1.15.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.6/EpayNC_PrestaShop_1.5-1.7_v1.15.6.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://epaync.nc/doc/fr-FR/plugins/prestashop/sitemap.html"
                 },

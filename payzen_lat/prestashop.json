@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7",
         "packages": [
             {
-                "plugin_version": "v1.15.5",
+                "plugin_version": "v1.15.6",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.5/PayZen_LAT_PrestaShop_1.5-1.7_v1.15.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.6/PayZen_LAT_PrestaShop_1.5-1.7_v1.15.6.zip",
                 "online_doc_uri": {
                     "lat": "https://payzen.io/lat/plugins/prestashop/sitemap.html"
                 },

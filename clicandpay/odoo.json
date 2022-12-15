@@ -1,13 +1,13 @@
 {
     "current": {
-        "cms_version": "v 15",
+        "cms_version": "v 16",
         "packages": [
             {
-                "plugin_version": "v2.0.3",
+                "plugin_version": "v3.0.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0.3.zip",
-                "online_doc_uri": {
-                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/odoo15/sitemap.html"
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.0/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_16_v3.0.0.zip",
+                "doc_uri": {
+                    "fr-FR": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_16_v3.0_fr.pdf"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
@@ -16,6 +16,23 @@
         ]
     },
     "archives": [
+        {
+            "cms_version": "v 15",
+            "deprecated": true,
+            "packages": [
+                {
+                    "plugin_version": "v2.0.3",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/ClicAndPay_By_groupe_Credit_du_Nord_Odoo_15_v2.0.3.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/odoo15/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires Python 3.7 or higher"
+                    }
+                }
+            ]
+        },
         {
             "cms_version": "v 10 - 14",
             "deprecated": true,

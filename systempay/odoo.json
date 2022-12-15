@@ -7,8 +7,8 @@
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.0/Systempay_Odoo_16_v3.0.0.zip",
                 "doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Odoo_16_v3.0_fr.pdf",
-                    "en-EN": "https://paiement.systempay.fr/doc/files/module/doc/Systempay_Odoo_16_v3.0_en.pdf"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/odoo16/sitemap.html",
+                    "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/odoo16/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"

@@ -6,10 +6,10 @@
                 "plugin_version": "v3.0.0",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.0/PayZen_Odoo_16_v3.0.0.zip",
-                "doc_uri": {
-                    "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_16_v3.0_fr.pdf",
-                    "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_16_v3.0_en.pdf",
-                    "es-ES": "https://payzen.io/files/module/doc/eu/PayZen_Odoo_16_v3.0_es.pdf"
+                "online_doc_uri": {
+                        "fr-FR": "https://payzen.io/fr-FR/plugins/odoo16/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/plugins/odoo16/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/plugins/odoo16/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
@@ -20,7 +20,6 @@
     "archives": [
         {
             "cms_version": "v 15",
-            "deprecated": true,
             "packages": [
                 {
                     "plugin_version": "v2.0.3",

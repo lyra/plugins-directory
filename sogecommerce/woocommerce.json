@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 2.x - 6.x",
+        "cms_version": "v 2.x - 7.x",
         "packages": [
             {
-                "plugin_version": "v1.10.2",
+                "plugin_version": "v1.10.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.2/Sogecommerce_WooCommerce_2.x-6.x_v1.10.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.3/Sogecommerce_WooCommerce_2.x-7.x_v1.10.3.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/woocommerce/sitemap.html",
                     "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/woocommerce/sitemap.html"

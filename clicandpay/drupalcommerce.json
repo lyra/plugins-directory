@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.0.5",
+                "plugin_version": "v2.0.6",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.5/ClicAndPay_By_groupe_Credit_du_Nord_Drupal_Commerce_2.x_v2.0.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.6/ClicAndPay_Drupal_Commerce_2.x_v2.0.6.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/drupal-commerce2/sitemap.html"
                 },

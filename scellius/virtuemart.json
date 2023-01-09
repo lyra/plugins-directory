@@ -7,8 +7,8 @@
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.5/Scellius_VirtueMart_3.x-4.x_v2.2.5.zip",
                 "online_doc_uri": {
-                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/virtuemart/sitemap.html",
-                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/en-EN/plugins/virtuemart/sitemap.html"
+                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/virtuemart3/sitemap.html",
+                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/en-EN/plugins/virtuemart3/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"

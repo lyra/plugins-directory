@@ -8,7 +8,8 @@
         "plugin_uri": "https://docs.lyra.com/files/module/doc/Lyra_Jumpseller_v1.0_fr.pdf",
         "online_doc_uri": {
           "fr-FR": "https://docs.lyra.com/fr/collect/plugins/jumpseller/sitemap.html",
-          "en-EN": "https://docs.lyra.com/en/collect/plugins/jumpseller/sitemap.html"
+          "en-EN": "https://docs.lyra.com/en/collect/plugins/jumpseller/sitemap.html",
+          "es-ES": "https://docs.lyra.com/es/collect/plugins/jumpseller/sitemap.html"
         }
       }
     ]

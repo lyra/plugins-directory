@@ -6,6 +6,9 @@
         "type": "single",
         "doc_uri": {
           "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_Shopify_es.pdf"
+        },
+        "online_doc_uri": {
+          "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/shopify/sitemap.html"
         }
       }
     ]

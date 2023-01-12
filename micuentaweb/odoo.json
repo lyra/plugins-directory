@@ -9,6 +9,9 @@
                 "doc_uri": {
                     "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_Odoo_16_v3.0_es.pdf"
                 },
+                "online_doc_uri": {
+                    "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/odoo16/sitemap.html"
+                },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
                 }
@@ -25,6 +28,9 @@
                     "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/Mi_Cuenta_Web_Odoo_15_v2.0.3.zip",
                     "doc_uri": {
                         "es-PE": "https://secure.micuentaweb.pe/doc/files/module/doc/Mi_Cuenta_Web_Odoo_15_v2.0_es.pdf"
+                    },
+                    "online_doc_uri": {
+                        "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/odoo/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires Python 3.7 or higher"

@@ -9,6 +9,9 @@
                 "doc_uri": {
                     "es-CO": "https://secure.payty.com/doc/files/module/doc/Payty_PrestaShop_1.5-1.7_v1.15_es.pdf"
                 },
+                "online_doc_uri": {
+                    "es-CO": "https://secure.payty.com/doc/es-CO/plugins/prestashop/sitemap.html"
+                },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"
                 }

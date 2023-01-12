@@ -9,6 +9,9 @@
                 "doc_uri": {
                     "es-AR": "https://secure.cobroinmediato.tech/doc/files/module/doc/Cobro_Inmediato_PrestaShop_1.5-1.7_v1.15_es.pdf"
                 },
+                "online_doc_uri": {
+                    "es-AR": "https://secure.cobroinmediato.tech/doc/es-AR/plugins/prestashop/sitemap.html"
+                },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"
                 }

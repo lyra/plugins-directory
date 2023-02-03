@@ -23,5 +23,11 @@
         "logo": "jumpseller.png",
         "slug": "jumpseller",
         "category": "commercial"
+    },
+    {
+        "title": "Tiendanube",
+        "logo": "tiendanube.png",
+        "slug": "tiendanube",
+        "category": "commercial"
     }
 ]

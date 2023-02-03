@@ -31,6 +31,12 @@
         "category": "commercial"
     },
     {
+        "title": "Tiendanube",
+        "logo": "tiendanube.png",
+        "slug": "tiendanube",
+        "category": "commercial"
+    },
+    {
         "title": "VirtueMart",
         "slug": "virtuemart",
         "logo": "virtuemart.png",

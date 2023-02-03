@@ -1,0 +1,15 @@
+{
+  "current": {
+    "cms_version": "",
+    "packages": [
+      {
+        "plugin_version": "v1.1.1",
+        "type": "single",
+        "plugin_uri": "https://payzen.io/lat/plugins/tiendanube/sitemap.html",
+        "online_doc_uri": {
+            "es-ES": "https://payzen.io/lat/plugins/tiendanube/sitemap.html"
+        }
+      }
+    ]
+  }
+}

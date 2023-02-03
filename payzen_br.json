@@ -23,5 +23,11 @@
         "logo": "opencart.png",
         "slug": "opencart",
         "category": "top"
+    },
+    {
+        "title": "Tiendanube",
+        "logo": "tiendanube.png",
+        "slug": "tiendanube",
+        "category": "commercial"
     }
 ]

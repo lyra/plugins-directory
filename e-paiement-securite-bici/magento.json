@@ -3,12 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.6.5",
+                "plugin_version": "v2.7.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.6.5/BNPP_IRB_Magento_2.x_v2.6.5.zip",
-                "doc_uri": {
-                    "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Magento_2.x_v2.6_fr.pdf"
-                },
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.7.0/BNPP_IRB_Magento_2.x_v2.7.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://e-paiement-securite-bici.com/doc/fr-FR/plugins/magento2/sitemap.html"
                 },

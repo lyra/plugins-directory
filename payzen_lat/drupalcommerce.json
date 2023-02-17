@@ -1,20 +1,18 @@
 {
-    "archives": [
-        {
-            "cms_version": "v 1.x",
-            "packages": [
-                {
-                    "plugin_version": "v1.3.1",
-                    "type": "single",
-                    "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.1/PayZen_LAT_Drupal_Commerce_1.x_v1.3.1.zip",
-                    "online_doc_uri": {
-                        "es-ES": "https://payzen.io/lat/plugins/drupalcommerce/sitemap.html"
-                    },
-                    "description": {
-                        "default": "&#9658; Requires PHP 5.3 or higher"
-                    }
+    "courant": {
+        "cms_version": "v 1.x",
+        "packages": [
+            {
+                "plugin_version": "v1.3.1",
+                "type": "single",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v1.3.1/PayZen_LAT_Drupal_Commerce_1.x_v1.3.1.zip",
+                "online_doc_uri": {
+                    "es-ES": "https://payzen.io/lat/plugins/drupalcommerce/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 5.3 or higher"
                 }
-            ]
-        }
-    ]
+            }
+        ]
+    }
 }

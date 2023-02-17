@@ -6,9 +6,9 @@
                 "plugin_version": "v3.0.0",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.0/OSB_Odoo_16_v3.0.0.zip",
-                "doc_uri": {
-                    "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_16_v3.0_fr.pdf",
-                    "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Odoo_16_v3.0_en.pdf"
+                "online_doc_uri": {
+                    "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/odoo16/sitemap.html",
+                    "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/odoo16/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"

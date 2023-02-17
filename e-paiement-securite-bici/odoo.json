@@ -6,8 +6,8 @@
                 "plugin_version": "v3.0.0",
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.0/BNPP_IRB_Odoo_16_v3.0.0.zip",
-                "doc_uri": {
-                    "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Odoo_16_v3.0_fr.pdf"
+                "online_doc_uri": {
+                    "fr-FR": "https://e-paiement-securite-bici.com/doc/fr-FR/plugins/odoo16/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"

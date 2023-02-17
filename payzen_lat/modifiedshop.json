@@ -3,9 +3,9 @@
         "cms_version": "v 1.x - 2.x",
         "packages": [
             {
-                "plugin_version": "v1.2.0",
+                "plugin_version": "v1.2.1",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-modifiedshop/releases/download/v1.2.0/PayZen_LAT_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-modifiedshop/releases/download/v1.2.1/PayZen_LAT_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2.1.zip",
                 "online_doc_uri": {
                     "lat": "https://payzen.io/lat/plugins/modified/sitemap.html"
                 },

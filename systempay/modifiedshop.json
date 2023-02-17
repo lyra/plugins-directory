@@ -3,9 +3,9 @@
         "cms_version": "v 1.x - 2.x",
         "packages": [
             {
-                "plugin_version": "v1.2.0",
+                "plugin_version": "v1.2.1",
                 "type": "signle",
-                "plugin_uri": "https://github.com/lyra/plugin-modifiedshop/releases/download/v1.2.0/Systempay_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-modifiedshop/releases/download/v1.2.1/Systempay_modified_eCommerce_Shopsoftware_1.x-2.x_v1.2.1.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/modified/sitemap.html",
                     "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/modified/sitemap.html"

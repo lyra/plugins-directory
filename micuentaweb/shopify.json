@@ -3,9 +3,10 @@
     "cms_version": "",
     "packages": [
       {
+        "plugin_version": "v2",
         "type": "single",
         "online_doc_uri": {
-          "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/shopify/sitemap.html"
+          "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/shopifyv2/sitemap.html"
         }
       }
     ]

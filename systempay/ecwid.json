@@ -5,7 +5,6 @@
             {
                 "plugin_version": "v1.2.1",
                 "type": "single",
-                "plugin_uri": "https://paiement.systempay.fr/doc/fr-FR/plugins/ecwid/sitemap.html",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/ecwid/sitemap.html"
                 }

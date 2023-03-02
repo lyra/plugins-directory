@@ -5,7 +5,6 @@
       {
         "plugin_version": "v1.2.1",
         "type": "single",
-        "plugin_uri": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/ecwid/sitemap.html",
         "online_doc_uri": {
           "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/ecwid/sitemap.html",
           "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/ecwid/sitemap.html"

@@ -5,7 +5,6 @@
       {
         "plugin_version": "v1.1.1",
         "type": "single",
-        "plugin_uri": "https://secure.cobroinmediato.tech/doc/es-AR/plugins/tiendanube/sitemap.html",
         "online_doc_uri": {
             "es-AR": "https://secure.cobroinmediato.tech/doc/es-AR/plugins/tiendanube/sitemap.html"
         }

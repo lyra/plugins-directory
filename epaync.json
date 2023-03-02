@@ -24,5 +24,11 @@
         "slug": "drupalcommerce",
         "labels": "Drupal",
         "category": "regular"
+    },
+    {
+        "title": "Shopify",
+        "logo": "shopify.png",
+        "slug": "shopify",
+        "category": "commercial"
     }
 ]

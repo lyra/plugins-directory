@@ -3,12 +3,11 @@
     "cms_version": "",
     "packages": [
       {
-        "plugin_version": "v1.1.0",
+        "plugin_version": "v1.2.1",
         "type": "single",
-        "plugin_uri": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Ecwid_v1.1_fr.pdf",
+        "plugin_uri": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/ecwid/sitemap.html",
         "online_doc_uri": {
           "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/ecwid/sitemap.html",
-          "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Ecwid_v1.1_en.pdf"
         }
       }
     ]

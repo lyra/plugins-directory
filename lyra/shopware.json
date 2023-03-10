@@ -7,8 +7,9 @@
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v3.0.1/Lyra_Shopware_6.4.x_v3.0.1.zip",
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/shopware6/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/plugins/shopware6/sitemap.html"
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/shopware64/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/shopware64/sitemap.html",
+                    "es-ES": "https://docs.lyra.com/es/collect/plugins/shopware64/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.2 or higher"
@@ -23,9 +24,9 @@
                     "plugin_version": "v2.0.0",
                     "type": "single",
                     "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v2.0.0/Lyra_Shopware_6.1.x-6.3.x_v2.0.0.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_Shopware_6.1.x-6.3.x_v2.0_fr.pdf",
-                        "en-EN": "https://docs.lyra.com/files/module/doc/Lyra_Shopware_6.1.x-6.3.x_v2.0_en.pdf"
+                    "online_doc_uri": {
+                        "fr-FR": "https://docs.lyra.com/fr/collect/plugins/shopware6/sitemap.html",
+                        "en-EN": "https://docs.lyra.com/en/collect/plugins/shopware6/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 7.2 or higher"

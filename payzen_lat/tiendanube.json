@@ -6,7 +6,7 @@
         "plugin_version": "v1.1.1",
         "type": "single",
         "online_doc_uri": {
-            "es-ES": "https://payzen.io/lat/plugins/tiendanube/sitemap.html"
+            "lat": "https://payzen.io/lat/plugins/tiendanube/sitemap.html"
         }
       }
     ]

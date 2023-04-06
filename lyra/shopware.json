@@ -3,9 +3,9 @@
         "cms_version": "v 6.4.x",
         "packages": [
             {
-                "plugin_version": "v3.0.1",
+                "plugin_version": "v3.0.2",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v3.0.1/Lyra_Shopware_6.4.x_v3.0.1.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v3.0.2/Lyra_Shopware_6.4.x_v3.0.2.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/shopware64/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/plugins/shopware64/sitemap.html",
@@ -18,7 +18,8 @@
         ]
     },
     "archives": [
-        {   "cms_version": "v 6.1.x-6.3.x",
+        {
+            "cms_version": "v 6.1.x-6.3.x",
             "packages": [
                 {
                     "plugin_version": "v2.0.0",

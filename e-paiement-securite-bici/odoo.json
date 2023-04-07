@@ -20,9 +20,9 @@
             "cms_version": "v 15",
             "packages": [
                 {
-                    "plugin_version": "v2.0.3",
+                    "plugin_version": "v2.0.4",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/BNPP_IRB_Odoo_15_v2.0.3.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.4/BNPP_IRB_Odoo_15_v2.0.4.zip",
                     "doc_uri": {
                         "fr-FR": "https://e-paiement-securite-bici.com/doc/files/module/doc/BNPP_IRB_Odoo_15_v2.0_fr.pdf"
                     },

@@ -22,9 +22,9 @@
             "cms_version": "v 15",
             "packages": [
                 {
-                    "plugin_version": "v2.0.3",
+                    "plugin_version": "v2.0.4",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.3/Lyra_Odoo_15_v2.0.3.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v2.0.4/Lyra_Odoo_15_v2.0.4.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://docs.lyra.com/fr/collect/plugins/odoo15/sitemap.html",
                         "en-EN": "https://docs.lyra.com/en/collect/plugins/odoo15/sitemap.html",

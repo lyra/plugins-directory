@@ -39,9 +39,9 @@
             "deprecated": true,
             "packages": [
                 {
-                    "plugin_version": "v1.2.4",
+                    "plugin_version": "v1.2.5",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.4/OSB_Odoo_10-14_v1.2.4.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.5/OSB_Odoo_10-14_v1.2.5.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/odoo/sitemap.html",
                         "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/odoo/sitemap.html"

@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 2.x - 7.x",
+        "cms_version": "v 2.x - 7.4.x",
         "packages": [
             {
-                "plugin_version": "v1.10.5",
+                "plugin_version": "v1.10.4",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.5/PayZen_BR_WooCommerce_2.x-7.x_v1.10.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.4/PayZen_BR_WooCommerce_2.x-7.x_v1.10.4.zip",
                 "online_doc_uri": {
                     "pt-BR": "https://payzen.io/pt-BR/plugins/woocommerce/sitemap.html"
                 },

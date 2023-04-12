@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 2.x - 7.4.x",
+        "cms_version": "v 2.x - 7.x",
         "packages": [
             {
-                "plugin_version": "v1.10.4",
+                "plugin_version": "v1.10.6",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.4/ClicAndPay_WooCommerce_2.x-7.x_v1.10.4.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.6/ClicAndPay_WooCommerce_2.x-7.x_v1.10.6.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/woocommerce/sitemap.html"
                 },

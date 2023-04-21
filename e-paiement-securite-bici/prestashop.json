@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7, 8.x",
         "packages": [
             {
-                "plugin_version": "v1.15.8",
+                "plugin_version": "v1.15.9",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.8/BNPP_IRB_PrestaShop_1.5-8.x_v1.15.8.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.9/BNPP_IRB_PrestaShop_1.5-8.x_v1.15.9.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://e-paiement-securite-bici.com/doc/fr-FR/plugins/prestashop/sitemap.html"
                 },

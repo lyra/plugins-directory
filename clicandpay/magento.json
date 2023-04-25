@@ -14,25 +14,5 @@
                 }
             }
         ]
-    },
-    "archives": [
-        {
-            "cms_version": "v 1.4 - 1.9",
-            "packages": [
-                {
-                    "plugin_version": "v1.12.5",
-                    "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/ClicAndPay_By_groupe_Credit_du_Nord_Magento_1.4-1.9_v1.12.5.zip",
-                    "online_doc_uri": {
-                        "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/magento/sitemap.html",
-                        "en-EN": "https://clicandpay.groupecdn.fr/doc/files/module/doc/ClicAndPay_By_groupe_Credit_du_Nord_Magento_1.4-1.9_v1.12_en.pdf"
-                    },
-                    "description": {
-                        "default": "&#9658; Requires PHP 5.3 or higher"
-                    }
-                }
-            ],
-            "deprecated": true
-        }
-    ]
+    }
 }

@@ -15,25 +15,5 @@
                 }
             }
         ]
-    },
-    "archives": [
-        {
-            "cms_version": "v 1.4 - 1.9",
-            "packages": [
-                {
-                    "plugin_version": "v1.12.5",
-                    "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/Sogecommerce_Magento_1.4-1.9_v1.12.5.zip",
-                    "online_doc_uri": {
-                        "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/magento1/sitemap.html",
-                        "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/magento/sitemap.html"
-                    },
-                    "description": {
-                        "default": "&#9658; Requires PHP 5.3 or higher"
-                    }
-                }
-            ],
-            "deprecated": true
-        }
-    ]
+    }
 }

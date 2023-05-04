@@ -4,9 +4,9 @@
     "code": [
       {
         "name": "Payment Form",
-        "version": "0.2.1",
-        "link": false,
-        "zip": "https://github.com/lyra/php-payment-form-examples/releases/download/v0.2.1/BNPP_IRB_php-payment-form-examples_v0.2.1.zip",
+        "version": "1.0.0",
+        "link": "https://github.com/lyra/php-payment-form-examples",
+        "zip": "https://github.com/lyra/php-payment-form-examples/archive/master.zip",
         "display": ["fr-FR"]
       }
     ]

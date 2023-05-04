@@ -4,15 +4,7 @@
     "code": [
       {
         "name": "Payment Form",
-        "version": "1.0f",
-        "link": "",
-        "zip": "/files/integration/payment_form_payzen_1.0f.zip",
-        "label": "payzen",
-        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
-      },
-      {
-        "name": "Payment Form SDK",
-        "version": "0.2",
+        "version": "1.0.0",
         "link": "https://github.com/lyra/php-payment-form-examples",
         "zip": "https://github.com/lyra/php-payment-form-examples/archive/master.zip",
         "label": "payzen",

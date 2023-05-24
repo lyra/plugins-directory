@@ -3,9 +3,9 @@
         "cms_version": "v 3.x",
         "packages": [
             {
-                "plugin_version": "v4.1.6",
+                "plugin_version": "v4.1.7",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.6/Sogecommerce_OpenCart_3.x_v4.1.6.ocmod.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.7/Sogecommerce_OpenCart_3.x_v4.1.7.ocmod.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/opencart3/sitemap.html",
                     "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/opencart3/sitemap.html"

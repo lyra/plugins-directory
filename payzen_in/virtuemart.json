@@ -3,9 +3,9 @@
         "cms_version": "v 3.x - 4.x",
         "packages": [
             {
-                "plugin_version": "v2.2.5",
+                "plugin_version": "v2.2.6",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.5/PayZen_IN_VirtueMart_3.x-4.x_v2.2.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.6/PayZen_IN_VirtueMart_3.x-4.x_v2.2.6.zip",
                 "doc_uri": {
                     "en-IN": "https://payzen.io/files/module/doc/in/PayZen_IN_VirtueMart_3.x-4.x_v2.2_en.pdf"
                 },

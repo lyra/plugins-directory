@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7, 8.x",
         "packages": [
             {
-                "plugin_version": "v1.15.9",
+                "plugin_version": "v1.15.10",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.9/Payty_PrestaShop_1.5-8.x_v1.15.9.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.10/Payty_PrestaShop_1.5-8.x_v1.15.10.zip",
                 "online_doc_uri": {
                     "es-CO": "https://secure.payty.com/doc/es-CO/plugins/prestashop/sitemap.html"
                 },

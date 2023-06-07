@@ -1,0 +1,39 @@
+{
+    "current": {
+        "cms_version": "v 2.x",
+        "packages": [
+            {
+                "plugin_version": "v2.7.0",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.7.0/Scellius_Magento_2.x_v2.7.0.zip",
+                "online_doc_uri": {
+                    "fr-FR": "https://www.gateway.monetico-retail.com/doc/fr-FR/plugins/drupal-commerce2/sitemap.html",
+                    "en-EN": "https://www.gateway.monetico-retail.com/doc/en-EN/plugins/drupal-commerce2/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 7.0 or higher"
+                }
+            }
+        ]
+    },
+    "archives": [
+        {
+            "cms_version": "v 1.4 - 1.9",
+            "packages": [
+                {
+                    "plugin_version": "v1.12.5",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/Scellius_Magento_1.4-1.9_v1.12.5.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://www.gateway.monetico-retail.com/doc/fr-FR/plugins/drupal-commerce/sitemap.html",
+                        "en-EN": "https://www.gateway.monetico-retail.com/doc/en-EN/plugins/drupal-commerce/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 5.3 or higher"
+                    }
+                }
+            ],
+            "deprecated": true
+        }
+    ]
+}

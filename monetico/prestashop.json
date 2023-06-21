@@ -5,7 +5,6 @@
             {
                 "plugin_version": "v1.15.10",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.15.10/Scellius_PrestaShop_1.5-8.x_v1.15.10.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://www.gateway.monetico-retail.com/doc/fr-FR/plugins/prestashop/sitemap.html",
                     "en-EN": "https://www.gateway.monetico-retail.com/doc/en-EN/plugins/prestashop/sitemap.html"

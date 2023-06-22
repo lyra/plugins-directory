@@ -6,8 +6,8 @@
                 "plugin_version": "v2.7.0",
                 "type": "full",
                 "online_doc_uri": {
-                    "fr-FR": "https://www.gateway.monetico-retail.com/doc/fr-FR/plugins/drupal-commerce2/sitemap.html",
-                    "en-EN": "https://www.gateway.monetico-retail.com/doc/en-EN/plugins/drupal-commerce2/sitemap.html"
+                    "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/drupal-commerce2/sitemap.html",
+                    "en-EN": "https://secure.gateway.monetico-retail.com/doc/en-EN/plugins/drupal-commerce2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"
@@ -23,8 +23,8 @@
                     "plugin_version": "v1.12.5",
                     "type": "full",
                     "online_doc_uri": {
-                        "fr-FR": "https://www.gateway.monetico-retail.com/doc/fr-FR/plugins/drupal-commerce/sitemap.html",
-                        "en-EN": "https://www.gateway.monetico-retail.com/doc/en-EN/plugins/drupal-commerce/sitemap.html"
+                        "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/drupal-commerce/sitemap.html",
+                        "en-EN": "https://secure.gateway.monetico-retail.com/doc/en-EN/plugins/drupal-commerce/sitemap.html"
                     },
                     "description": {
                         "default": "&#9658; Requires PHP 5.3 or higher"

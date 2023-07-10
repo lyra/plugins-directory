@@ -3,7 +3,7 @@
         "cms_version": "v 2.x - 7.x",
         "packages": [
             {
-                "plugin_version": "v1.10.7",
+                "plugin_version": "v1.10.8",
                 "type": "full",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/woocommerce/sitemap.html",

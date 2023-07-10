@@ -3,9 +3,9 @@
         "cms_version": "v 2.x - 7.x",
         "packages": [
             {
-                "plugin_version": "v1.10.7",
+                "plugin_version": "v1.10.8",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.7/PayZen_WooCommerce_2.x-7.x_v1.10.7.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.8/PayZen_WooCommerce_2.x-7.x_v1.10.8.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/woocommerce/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/woocommerce/sitemap.html",

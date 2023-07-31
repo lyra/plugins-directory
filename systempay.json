@@ -55,7 +55,7 @@
         "title": "Thelia",
         "logo": "thelia.png",
         "slug": "thelia",
-        "category": "regular"
+        "category": "request"
     },
     {
         "title": "Odoo",

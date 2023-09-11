@@ -37,9 +37,9 @@
             "deprecated": true,
             "packages": [
                 {
-                    "plugin_version": "v1.2.5",
+                    "plugin_version": "v1.2.6",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.5/ClicAndPay_Odoo_10-14_v1.2.5.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.6/ClicAndPay_Odoo_10-14_v1.2.6.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/odoo/sitemap.html"
                     },

@@ -4,9 +4,9 @@
         "deprecated": true,
         "packages": [
             {
-                "plugin_version": "v1.2.5",
+                "plugin_version": "v1.2.6",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.5/PayZen_IN_Odoo_10-14_v1.2.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v1.2.6/PayZen_IN_Odoo_10-14_v1.2.6.zip",
                 "doc_uri": {
                     "en-IN": "https://payzen.io/files/module/doc/in/PayZen_IN_Odoo_10-14_v1.2_en.pdf"
                 },

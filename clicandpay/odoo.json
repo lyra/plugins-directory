@@ -3,9 +3,9 @@
         "cms_version": "v 16",
         "packages": [
             {
-                "plugin_version": "v3.0.2",
+                "plugin_version": "v3.0.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.2/ClicAndPay_Odoo_16_v3.0.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.3/ClicAndPay_Odoo_16_v3.0.3.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://clicandpay.groupecdn.fr/doc/fr-FR/plugins/odoo16/sitemap.html"
                 },

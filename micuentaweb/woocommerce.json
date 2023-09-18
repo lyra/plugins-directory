@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 2.x - 7.x",
+        "cms_version": "v 2.x - 8.x",
         "packages": [
             {
-                "plugin_version": "v1.10.8",
+                "plugin_version": "v1.11.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.10.8/Mi_Cuenta_Web_WooCommerce_2.x-7.x_v1.10.8.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.11.0/Mi_Cuenta_Web_WooCommerce_2.x-8.x_v1.11.0.zip",
                 "online_doc_uri": {
                     "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/woocommerce/sitemap.html"
                 },

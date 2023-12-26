@@ -1,15 +1,15 @@
 {
     "current": {
-        "cms_version": "v 6.4.x",
+        "cms_version": "v 6.5.x",
         "packages": [
             {
-                "plugin_version": "v3.0.3",
+                "plugin_version": "v4.0.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v3.0.3/PayZen_Shopware_6.4.x_v3.0.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v4.0.0/PayZen_Shopware_6.5.x_v4.0.0.zip",
                 "online_doc_uri": {
-                    "fr-FR": "https://payzen.io/fr-FR/plugins/shopware64/sitemap.html",
-                    "en-EN": "https://payzen.io/en-EN/plugins/shopware64/sitemap.html",
-                    "es-ES": "https://payzen.io/es-ES/plugins/shopware64/sitemap.html"
+                    "fr-FR": "https://payzen.io/fr-FR/plugins/shopware65/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/plugins/shopware65/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/shopware65/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.2 or higher"
@@ -18,6 +18,24 @@
         ]
     },
     "archives": [
+        {
+            "cms_version": "v 6.4.x",
+            "packages": [
+                {
+                    "plugin_version": "v3.0.3",
+                    "type": "single",
+                    "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v3.0.3/PayZen_Shopware_6.4.x_v3.0.3.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://payzen.io/fr-FR/plugins/shopware64/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/plugins/shopware64/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/plugins/shopware64/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 7.2 or higher"
+                    }
+                }
+            ]
+        },
         {
             "cms_version": "v 6.1.x-6.3.x",
             "packages": [

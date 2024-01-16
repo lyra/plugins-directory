@@ -3,9 +3,9 @@
         "cms_version": "v 3.x - 4.x",
         "packages": [
             {
-                "plugin_version": "v2.2.6",
+                "plugin_version": "v2.2.7",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.6/OSB_VirtueMart_3.x-4.x_v2.2.6.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-virtuemart/releases/download/v2.2.7/OSB_VirtueMart_3.x-4.x_v2.2.7.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/virtuemart/sitemap.html",
                     "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/virtuemart/sitemap.html"

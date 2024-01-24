@@ -3,9 +3,9 @@
         "cms_version": "v 6.5.x",
         "packages": [
             {
-                "plugin_version": "v4.0.0",
+                "plugin_version": "v4.1.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v4.0.0/Systempay_Shopware_6.5.x_v4.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v4.1.0/Systempay_Shopware_6.5.x_v4.1.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/shopware65/sitemap.html"
                 },

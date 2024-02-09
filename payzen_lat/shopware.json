@@ -3,9 +3,9 @@
         "cms_version": "v 6.5.x",
         "packages": [
             {
-                "plugin_version": "v4.1.0",
+                "plugin_version": "v4.1.1",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v4.1.0/PayZen_LAT_Shopware_6.5.x_v4.1.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-shopware/releases/download/v4.1.1/PayZen_LAT_Shopware_6.5.x_v4.1.1.zip",
                 "online_doc_uri": {
                     "lat": "https://payzen.io/lat/plugins/shopware65/sitemap.html"
                 },

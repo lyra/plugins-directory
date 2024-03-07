@@ -3,9 +3,9 @@
         "cms_version": "v 2.3.x",
         "packages": [
             {
-                "plugin_version": "v1.3.4",
+                "plugin_version": "v1.4.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.4/PayZen_LAT_osCommerce_2.3.x_v1.3.4.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.4.0/PayZen_LAT_osCommerce_2.3.x_v1.4.0.zip",
                 "online_doc_uri": {
                     "lat": "https://payzen.io/lat/plugins/oscommerce/sitemap.html"
                 },

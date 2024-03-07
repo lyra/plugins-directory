@@ -3,9 +3,9 @@
         "cms_version": "v 2.3.x",
         "packages": [
             {
-                "plugin_version": "v1.3.4",
+                "plugin_version": "v1.4.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.3.4/Systempay_osCommerce_2.3.x_v1.3.4.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-oscommerce/releases/download/v1.4.0/Systempay_osCommerce_2.3.x_v1.4.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/oscommerce/sitemap.html"
                 },

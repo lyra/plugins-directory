@@ -288,5 +288,12 @@
         "slug": "wizishop",
         "labels": "wizishop",
         "category": "commercial"
+    },
+    {
+        "title": "Sylius",
+        "logo": "sylius.png",
+        "slug": "sylius",
+        "labels": "sylius",
+        "category": "regular"
     }
 ]

@@ -1,13 +1,13 @@
 {
     "current": {
-        "cms_version": "v 16",
+        "cms_version": "v 17",
         "packages": [
             {
-                "plugin_version": "v3.0.3",
+                "plugin_version": "v4.0.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.3/PayZen_LAT_Odoo_16_v3.0.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.0.0/PayZen_LAT_Odoo_17_v4.0.0.zip",
                 "online_doc_uri": {
-                    "lat": "https://payzen.io/lat/plugins/odoo16/sitemap.html"
+                    "lat": "https://payzen.io/lat/plugins/odoo17/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
@@ -16,6 +16,22 @@
         ]
     },
     "archives": [
+        {
+            "cms_version": "v 16",
+            "packages": [
+                {
+                    "plugin_version": "v3.0.3",
+                    "type": "single",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.3/PayZen_LAT_Odoo_16_v3.0.3.zip",
+                    "online_doc_uri": {
+                        "lat": "https://payzen.io/lat/plugins/odoo16/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires Python 3.7 or higher"
+                    }
+                }
+            ]
+        },
         {
             "cms_version": "v 15",
             "packages": [

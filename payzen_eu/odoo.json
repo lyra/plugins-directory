@@ -1,15 +1,15 @@
 {
     "current": {
-        "cms_version": "v 16",
+        "cms_version": "v 17",
         "packages": [
             {
-                "plugin_version": "v3.0.3",
+                "plugin_version": "v4.0.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.3/PayZen_Odoo_16_v3.0.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.0.0/PayZen_Odoo_17_v4.0.0.zip",
                 "online_doc_uri": {
-                        "fr-FR": "https://payzen.io/fr-FR/plugins/odoo16/sitemap.html",
-                        "en-EN": "https://payzen.io/en-EN/plugins/odoo16/sitemap.html",
-                        "es-ES": "https://payzen.io/es-ES/plugins/odoo16/sitemap.html"
+                        "fr-FR": "https://payzen.io/fr-FR/plugins/odoo17/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/plugins/odoo17/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/plugins/odoo17/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires Python 3.7 or higher"
@@ -18,6 +18,24 @@
         ]
     },
     "archives": [
+        {
+            "cms_version": "v 16",
+            "packages": [
+                {
+                    "plugin_version": "v3.0.3",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.3/PayZen_Odoo_16_v3.0.3.zip",
+                    "online_doc_uri": {
+                            "fr-FR": "https://payzen.io/fr-FR/plugins/odoo16/sitemap.html",
+                            "en-EN": "https://payzen.io/en-EN/plugins/odoo16/sitemap.html",
+                            "es-ES": "https://payzen.io/es-ES/plugins/odoo16/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires Python 3.7 or higher"
+                    }
+                }
+            ]
+        },
         {
             "cms_version": "v 15",
             "packages": [

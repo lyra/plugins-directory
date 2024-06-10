@@ -239,13 +239,6 @@
         "category": "request"
     },
     {
-        "title": "Orocommerce Kiboko",
-        "logo": "orocommerce-kiboko.png",
-        "slug": "orocommercekiboko",
-        "labels": "kiboko",
-        "category": "provider"
-    },
-    {
         "title": "Box e-commerce",
         "logo": "boxecommerce.png",
         "slug": "boxecommerce",

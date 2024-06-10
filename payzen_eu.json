@@ -400,13 +400,6 @@
         "category": "commercial"
     },
     {
-        "title": "Orocommerce Kiboko",
-        "logo": "orocommerce-kiboko.png",
-        "slug": "orocommercekiboko",
-        "labels": "kiboko",
-        "category": "provider"
-    },
-    {
         "title": "GiveWP",
         "logo": "givewp.png",
         "slug": "givewp",

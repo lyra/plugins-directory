@@ -17,5 +17,12 @@
         "logo": "woocommerce.png",
         "labels": "WordPress",
         "category": "regular"
+    },
+    {
+        "title": "Drupal Commerce",
+        "logo": "drupalcommerce.png",
+        "slug": "drupalcommerce",
+        "labels": "Drupal",
+        "category": "regular"
     }
 ]

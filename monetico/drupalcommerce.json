@@ -1,0 +1,19 @@
+{
+    "current": {
+        "cms_version": "v 2.x",
+        "packages": [
+            {
+                "plugin_version": "v2.0.8",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.0.8/Monetico_Retail_Drupal_Commerce_2.x_v2.0.8.zip",
+                "online_doc_uri": {
+                    "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/drupal-commerce2/sitemap.html",
+                    "en-EN": "https://secure.gateway.monetico-retail.com/doc/en-EN/plugins/drupal-commerce2/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 5.5 or higher"
+                }
+            }
+        ]
+    }
+}

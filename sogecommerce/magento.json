@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.8.8",
+                "plugin_version": "v2.9.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.8.8/Sogecommerce_Magento_2.x_v2.8.8.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.9.0/Sogecommerce_Magento_2.x_v2.9.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/magento2/sitemap.html",
                     "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/magento2/sitemap.html"

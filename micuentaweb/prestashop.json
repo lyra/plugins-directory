@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7, 8.x",
         "packages": [
             {
-                "plugin_version": "v1.17.2",
+                "plugin_version": "v1.17.3",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.17.2/Mi_Cuenta_Web_PrestaShop_1.5-8.x_v1.17.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.17.3/Mi_Cuenta_Web_PrestaShop_1.5-8.x_v1.17.3.zip",
                 "online_doc_uri": {
                     "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/prestashop/sitemap.html"
                 },

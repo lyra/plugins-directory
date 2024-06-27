@@ -75,6 +75,33 @@
         "category": "regular"
     },
     {
+        "title": "Shopware",
+        "logo": "shopware.png",
+        "slug": "shopware",
+        "category": "regular"
+    },
+    {
+        "title": "Salesforce",
+        "logo": "salesforce.png",
+        "slug": "salesforce",
+        "labels": "salesforce",
+        "category": "regular"
+    },
+    {
+        "title": "Sylius",
+        "logo": "sylius.png",
+        "slug": "sylius",
+        "labels": "sylius",
+        "category": "regular"
+    },
+    {
+        "title": "Proximis",
+        "logo": "proximis.png",
+        "slug": "proximis",
+        "labels": "proximis",
+        "category": "regular"
+    },
+    {
         "title": "SPIP",
         "logo": "spip.png",
         "slug": "spip",
@@ -93,12 +120,6 @@
         "slug": "eshop",
         "labels": "WordPress",
         "category": "request"
-    },
-    {
-        "title": "Shopware",
-        "logo": "shopware.png",
-        "slug": "shopware",
-        "category": "regular"
     },
     {
         "title": "TheCartPress",
@@ -281,19 +302,5 @@
         "slug": "wizishop",
         "labels": "wizishop",
         "category": "commercial"
-    },
-    {
-        "title": "Sylius",
-        "logo": "sylius.png",
-        "slug": "sylius",
-        "labels": "sylius",
-        "category": "regular"
-    },
-    {
-        "title": "Proximis",
-        "logo": "proximis.png",
-        "slug": "proximis",
-        "labels": "proximis",
-        "category": "regular"
     }
 ]

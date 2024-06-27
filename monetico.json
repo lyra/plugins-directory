@@ -24,5 +24,12 @@
         "slug": "drupalcommerce",
         "labels": "Drupal",
         "category": "regular"
+    },
+    {
+        "title": "Proximis",
+        "logo": "proximis.png",
+        "slug": "proximis",
+        "labels": "proximis",
+        "category": "regular"
     }
 ]

@@ -1,0 +1,19 @@
+{
+    "current": {
+        "cms_version": "v 6.5.x",
+        "packages": [
+            {
+                "plugin_version": "v1.1.0",
+                "type": "single",
+                "online_doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/proximis/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/proximis/sitemap.html",
+                    "es-ES": "https://docs.lyra.com/es/collect/plugins/proximis/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 8.1 or higher"
+                }
+            }
+        ]
+    }
+}

@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7, 8.x",
         "packages": [
             {
-                "plugin_version": "v1.17.4",
+                "plugin_version": "v1.18.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.17.4/Systempay_PrestaShop_1.5-8.x_v1.17.4.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.18.0/Systempay_PrestaShop_1.5-8.x_v1.18.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/prestashop/sitemap.html",
                     "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/prestashop/sitemap.html"

@@ -63,6 +63,12 @@
         "category": "request"
     },
     {
+        "title": "Tiendanube",
+        "logo": "tiendanube.png",
+        "slug": "tiendanube",
+        "category": "commercial"
+    },
+    {
         "title": "SPIP",
         "logo": "spip.png",
         "slug": "spip",

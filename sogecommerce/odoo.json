@@ -5,7 +5,7 @@
             {
                 "plugin_version": "v4.0.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.3/Sogecommerce_Odoo_17_v4.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.0.0/Sogecommerce_Odoo_17_v4.0.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/odoo17/sitemap.html",
                     "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/odoo17/sitemap.html"

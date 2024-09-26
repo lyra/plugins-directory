@@ -19,6 +19,19 @@
         "category": "top"
     },
     {
+        "title": "Odoo",
+        "logo": "odoo.png",
+        "slug": "odoo",
+        "category": "regular"
+    },
+    {
+        "title": "Sylius",
+        "logo": "sylius.png",
+        "slug": "sylius",
+        "labels": "sylius",
+        "category": "regular"
+    },
+    {
         "title": "OpenMage",
         "logo": "openmage.png",
         "slug": "openmage",
@@ -52,16 +65,16 @@
         "category": "commercial"
     },
     {
+        "title": "Shopware",
+        "logo": "shopware.png",
+        "slug": "shopware",
+        "category": "request"
+    },
+    {
         "title": "Thelia",
         "logo": "thelia.png",
         "slug": "thelia",
         "category": "request"
-    },
-    {
-        "title": "Odoo",
-        "logo": "odoo.png",
-        "slug": "odoo",
-        "category": "regular"
     },
     {
         "title": "Drupal Commerce",
@@ -88,12 +101,6 @@
         "logo": "eshop.png",
         "slug": "eshop",
         "labels": "WordPress",
-        "category": "request"
-    },
-    {
-        "title": "Shopware",
-        "logo": "shopware.png",
-        "slug": "shopware",
         "category": "request"
     },
     {

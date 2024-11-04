@@ -26,6 +26,13 @@
         "category": "regular"
     },
     {
+        "title": "HikaShop",
+        "logo": "hikashop.png",
+        "slug": "hikashop",
+        "labels": "Joomla",
+        "category": "regular"
+    },
+    {
         "title": "osCommerce",
         "slug": "oscommerce",
         "logo": "oscommerce.png",

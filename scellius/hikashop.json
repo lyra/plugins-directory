@@ -1,0 +1,19 @@
+{
+    "current": {
+        "cms_version": "v 4.x",
+        "packages": [
+            {
+                "plugin_version": "v2.1.5",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.1.5/Scellius_HikaShop_2.x-4.x_v2.1.5.zip",
+                "online_doc_uri": {
+                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/hikashop/sitemap.html",
+                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/en-EN/plugins/hikashop/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 7.0 or higher"
+                }
+            }
+        ]
+    }
+}

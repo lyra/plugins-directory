@@ -1,6 +1,6 @@
 {
     "current": {
-        "cms_version": "v 4.x",
+        "cms_version": "v 2.x-4.x",
         "packages": [
             {
                 "plugin_version": "v2.1.5",

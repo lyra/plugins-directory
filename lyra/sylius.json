@@ -5,7 +5,7 @@
             {
                 "plugin_version": "v1.2.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.1.2/Lyra_Sylius_1.12.x_v1.2.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.2.0/Lyra_Sylius_1.12.x_v1.2.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/sylius/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/plugins/sylius/sitemap.html",

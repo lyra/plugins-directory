@@ -3,9 +3,9 @@
         "cms_version": "v 19 - 20",
         "packages": [
             {
-                "plugin_version": "v1.0.0",
+                "plugin_version": "v1.1.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-openmage/releases/download/v1.0.0/Sogecommerce_OpenMage_19-20_v1.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-openmage/releases/download/v1.1.0/Sogecommerce_OpenMage_19-20_v1.1.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/openmage/sitemap.html"
                 },

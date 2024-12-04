@@ -20,9 +20,9 @@
             "cms_version": "v 16",
             "packages": [
                 {
-                    "plugin_version": "v3.0.3",
+                    "plugin_version": "v3.1.0",
                     "type": "single",
-                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.3/PayZen_LAT_Odoo_16_v3.0.3.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.1.0/PayZen_LAT_Odoo_16_v3.1.0.zip",
                     "online_doc_uri": {
                         "lat": "https://payzen.io/lat/plugins/odoo16/sitemap.html"
                     },

@@ -21,9 +21,9 @@
             "cms_version": "v 16",
             "packages": [
                 {
-                    "plugin_version": "v3.0.3",
+                    "plugin_version": "v3.1.0",
                     "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.0.3/Systempay_Odoo_16_v3.0.3.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v3.1.0/Systempay_Odoo_16_v3.1.0.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/odoo16/sitemap.html",
                         "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/odoo16/sitemap.html"

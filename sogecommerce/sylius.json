@@ -3,9 +3,9 @@
         "cms_version": "v 1.12.x",
         "packages": [
             {
-                "plugin_version": "v1.2.1",
+                "plugin_version": "v1.3.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.2.1/Sogecommerce_Sylius_1.12.x_v1.2.1.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.3.0/Sogecommerce_Sylius_1.12.x_v1.3.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/sylius/sitemap.html",
                     "en-EN": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/sylius/sitemap.html"

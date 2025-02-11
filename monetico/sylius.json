@@ -3,9 +3,9 @@
         "cms_version": "v 1.12.x",
         "packages": [
             {
-                "plugin_version": "v1.3.0",
+                "plugin_version": "v1.3.1",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.3.0/Monetico_Retail_Sylius_1.12.x_v1.3.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.3.1/Monetico_Retail_Sylius_1.12.x_v1.3.1.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius/sitemap.html",
                     "en-EN": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius/sitemap.html"

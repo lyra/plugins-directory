@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7, 8.x",
         "packages": [
             {
-                "plugin_version": "v1.19.1",
+                "plugin_version": "v1.19.2",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.19.1/Monetico_Retail_PrestaShop_1.5-8.x_v1.19.1.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.19.2/Monetico_Retail_PrestaShop_1.5-8.x_v1.19.2.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/prestashop/sitemap.html",
                     "en-EN": "https://secure.gateway.monetico-retail.com/doc/en-EN/plugins/prestashop/sitemap.html"

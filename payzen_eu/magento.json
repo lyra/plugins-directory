@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.10.0",
+                "plugin_version": "v2.10.1",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.10.0/PayZen_Magento_2.x_v2.10.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.10.1/PayZen_Magento_2.x_v2.10.1.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/magento2/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/magento2/sitemap.html",

@@ -19,7 +19,7 @@
     },
     "archives": [
         {
-            "cms_version": ""v 3.x",
+            "cms_version": "v 3.x",
             "packages": [
                 {
                     "plugin_version": "v4.1.7",

@@ -5,7 +5,7 @@
             {
                 "plugin_version": "v5.0.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v5.0.0/PayZen_OpenCart_4.x_v5.0.0.ocmod.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v5.0.0/PayZen_OpenCart_4.x_v5.0.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/opencart4/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/opencart4/sitemap.html",

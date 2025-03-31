@@ -1,14 +1,14 @@
 {
     "current": {
-        "cms_version": "v 3.x",
+        "cms_version": "v 4.x",
         "packages": [
             {
-                "plugin_version": "v4.1.7",
+                "plugin_version": "v5.0.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.7/Systempay_OpenCart_3.x_v4.1.7.ocmod.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v5.0.0/Systempay_OpenCart_4.x_v5.0.0.ocmod.zip",
                 "online_doc_uri": {
-                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/opencart3/sitemap.html",
-                    "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/opencart3/sitemap.html"
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/opencart4/sitemap.html",
+                    "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/opencart4/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"
@@ -17,6 +17,23 @@
         ]
     },
     "archives": [
+        {
+            "cms_version": "v 3.x",
+            "packages": [
+                {
+                    "plugin_version": "v4.1.7",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v4.1.7/Systempay_OpenCart_3.x_v4.1.7.ocmod.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/opencart3/sitemap.html",
+                        "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/opencart3/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 7.0 or higher"
+                    }
+                }
+            ]
+        },
         {
             "cms_version": "v 2.3.x",
             "deprecated": true,

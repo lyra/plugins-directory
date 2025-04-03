@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 17",
+        "cms_version": "v 17-18",
         "packages": [
             {
-                "plugin_version": "v4.0.0",
+                "plugin_version": "v4.1.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.0.0/PayZen_LAT_Odoo_17_v4.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.1.0/PayZen_LAT_Odoo_17-18_v4.1.0.zip",
                 "online_doc_uri": {
                     "lat": "https://payzen.io/lat/plugins/odoo17/sitemap.html"
                 },

@@ -3,9 +3,9 @@
         "cms_version": "v 2.x - 9.x",
         "packages": [
             {
-                "plugin_version": "v1.15.0",
+                "plugin_version": "v1.15.1",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.15.0/OSB_WooCommerce_2.x-9.x_v1.15.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.15.1/OSB_WooCommerce_2.x-9.x_v1.15.1.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/woocommerce/sitemap.html",
                     "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/woocommerce/sitemap.html"

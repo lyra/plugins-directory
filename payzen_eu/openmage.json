@@ -3,9 +3,9 @@
         "cms_version": "v 19 - 20",
         "packages": [
             {
-                "plugin_version": "v1.1.0",
+                "plugin_version": "v1.2.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-openmage/releases/download/v1.1.0/PayZen_OpenMage_19-20_v1.1.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-openmage/releases/download/v1.2.0/PayZen_OpenMage_19-20_v1.2.0.zip",
                 "doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/openmage/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/openmage/sitemap.html",

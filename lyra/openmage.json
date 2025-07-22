@@ -3,9 +3,9 @@
         "cms_version": "v 19 - 20",
         "packages": [
             {
-                "plugin_version": "v1.1.0",
+                "plugin_version": "v1.2.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-openmage/releases/download/v1.1.0/Lyra_OpenMage_19-20_v1.1.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-openmage/releases/download/v1.2.0/Lyra_OpenMage_19-20_v1.2.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/openmage/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/plugins/openmage/sitemap.html",

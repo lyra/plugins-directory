@@ -3,9 +3,9 @@
         "cms_version": "v 17-18",
         "packages": [
             {
-                "plugin_version": "v4.1.0",
+                "plugin_version": "v4.2.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.1.0/Mi_Cuenta_Web_Odoo_17-18_v4.1.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.2.0/Mi_Cuenta_Web_Odoo_17-18_v4.2.0.zip",
                 "online_doc_uri": {
                     "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/odoo17/sitemap.html"
                 },

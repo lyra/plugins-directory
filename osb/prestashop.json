@@ -3,9 +3,9 @@
         "cms_version": "v 1.5 - 1.7, 8.x",
         "packages": [
             {
-                "plugin_version": "v1.21.2",
+                "plugin_version": "v1.21.3",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.21.2/OSB_PrestaShop_1.5-8.x_v1.21.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.21.3/OSB_PrestaShop_1.5-8.x_v1.21.3.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/prestashop/sitemap.html",
                     "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/prestashop/sitemap.html"

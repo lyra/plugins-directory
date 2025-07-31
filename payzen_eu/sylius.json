@@ -34,7 +34,7 @@
                         "default": "&#9658; Requires PHP 8.0 or higher"
                     }
                 }
-            ],
+            ]
         }
     ]
 }

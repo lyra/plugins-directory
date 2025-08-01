@@ -297,6 +297,13 @@
         "category": "regular"
     },
     {
+        "title": "eProShopping",
+        "logo": "eproshopping.png",
+        "slug": "eproshopping",
+        "labels": "eproshopping",
+        "category": "regular"
+    },
+    {
         "title": "commerce:seo",
         "logo": "commerceseo.png",
         "slug": "commerceseo",

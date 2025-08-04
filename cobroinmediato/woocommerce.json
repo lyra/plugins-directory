@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 2.x - 9.x",
+        "cms_version": "v 2.x - 10.x",
         "packages": [
             {
-                "plugin_version": "v1.15.2",
+                "plugin_version": "v1.15.3",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.15.2/Cobro_Inmediato_WooCommerce_2.x-9.x_v1.15.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.15.3/Cobro_Inmediato_WooCommerce_2.x-10.x_v1.15.3.zip",
                 "online_doc_uri": {
                     "es-AR": "https://secure.cobroinmediato.tech/doc/es-AR/plugins/woocommerce/sitemap.html"
                 },

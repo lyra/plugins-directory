@@ -1,19 +1,38 @@
 {
     "current": {
-        "cms_version": "v 1.12.x",
+        "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v1.3.2",
+                "plugin_version": "v2.0.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.3.2/Monetico_Retail_Sylius_1.12.x_v1.3.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v2.0.0/Monetico_Retail_Sylius_2.x_v2.0.0.zip",
                 "online_doc_uri": {
-                    "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius/sitemap.html",
-                    "en-EN": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius/sitemap.html"
+                    "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius2/sitemap.html",
+                    "en-EN": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 8.0 or higher"
                 }
             }
         ]
-    }
+    },
+    "archives": [
+        {
+            "cms_version": "v 1.12.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.3.2",
+                    "type": "single",
+                    "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.3.2/Monetico_Retail_Sylius_1.12.x_v1.3.2.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius/sitemap.html",
+                        "en-EN": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 8.0 or higher"
+                    }
+                }
+            ]
+        }
+    ]
 }

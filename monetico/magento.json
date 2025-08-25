@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.11.4",
+                "plugin_version": "v2.12.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.11.4/Monetico_Retail_Magento_2.x_v2.11.4.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.12.0/Monetico_Retail_Magento_2.x_v2.12.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/magento2/sitemap.html",
                     "en-EN": "https://secure.gateway.monetico-retail.com/doc/en-EN/plugins/magento2/sitemap.html"

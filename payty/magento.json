@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.11.4",
+                "plugin_version": "v2.12.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.11.4/Payty_Magento_2.x_v2.11.4.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.12.0/Payty_Magento_2.x_v2.12.0.zip",
                 "online_doc_uri": {
                     "es-CO": "https://secure.payty.com/doc/es-CO/plugins/magento2/sitemap.html"
                 },

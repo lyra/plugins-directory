@@ -1,15 +1,15 @@
 {
-  "current": {
-    "cms_version": "",
-    "packages": [
-      {
-        "plugin_version": "v1.2.1",
-        "type": "single",
-        "online_doc_uri": {
-          "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/ecwid/sitemap.html",
-          "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/ecwid/sitemap.html"
-        }
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "packages": [
+            {
+                "plugin_version": "v1.3.0",
+                "type": "single",
+                "online_doc_uri": {
+                    "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/ecwid/sitemap.html",
+                    "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/ecwid/sitemap.html"
+                }
+            }
+        ]
+    }
 }

@@ -3,9 +3,8 @@
         "cms_version": "",
         "packages": [
             {
-                "plugin_version": "v1.2.11",
+                "plugin_version": "v1.2.13",
                 "type": "single",
-                "plugin_uri": "https://docs.lyra.com/fr/collect/plugins/wix/sitemap.html",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/wix/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/plugins/wix/sitemap.html",

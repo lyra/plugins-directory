@@ -1,14 +1,14 @@
 {
-  "current": {
-    "cms_version": "",
-    "packages": [
-      {
-        "plugin_version": "v1.1.1",
-        "type": "single",
-        "online_doc_uri": {
-            "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/tiendanube/sitemap.html"
-        }
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "packages": [
+            {
+                "plugin_version": "v1.4.0",
+                "type": "single",
+                "online_doc_uri": {
+                    "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/tiendanube/sitemap.html"
+                }
+            }
+        ]
+    }
 }

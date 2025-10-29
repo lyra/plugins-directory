@@ -1,16 +1,16 @@
 {
-  "current": {
-    "cms_version": "",
-    "packages": [
-      {
-        "plugin_version": "v1.2.6",
-        "type": "full",
-        "plugin_uri": "https://secure.osb.pf/doc/fr-FR/plugins/shopify/sitemap.html",
-        "doc_uri": {
-          "fr-FR": "https://secure.osb.pf/doc/files/module/doc/OSB_Shopify_v1.2_fr.pdf",
-          "en-EN": "https://secure.osb.pf/doc/files/module/doc/OSB_Shopify_v1.2_en.pdf"
-        }
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "packages": [
+            {
+                "plugin_version": "v2.14.0",
+                "type": "full",
+                "plugin_uri": "https://secure.osb.pf/doc/fr-FR/plugins/shopify/sitemap.html",
+                "doc_uri": {
+                    "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/shopify/sitemap.html",
+                    "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/shopify/sitemap.html"
+                }
+            }
+        ]
+    }
 }

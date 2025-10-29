@@ -1,14 +1,14 @@
 {
-  "current": {
-    "cms_version": "",
-    "packages": [
-      {
-        "plugin_version": "v2.2.6",
-        "type": "single",
-        "online_doc_uri": {
-          "fr-FR": "https://epaync.nc/doc/fr-FR/plugins/shopifyv2/sitemap.html"
-        }
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "packages": [
+            {
+                "plugin_version": "v2.14.0",
+                "type": "single",
+                "online_doc_uri": {
+                    "fr-FR": "https://epaync.nc/doc/fr-FR/plugins/shopifyv2/sitemap.html"
+                }
+            }
+        ]
+    }
 }

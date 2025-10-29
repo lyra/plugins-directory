@@ -25,6 +25,12 @@
         "category": "regular"
     },
     {
+        "title": "Vtex",
+        "logo": "vtex.png",
+        "slug": "vtex",
+        "category": "commercial"
+    },
+    {
         "title": "Jumpseller",
         "logo": "jumpseller.png",
         "slug": "jumpseller",

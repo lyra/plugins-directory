@@ -1,13 +1,13 @@
 {
-  "current": {
-    "cms_version": "",
-    "ext_dev": true,
-    "packages": [
-      {
-        "plugin_version": "",
-        "type": "single",
-        "plugin_uri": "https://www.weezbe.com/blog/paiement-payzen/"
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "ext_dev": true,
+        "packages": [
+            {
+                "plugin_version": "",
+                "type": "single",
+                "plugin_uri": "https://www.weezbe.com/blog/paiement-payzen/"
+            }
+        ]
+    }
 }

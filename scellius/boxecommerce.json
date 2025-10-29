@@ -1,13 +1,13 @@
 {
-  "current": {
-    "cms_version": "",
-    "ext_dev": true,
-    "packages": [
-      {
-        "type": "single",
-        "plugin_uri": "https://www.labanquepostale.fr/professionnels/commercants.html",
-        "plugin_version": ""
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "ext_dev": true,
+        "packages": [
+            {
+                "type": "single",
+                "plugin_uri": "https://www.labanquepostale.fr/professionnels/commercants.html",
+                "plugin_version": ""
+            }
+        ]
+    }
 }

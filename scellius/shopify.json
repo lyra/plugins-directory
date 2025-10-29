@@ -1,16 +1,16 @@
 {
-  "current": {
-    "cms_version": "",
-    "packages": [
-      {
-        "plugin_version": "v1.2.6",
-        "type": "full",
-        "plugin_uri": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/shopify/sitemap.html",
-        "online_doc_uri": {
-          "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/shopify/sitemap.html",
-          "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/en-EN/plugins/shopify/sitemap.html"
-      },
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "packages": [
+            {
+                "plugin_version": "v1.2.6",
+                "type": "full",
+                "plugin_uri": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/shopify/sitemap.html",
+                "online_doc_uri": {
+                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/shopify/sitemap.html",
+                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/en-EN/plugins/shopify/sitemap.html"
+                }
+            }
+        ]
+    }
 }

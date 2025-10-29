@@ -3,7 +3,7 @@
         "cms_version": "",
         "packages": [
             {
-                "plugin_version": "v1.2.11",
+                "plugin_version": "v1.2.13",
                 "type": "single",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/wix/sitemap.html",

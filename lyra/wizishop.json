@@ -1,13 +1,13 @@
 {
-  "current": {
-    "cms_version": "",
-    "ext_dev": true,
-    "packages": [
-      {
-        "type": "single",
-        "plugin_uri": "https://services.wizishop.com/fr/service/lyra-collect",
-        "plugin_version": ""
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "ext_dev": true,
+        "packages": [
+            {
+                "type": "single",
+                "plugin_uri": "https://services.wizishop.com/fr/service/lyra-collect",
+                "plugin_version": ""
+            }
+        ]
+    }
 }

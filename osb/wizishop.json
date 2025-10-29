@@ -1,13 +1,13 @@
 {
-  "current": {
-    "cms_version": "",
-    "ext_dev": true,
-    "packages": [
-      {
-        "type": "single",
-        "plugin_uri": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-2601/",
-        "plugin_version": ""
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "ext_dev": true,
+        "packages": [
+            {
+                "type": "single",
+                "plugin_uri": "https://admin.wizishop.com/fr/preferences-generales/paiement#/mode/3-2601/",
+                "plugin_version": ""
+            }
+        ]
+    }
 }

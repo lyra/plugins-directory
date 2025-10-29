@@ -1,41 +1,41 @@
 {
-  "current": {
-    "cms_version": "Evolution 10 & 11",
-    "packages": [
-      {
-        "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_WebSiteX5_10.0_v1.01.zip",
-        "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_WebSiteX5_10.0_v1.0.pdf"
-        },
-        "plugin_version": "v1.0",
-        "type": "single"
-      }
-    ]
-  },
-  "archives": [
-    {
-      "cms_version": "Evolution 9",
-      "deprecated": true,
-      "packages": [
-        {
-          "type": "single",
-          "plugin_version": "v1.0a",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_WebSiteX5_9.0_v1.0a.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_WebSiteX5_9.0_v1.0a.pdf"
-        }
-      ]
+    "current": {
+        "cms_version": "Evolution 10 & 11",
+        "packages": [
+            {
+                "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_WebSiteX5_10.0_v1.01.zip",
+                "doc_uri": {
+                    "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_WebSiteX5_10.0_v1.0.pdf"
+                },
+                "plugin_version": "v1.0",
+                "type": "single"
+            }
+        ]
     },
-    {
-      "cms_version": "Evolution 8",
-      "deprecated": true,
-      "packages": [
+    "archives": [
         {
-          "type": "single",
-          "plugin_version": "v1.0",
-          "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_WebsiteX5_8.0.16_v1.0.zip",
-          "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_WebSiteX5_8.0.16_v1.0.pdf"
+            "cms_version": "Evolution 9",
+            "deprecated": true,
+            "packages": [
+                {
+                    "type": "single",
+                    "plugin_version": "v1.0a",
+                    "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_WebSiteX5_9.0_v1.0a.zip",
+                    "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_WebSiteX5_9.0_v1.0a.pdf"
+                }
+            ]
+        },
+        {
+            "cms_version": "Evolution 8",
+            "deprecated": true,
+            "packages": [
+                {
+                    "type": "single",
+                    "plugin_version": "v1.0",
+                    "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_WebsiteX5_8.0.16_v1.0.zip",
+                    "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_WebSiteX5_8.0.16_v1.0.pdf"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

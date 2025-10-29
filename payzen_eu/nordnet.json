@@ -1,12 +1,12 @@
 {
-  "current": {
-    "cms_version": "",
-    "ext_dev": true,
-    "packages": [
-      {
-        "plugin_uri": "https://www.nordnet.com/contactez-nous",
-        "plugin_version": ""
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "ext_dev": true,
+        "packages": [
+            {
+                "plugin_uri": "https://www.nordnet.com/contactez-nous",
+                "plugin_version": ""
+            }
+        ]
+    }
 }

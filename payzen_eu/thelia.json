@@ -1,24 +1,24 @@
 {
-  "current": {
-    "cms_version": "v 2",
-    "ext_dev": true,
-    "packages": [
-      {
-        "type": "single",
-        "plugin_uri": "https://github.com/thelia-modules/Payzen"
-      },
-      {
-        "type": "single-embedded",
-        "plugin_uri": "https://github.com/thelia-modules/PayzenEmbedded"
-      },
-      {
-        "type": "multi",
-        "plugin_uri": "https://github.com/thelia-modules/PayzenMulti"
-      },
-      {
-        "type": "sepa",
-        "plugin_uri": "https://github.com/thelia-modules/PayzenOneOffSEPA"
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "v 2",
+        "ext_dev": true,
+        "packages": [
+            {
+                "type": "single",
+                "plugin_uri": "https://github.com/thelia-modules/Payzen"
+            },
+            {
+                "type": "single-embedded",
+                "plugin_uri": "https://github.com/thelia-modules/PayzenEmbedded"
+            },
+            {
+                "type": "multi",
+                "plugin_uri": "https://github.com/thelia-modules/PayzenMulti"
+            },
+            {
+                "type": "sepa",
+                "plugin_uri": "https://github.com/thelia-modules/PayzenOneOffSEPA"
+            }
+        ]
+    }
 }

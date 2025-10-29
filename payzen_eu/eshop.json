@@ -1,16 +1,16 @@
 {
-  "current": {
-    "cms_version": "v 6.3.1",
-    "deprecated": true,
-    "packages": [
-      {
-        "plugin_uri": "https://github.com/lyra/plugin-eshop/releases/download/v1.0b/PayZen_eShop_6.3.1_v1.0b.zip",
-        "doc_uri": {
-          "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_eShop_6.3.1_v1.0b.pdf"
-        },
-        "plugin_version": "v1.0b",
-        "type": "single"
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "v 6.3.1",
+        "deprecated": true,
+        "packages": [
+            {
+                "plugin_uri": "https://github.com/lyra/plugin-eshop/releases/download/v1.0b/PayZen_eShop_6.3.1_v1.0b.zip",
+                "doc_uri": {
+                    "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_eShop_6.3.1_v1.0b.pdf"
+                },
+                "plugin_version": "v1.0b",
+                "type": "single"
+            }
+        ]
+    }
 }

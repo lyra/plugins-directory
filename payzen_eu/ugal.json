@@ -1,12 +1,12 @@
 {
-  "current": {
-    "cms_version": "",
-    "ext_dev": true,
-    "packages": [
-      {
-        "plugin_uri": "http://fr.ugal.com/blog/paiement-en-ligne-e-commerce",
-        "plugin_version": ""
-      }
-    ]
-  }
+    "current": {
+        "cms_version": "",
+        "ext_dev": true,
+        "packages": [
+            {
+                "plugin_uri": "http://fr.ugal.com/blog/paiement-en-ligne-e-commerce",
+                "plugin_version": ""
+            }
+        ]
+    }
 }

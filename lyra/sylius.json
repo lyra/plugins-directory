@@ -22,9 +22,9 @@
             "cms_version": "v 1.12.x",
             "packages": [
                 {
-                    "plugin_version": "v1.4.0",
+                    "plugin_version": "v1.4.1",
                     "type": "single",
-                    "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.4.0/Lyra_Sylius_1.12.x_v1.4.0.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.4.1/Lyra_Sylius_1.12.x_v1.4.1.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://docs.lyra.com/fr/collect/plugins/sylius/sitemap.html",
                         "en-EN": "https://docs.lyra.com/en/collect/plugins/sylius/sitemap.html",

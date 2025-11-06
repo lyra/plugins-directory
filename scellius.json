@@ -12,12 +12,6 @@
         "category": "top"
     },
     {
-        "title": "Magento Hyva",
-        "slug": "hyvamagento",
-        "logo": "hyva.png",
-        "category": "top"
-    },
-    {
         "title": "WooCommerce",
         "slug": "woocommerce",
         "logo": "woocommerce.png",

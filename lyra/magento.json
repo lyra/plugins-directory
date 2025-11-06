@@ -19,7 +19,7 @@
     },
     "archives": [
         {
-            "cms_version": "Hyva v 2.x",
+            "cms_version": "v 2.x Hyva Checkout",
             "packages": [
                 {
                     "plugin_version": "v1.0.0",

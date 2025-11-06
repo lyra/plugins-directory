@@ -1,0 +1,18 @@
+{
+    "current": {
+        "cms_version": "v 2.x",
+        "packages": [
+            {
+                "plugin_version": "v1.0.0",
+                "type": "single",
+                "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v.1.0.0/Mi_Cuenta_Web_Magento_Hyva_2.x_1.0.0.zip",
+                "online_doc_uri": {
+                    "es-PE": "https://secure.micuentaweb.pe/doc/es-PE/plugins/hyvamagento/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 7.1 or higher"
+                }
+            }
+        ]
+    }
+}

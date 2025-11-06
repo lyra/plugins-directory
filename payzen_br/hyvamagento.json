@@ -1,0 +1,18 @@
+{
+    "current": {
+        "cms_version": "v 2.x",
+        "packages": [
+            {
+                "plugin_version": "v1.0.0",
+                "type": "single",
+                "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v1.0.0/PayZen_BR_Magento_Hyva_2.x_v1.0.0.zip",
+                "online_doc_uri": {
+                    "pt-BR": "https://payzen.io/pt-BR/plugins/hyvamagento/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 7.1 or higher"
+                }
+            }
+        ]
+    }
+}

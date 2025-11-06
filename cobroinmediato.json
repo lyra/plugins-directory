@@ -12,6 +12,12 @@
         "category": "regular"
     },
     {
+        "title": "Magento Hyvä",
+        "slug": "hyva",
+        "logo": "hyva.png",
+        "category": "regular"
+    },
+    {
         "title": "WooCommerce",
         "slug": "woocommerce",
         "logo": "woocommerce.png",

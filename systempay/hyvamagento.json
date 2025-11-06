@@ -1,0 +1,19 @@
+{
+    "current": {
+        "cms_version": "v 2.x",
+        "packages": [
+            {
+                "plugin_version": "v1.0.0",
+                "type": "single",
+                "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v1.0.0/Systempay_Magento_Hyva_2.x_v1.0.0.zip",
+                "online_doc_uri": {
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/hyvamagento/sitemap.html",
+                    "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/hyvamagento/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 7.1 or higher"
+                }
+            }
+        ]
+    }
+}

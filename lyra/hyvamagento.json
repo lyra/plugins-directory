@@ -19,13 +19,13 @@
     },
     "archives": [
         {
-            "cms_version": "v 2.x Hyva Checkout",
+            "cms_version": "for Magento v 2.x",
             "packages": [
                 {
                     "plugin_version": "v1.0.0",
                     "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v1.0.0/Lyra_Magento_Hyva_2.x_v1.0.0.zip",
                     "description": {
-                        "default": "This plugin is an add-on required to ensure compatibility between the payment plugin and Hyvä Checkout. &#9658; Requires PHP 7.1 or higher"
+                        "default": "&#9658; This plugin is an add-on required\nto ensure compatibility between the payment plugin and Hyva Checkout.\n&#9658; Requires PHP 7.1 or higher"
                     }
                 }
             ]

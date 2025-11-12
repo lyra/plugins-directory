@@ -19,22 +19,16 @@
     },
     "archives": [
         {
-            "cms_version": "v 1.4 - 1.9",
+            "cms_version": "v 2.x Hyva Checkout",
             "packages": [
                 {
-                    "plugin_version": "v1.12.5",
-                    "type": "full",
-                    "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/Lyra_Magento_1.4-1.9_v1.12.5.zip",
-                    "online_doc_uri": {
-                        "fr-FR": "https://docs.lyra.com/fr/collect/plugins/magento/sitemap.html",
-                        "en-EN": "https://docs.lyra.com/en/collect/plugins/magento/sitemap.html"
-                    },
+                    "plugin_version": "v1.0.0",
+                    "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v1.0.0/Lyra_Magento_Hyva_2.x_v1.0.0.zip",
                     "description": {
-                        "default": "&#9658; Requires PHP 5.3 or higher"
+                        "default": "This plugin is an add-on required to ensure compatibility between the payment plugin and Hyvä Checkout. &#9658; Requires PHP 7.1 or higher"
                     }
                 }
-            ],
-            "deprecated": true
+            ]
         }
     ]
 }

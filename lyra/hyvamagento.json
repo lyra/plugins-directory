@@ -12,7 +12,7 @@
                     "es-ES": "https://docs.lyra.com/es-ES/collect/plugins/magento2/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 7.1 or higher"
+                    "default": "&#9658; Requires PHP 7.1 or higher<br>"
                 }
             }
         ]

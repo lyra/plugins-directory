@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v2.14.0",
+                "plugin_version": "v2.15.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.14.0/OSB_Magento_2.x_v2.14.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.15.0/OSB_Magento_2.x_v2.15.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.osb.pf/doc/fr-FR/plugins/magento2/sitemap.html",
                     "en-EN": "https://secure.osb.pf/doc/en-EN/plugins/magento2/sitemap.html"

@@ -3,9 +3,9 @@
         "cms_version": "v 2.x - 10.x",
         "packages": [
             {
-                "plugin_version": "v1.16.0",
+                "plugin_version": "v1.16.1",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.16.0/Lyra_WooCommerce_2.x-10.x_v1.16.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.16.1/Lyra_WooCommerce_2.x-10.x_v1.16.1.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/woocommerce/sitemap.html",
                     "en-EN": "https://docs.lyra.com/en/collect/plugins/woocommerce/sitemap.html",

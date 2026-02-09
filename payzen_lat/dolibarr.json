@@ -1,18 +1,36 @@
 {
     "current": {
-        "cms_version": "v 12.x - 14.x",
+        "cms_version": "v 22.x",
         "packages": [
             {
-                "plugin_version": "v1.0.3",
+                "plugin_version": "v2.0.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v1.0.3/PayZen_LAT_Dolibarr_11.x-14.x_v1.0.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v2.0.0/PayZen_LAT_Dolibarr_22.x_v2.0.0.zip",
                 "online_doc_uri": {
-                    "es-ES": "https://payzen.io/lat/plugins/dolibarr/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 8.0 or higher"
                 }
             }
         ]
-    }
+    },
+    "archives": [
+        {
+            "cms_version": "v 12.x - 14.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.0.3",
+                    "type": "single",
+                    "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v1.0.3/PayZen_LAT_Dolibarr_11.x-14.x_v1.0.3.zip",
+                    "online_doc_uri": {
+                        "es-ES": "https://payzen.io/lat/plugins/dolibarr/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 5.3 or higher"
+                    }
+                }
+            ],
+            "deprecated": true
+        }
+    ]
 }

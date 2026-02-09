@@ -1,20 +1,38 @@
 {
     "current": {
-        "cms_version": "v 12.x - 14.x",
+        "cms_version": "v 22.x",
         "packages": [
             {
-                "plugin_version": "v1.0.3",
+                "plugin_version": "v2.0.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v1.0.3/Lyra_Dolibarr_11.x-14.x_v1.0.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v2.0.0/module_lyra-2.0.0.zip",
                 "online_doc_uri": {
-                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/dolibarr/sitemap.html",
-                    "en-EN": "https://docs.lyra.com/en/collect/plugins/dolibarr/sitemap.html",
-                    "es-ES": "https://docs.lyra.com/es/collect/plugins/dolibarr/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 5.3 or higher"
+                    "default": "&#9658; Requires PHP 8.0 or higher"
                 }
             }
         ]
-    }
+    },
+    "archives": [
+        {
+            "cms_version": "v 12.x - 14.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.0.3",
+                    "type": "full",
+                    "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v1.0.3/Lyra_Dolibarr_11.x-14.x_v1.0.3.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://docs.lyra.com/fr/collect/plugins/dolibarr/sitemap.html",
+                        "en-EN": "https://docs.lyra.com/en/collect/plugins/dolibarr/sitemap.html",
+                        "es-ES": "https://docs.lyra.com/es/collect/plugins/dolibarr/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 5.3 or higher"
+                    }
+                }
+            ],
+            "deprecated": true
+        }
+    ]
 }

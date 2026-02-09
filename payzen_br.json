@@ -25,6 +25,12 @@
         "category": "top"
     },
     {
+        "title": "Dolibarr",
+        "logo": "dolibarr.png",
+        "slug": "dolibarr",
+        "category": "top"
+    },
+    {
         "title": "OpenCart",
         "logo": "opencart.png",
         "slug": "opencart",

@@ -1,0 +1,17 @@
+{
+    "current": {
+        "cms_version": "v 22.x",
+        "packages": [
+            {
+                "plugin_version": "v2.0.0",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v2.0.0/PayZen_BR_Dolibarr_22.x_v2.0.0.zip",
+                "online_doc_uri": {
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 8.0 or higher"
+                }
+            }
+        ]
+    }
+}

@@ -9,7 +9,7 @@
                 "online_doc_uri": {
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 8.0 or higher"
+                    "default": "&#9658; Requires PHP 7.1 or higher"
                 }
             }
         ]

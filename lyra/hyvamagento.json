@@ -23,6 +23,7 @@
             "packages": [
                 {
                     "plugin_version": "v1.1.1",
+                    "type": "full",
                     "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v1.1.1/Lyra_Magento_Hyva_2.x_v1.1.1.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://docs.lyra.com/fr/collect/plugins/hyva/sitemap.html",

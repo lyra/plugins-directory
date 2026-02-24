@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 17-18",
+        "cms_version": "v 17-19",
         "packages": [
             {
-                "plugin_version": "v4.2.1",
+                "plugin_version": "v4.3.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.2.1/Systempay_Odoo_17-18_v4.2.1.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-odoo/releases/download/v4.3.0/Systempay_Odoo_17-19_v4.3.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/odoo17/sitemap.html",
                     "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/odoo17/sitemap.html"

@@ -7,6 +7,9 @@
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v2.0.0/module_lyra-2.0.0.zip",
                 "online_doc_uri": {
+                        "fr-FR": "https://docs.lyra.com/fr/collect/plugins/dolibarr22/sitemap.html",
+                        "en-EN": "https://docs.lyra.com/en/collect/plugins/dolibarr22/sitemap.html",
+                        "es-ES": "https://docs.lyra.com/es/collect/plugins/dolibarr22/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.1 or higher"

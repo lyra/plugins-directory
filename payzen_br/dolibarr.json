@@ -7,6 +7,7 @@
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-dolibarr/releases/download/v2.0.0/PayZen_BR_Dolibarr_22.x_v2.0.0.zip",
                 "online_doc_uri": {
+                    "pt-BR": "https://payzen.io/pt-BR/plugins/dolibarr22/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.1 or higher"

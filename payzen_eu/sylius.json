@@ -7,6 +7,9 @@
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v3.0.0/PayZen_Sylius_2.x_v3.0.0.zip",
                 "online_doc_uri": {
+                    "fr-FR": "https://payzen.io/fr-FR/plugins/sylius3/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/plugins/sylius3/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/sylius3/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 8.0 or higher"

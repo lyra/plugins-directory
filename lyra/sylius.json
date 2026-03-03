@@ -7,6 +7,9 @@
                 "type": "single",
                 "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v3.0.0/Lyra_Sylius_2.x_v3.0.0.zip",
                 "online_doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/sylius3/sitemap.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/sylius3/sitemap.html",
+                    "es-ES": "https://docs.lyra.com/es/collect/plugins/sylius3/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 8.0 or higher"

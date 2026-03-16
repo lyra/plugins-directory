@@ -37,6 +37,13 @@
         "category": "top"
     },
     {
+        "title": "Drupal Commerce",
+        "logo": "drupalcommerce.png",
+        "slug": "drupalcommerce",
+        "labels": "Drupal",
+        "category": "regular"
+    },
+    {
         "title": "Tiendanube",
         "logo": "tiendanube.png",
         "slug": "tiendanube",

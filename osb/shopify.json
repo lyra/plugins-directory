@@ -3,7 +3,7 @@
         "cms_version": "",
         "packages": [
             {
-                "plugin_version": "v2.14.0",
+                "plugin_version": "v2.19.1",
                 "type": "full",
                 "plugin_uri": "https://secure.osb.pf/doc/fr-FR/plugins/shopify/sitemap.html",
                 "doc_uri": {

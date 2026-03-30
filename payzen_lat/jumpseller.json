@@ -3,7 +3,7 @@
         "cms_version": "",
         "packages": [
             {
-                "plugin_version": "v1.1.2",
+                "plugin_version": "v1.1.3",
                 "type": "single",
                 "online_doc_uri": {
                     "lat": "https://payzen.io/lat/plugins/jumpseller/sitemap.html"

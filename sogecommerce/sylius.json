@@ -5,7 +5,7 @@
             {
                 "plugin_version": "v3.0.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.4.1/Sogecommerce_Sylius_2.x_v3.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v3.0.0/Sogecommerce_Sylius_2.x_v3.0.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/sylius/sitemap.html",
                     "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/sylius/sitemap.html"
@@ -23,7 +23,7 @@
                 {
                     "plugin_version": "v2.1.1",
                     "type": "single",
-                    "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.4.1/Sogecommerce_Sylius_2.x_v2.1.1.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v2.1.1/Sogecommerce_Sylius_2.x_v2.1.1.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/sylius/sitemap.html",
                         "en-EN": "https://sogecommerce.societegenerale.eu/doc/en-EN/plugins/sylius/sitemap.html"

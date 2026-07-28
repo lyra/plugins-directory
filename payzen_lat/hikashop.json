@@ -3,9 +3,9 @@
         "cms_version": "v 4.x",
         "packages": [
             {
-                "plugin_version": "v2.1.5",
+                "plugin_version": "v2.2.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.1.5/PayZen_LAT_HikaShop_2.x-4.x_v2.1.5.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.2.0/PayZen_LAT_HikaShop_2.x-4.x_v2.2.0.zip",
                 "online_doc_uri": {
                     "lat": "https://payzen.io/lat/plugins/hikashop/sitemap.html"
                 },

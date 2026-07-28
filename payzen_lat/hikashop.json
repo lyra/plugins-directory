@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 4.x",
+        "cms_version": "v 4.x-6.x",
         "packages": [
             {
                 "plugin_version": "v2.2.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.2.0/PayZen_LAT_HikaShop_2.x-4.x_v2.2.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.2.0/PayZen_LAT_HikaShop_2.x-6.x_v2.2.0.zip",
                 "online_doc_uri": {
                     "lat": "https://payzen.io/lat/plugins/hikashop/sitemap.html"
                 },

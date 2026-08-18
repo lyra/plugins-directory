@@ -1,0 +1,18 @@
+{
+    "current": {
+        "cms_version": "v 2.x",
+        "packages": [
+            {
+                "plugin_version": "v1.0.0",
+                "type": "full",
+                "plugin_uri": "https://github.com/lyra/plugin-magento-embedded/releases/download/v1.0.0/GlobalPay_Magento_Embedded_2.x_v1.0.0",
+                "online_doc_uri": {
+                    "es-CO": "https://secure.globalpayredeban.com/doc/es-CO/plugins/magento2_embedded/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 8.0 or higher"
+                }
+            }
+        ]
+    }
+}

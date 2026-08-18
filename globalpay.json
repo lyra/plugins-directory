@@ -1,0 +1,14 @@
+[
+    {
+        "title": "PrestaShop",
+        "slug": "prestashopembedded",
+        "logo": "prestashop.png",
+        "category": "top"
+    },
+    {
+        "title": "Magento",
+        "slug": "magentoembedded",
+        "logo": "magento.png",
+        "category": "top"
+    }
+]

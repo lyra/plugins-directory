@@ -177,13 +177,13 @@
         "slug": "xcart",
         "category": "request"
     },
-    {
+    /*{
         "title": "Tienda",
         "logo": "tienda.png",
         "slug": "tienda",
         "labels": "Joomla",
         "category": "request"
-    },
+    },*/
     {
         "title": "HikaShop",
         "logo": "hikashop.png",

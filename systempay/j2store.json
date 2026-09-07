@@ -1,16 +1,16 @@
 {
     "current": {
-        "cms_version": "v 3.x",
+        "cms_version": "v 3.x-4.x",
         "packages": [
             {
-                "plugin_version": "v1.0.0",
+                "plugin_version": "v1.1.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-j2store/releases/download/v1.0.0/Systempay_J2Store_3.x_v1.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-j2store/releases/download/v1.1.0/Systempay_J2Store_3.x-4.x_v1.1.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/j2store/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 5.5 or higher"
+                    "default": "&#9658; Requires PHP 7.0 or higher"
                 }
             }
         ]

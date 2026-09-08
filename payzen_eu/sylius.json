@@ -3,9 +3,9 @@
         "cms_version": "v 2.x",
         "packages": [
             {
-                "plugin_version": "v3.0.0",
+                "plugin_version": "v3.1.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v3.0.0/PayZen_Sylius_2.x_v3.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v3.1.0/PayZen_Sylius_2.x_v3.1.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/sylius3/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/sylius3/sitemap.html",

@@ -3,9 +3,9 @@
         "cms_version": "v 4.x",
         "packages": [
             {
-                "plugin_version": "v5.0.0",
+                "plugin_version": "v5.1.0",
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v5.0.0/PayZen_BR_OpenCart_4.x_v5.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v5.1.0/PayZen_BR_OpenCart_4.x_v5.1.0.zip",
                 "online_doc_uri": {
                     "pt-BR": "https://payzen.io/pt-BR/plugins/opencart4/sitemap.html"
                 },

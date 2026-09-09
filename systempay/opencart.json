@@ -3,9 +3,9 @@
         "cms_version": "v 4.x",
         "packages": [
             {
-                "plugin_version": "v5.0.0",
+                "plugin_version": "v5.1.0",
                 "type": "full",
-                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v5.0.0/Systempay_OpenCart_4.x_v5.0.0.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-opencart/releases/download/v5.1.0/Systempay_OpenCart_4.x_v5.1.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/opencart4/sitemap.html",
                     "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/opencart4/sitemap.html"

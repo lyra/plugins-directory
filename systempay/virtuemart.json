@@ -54,20 +54,6 @@
                     }
                 }
             ]
-        },
-        {
-            "cms_version": "v 1.0",
-            "deprecated": true,
-            "packages": [
-                {
-                    "plugin_version": "v1.2c",
-                    "type": "single",
-                    "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_1.0.x_v1.2c.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_Virtuemart_1.0.X_v1.2c.pdf"
-                    }
-                }
-            ]
         }
     ]
 }

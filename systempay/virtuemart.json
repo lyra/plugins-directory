@@ -44,14 +44,6 @@
                     "doc_uri": {
                         "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_VirtueMart_1.1.4_v2.7.pdf"
                     }
-                },
-                {
-                    "plugin_version": "v1.2",
-                    "type": "multi",
-                    "plugin_uri": "https://paiement.systempay.fr/doc/files/module/Systempay_VirtueMart_multi_1.1.4_v1.2.zip",
-                    "doc_uri": {
-                        "fr-FR": "https://paiement.systempay.fr/doc/files/module/doc/Integration_Systempay_VirtueMart_multi_1.1.4_v1.2.pdf"
-                    }
                 }
             ]
         }

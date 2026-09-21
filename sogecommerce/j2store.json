@@ -4,7 +4,7 @@
         "packages": [
             {
                 "plugin_version": "v1.1.0",
-                "type": "multi",
+                "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-j2store/releases/download/v1.1.0/Sogecommerce_J2Store_3.x-4.x_v1.1.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://sogecommerce.societegenerale.eu/doc/fr-FR/plugins/j2store/sitemap.html"

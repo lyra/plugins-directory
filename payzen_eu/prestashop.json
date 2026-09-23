@@ -1,55 +1,51 @@
 {
   "current": {
-    "cms_version": "v 1.10 - 1.11",
+    "cms_version": "v 1.5 - 1.10",
     "packages": [
       {
         "plugin_version": "v1.0.0",
         "type": "single-embedded",
         "channel": "embedded",
-        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.0.0/PayZen_PrestaShop_1.10-1.11_v1.0.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.0.0/PayZen_PrestaShop_1.5-1.10_v1.0.0.zip",
         "online_doc_uri": {
           "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/embedded/sitemap.html",
           "en-EN": "https://payzen.io/en-EN/plugins/prestashop/embedded/sitemap.html",
           "es-ES": "https://payzen.io/es-ES/plugins/prestashop/embedded/sitemap.html"
         },
         "description": {
-          "default": "&#9658; Requires PHP 8.1 or higher"
+          "default": "&#9658; Requires PHP 7.0 or higher"
         },
         "unsupported_payment_methods": [
           { "code": "sepa_direct_debit" },
           { "code": "oney_3x_4x" }
         ]
+      },
+      {
+        "plugin_version": "v1.24.7",
+        "type": "full",
+        "channel": "redirect",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.7/PayZen_PrestaShop_1.5-9.x_v1.24.7.zip",
+        "online_doc_uri": {
+          "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/sitemap.html",
+          "en-EN": "https://payzen.io/en-EN/plugins/prestashop/sitemap.html",
+          "es-ES": "https://payzen.io/es-ES/plugins/prestashop/sitemap.html"
+        },
+        "description": {
+          "default": "&#9658; Requires PHP 7.0 or higher"
+        }
       }
     ]
   },
   "archives": [
     {
-      "cms_version": "v 1.5 - 1.10",
+      "cms_version": "v 1.5 - 1.7, 8.x, 9.x",
       "deprecated": true,
       "packages": [
         {
-          "plugin_version": "v1.0.0",
-          "type": "single-embedded",
-          "channel": "embedded",
-          "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.0.0/PayZen_PrestaShop_1.5-1.10_v1.0.0.zip",
-          "online_doc_uri": {
-            "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/embedded/sitemap.html",
-            "en-EN": "https://payzen.io/en-EN/plugins/prestashop/embedded/sitemap.html",
-            "es-ES": "https://payzen.io/es-ES/plugins/prestashop/embedded/sitemap.html"
-          },
-          "description": {
-            "default": "&#9658; Requires PHP 7.0 or higher"
-          },
-          "unsupported_payment_methods": [
-            { "code": "sepa_direct_debit" },
-            { "code": "oney_3x_4x" }
-          ]
-        },
-        {
-          "plugin_version": "v1.24.7",
+          "plugin_version": "v1.24.2",
           "type": "full",
           "channel": "redirect",
-          "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.7/PayZen_PrestaShop_1.5-9.x_v1.24.7.zip",
+          "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/PayZen_PrestaShop_1.5-9.x_v1.24.2.zip",
           "online_doc_uri": {
             "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/sitemap.html",
             "en-EN": "https://payzen.io/en-EN/plugins/prestashop/sitemap.html",

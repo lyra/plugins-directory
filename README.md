@@ -71,7 +71,12 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
           "online_doc_uri":{
             "fr-FR": "https://lyra.com/fr/doc/collect/plugins/magento2/sitemap.html", // STRING
            },
-          "type": "full" // STRING - possible values : full, multi, single and single-embedded
+          "type": "full", // STRING - possible values : full, multi, single and single-embedded
+          "channel": "redirect", // STRING - integration mode, e.g. redirect, embedded
+          "unsupported_payment_methods": [
+            { "code": "sepa_direct_debit" },
+            { "code": "oney_3x_4x" }
+          ] // ARRAY - payment methods not available for this package/version
         }
       ]
     },
@@ -112,6 +117,15 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
     ]
   }
 ```
+## Package metadata additions
+
+Since the new payment module component versions, each package entry may also include:
+
+- `channel`: identifies the integration mode used by the module (`redirect`, `embedded`, etc.).
+- `unsupported_payment_methods`: list of payment methods unavailable for this specific package/version. Each item follows the format `{ "code": "..." }`.
+
+This metadata is useful to display the right integration mode in the documentation and to flag known limitations for a given module version.
+
 ## Code Example file structure
 ``` javascript
 [

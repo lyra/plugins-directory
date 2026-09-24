@@ -1,19 +1,19 @@
 {
   "current": {
-    "cms_version": "v 1.5 - 1.10",
+    "cms_version": "v 1.7 - 9.x",
     "packages": [
       {
         "plugin_version": "v1.0.0",
         "type": "single-embedded",
         "channel": "embedded",
-        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.0.0/PayZen_PrestaShop_1.5-1.10_v1.0.0.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop-embedded/releases/download/v1.0.0/PayZen_PrestaShop_Embedded_1.7-9.x_v1.0.0.zip",
         "online_doc_uri": {
-          "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/embedded/sitemap.html",
-          "en-EN": "https://payzen.io/en-EN/plugins/prestashop/embedded/sitemap.html",
-          "es-ES": "https://payzen.io/es-ES/plugins/prestashop/embedded/sitemap.html"
+          "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop_embedded/sitemap.html",
+          "en-EN": "https://payzen.io/en-EN/plugins/prestashop_embedded/sitemap.html",
+          "es-ES": "https://payzen.io/es-ES/plugins/prestashop_embedded/sitemap.html"
         },
         "description": {
-          "default": "&#9658; Requires PHP 7.0 or higher"
+          "default": "Requires PHP 7.0 or higher"
         },
         "unsupported_payment_methods": [
           { "code": "sepa_direct_debit" },
@@ -21,17 +21,17 @@
         ]
       },
       {
-        "plugin_version": "v1.24.7",
+        "plugin_version": "v1.24.2",
         "type": "full",
         "channel": "redirect",
-        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.7/PayZen_PrestaShop_1.5-9.x_v1.24.7.zip",
+        "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/PayZen_PrestaShop_1.5-9.x_v1.24.2.zip",
         "online_doc_uri": {
           "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/sitemap.html",
           "en-EN": "https://payzen.io/en-EN/plugins/prestashop/sitemap.html",
           "es-ES": "https://payzen.io/es-ES/plugins/prestashop/sitemap.html"
         },
         "description": {
-          "default": "&#9658; Requires PHP 7.0 or higher"
+          "default": "Requires PHP 7.0 or higher"
         }
       }
     ]
@@ -39,7 +39,6 @@
   "archives": [
     {
       "cms_version": "v 1.5 - 1.7, 8.x, 9.x",
-      "deprecated": true,
       "packages": [
         {
           "plugin_version": "v1.24.2",
@@ -52,7 +51,7 @@
             "es-ES": "https://payzen.io/es-ES/plugins/prestashop/sitemap.html"
           },
           "description": {
-            "default": "&#9658; Requires PHP 7.0 or higher"
+            "default": "Requires PHP 7.0 or higher"
           }
         }
       ]
@@ -71,7 +70,7 @@
             "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_1.4_v1.4.7_en.pdf"
           },
           "description": {
-            "default": "&#9658; Requires PHP 5.3 or higher"
+            "default": "Requires PHP 5.3 or higher"
           }
         },
         {
@@ -84,7 +83,7 @@
             "en-EN": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_multi_1.4_v1.2.7_en.pdf"
           },
           "description": {
-            "default": "&#9658; Works with last version of single plugin"
+            "default": "Works with last version of single plugin"
           }
         }
       ]

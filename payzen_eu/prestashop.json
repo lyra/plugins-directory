@@ -23,8 +23,8 @@
       {
         "plugin_version": "v1.24.2",
         "type": "full",
-        "channel": "redirect",
         "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/PayZen_PrestaShop_1.5-9.x_v1.24.2.zip",
+        "channel": "embedded-redirect",
         "online_doc_uri": {
           "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/sitemap.html",
           "en-EN": "https://payzen.io/en-EN/plugins/prestashop/sitemap.html",

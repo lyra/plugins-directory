@@ -8,6 +8,7 @@
                 "plugin_uri": "https://github.com/lyra/plugin-hikashop/releases/download/v2.2.1/PayZen_HikaShop_2.x-6.x_v2.2.1.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/hikashop/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/hikashop/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/hikashop/sitemap.html"
                 },
                 "description": {

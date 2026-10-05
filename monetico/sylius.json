@@ -4,7 +4,8 @@
         "packages": [
             {
                 "plugin_version": "v3.1.0",
-                "type": "single",
+                "type": "single-embedded",
+                "channel": "embedded",
                 "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v3.1.0/Monetico_Retail_Sylius_2.x_v3.1.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius2/sitemap.html",
@@ -22,7 +23,8 @@
             "packages": [
                 {
                     "plugin_version": "v2.1.2",
-                    "type": "single",
+                    "type": "single-embedded",
+                    "channel": "embedded",
                     "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v2.1.2/Monetico_Retail_Sylius_2.x_v2.1.2.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius2/sitemap.html",
@@ -39,7 +41,8 @@
             "packages": [
                 {
                     "plugin_version": "v1.4.2",
-                    "type": "single",
+                    "type": "single-embedded",
+                    "channel": "embedded",
                     "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.4.2/Monetico_Retail_Sylius_1.12.x_v1.4.2.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://secure.gateway.monetico-retail.com/doc/fr-FR/plugins/sylius/sitemap.html",

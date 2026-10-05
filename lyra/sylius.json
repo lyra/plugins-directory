@@ -4,7 +4,8 @@
         "packages": [
             {
                 "plugin_version": "v3.1.0",
-                "type": "single",
+                "type": "single-embedded",
+                "channel": "embedded",
                 "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v3.1.0/Lyra_Sylius_2.x_v3.1.0.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/sylius3/sitemap.html",
@@ -23,7 +24,8 @@
             "packages": [
                 {
                     "plugin_version": "v2.1.2",
-                    "type": "single",
+                    "type": "single-embedded",
+                    "channel": "embedded",
                     "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v2.1.2/Lyra_Sylius_2.x_v2.1.2.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://docs.lyra.com/fr/collect/plugins/sylius2/sitemap.html",
@@ -41,7 +43,8 @@
             "packages": [
                 {
                     "plugin_version": "v1.4.2",
-                    "type": "single",
+                    "type": "single-embedded",
+                    "channel": "embedded",
                     "plugin_uri": "https://github.com/lyra/plugin-sylius/releases/download/v1.4.2/Lyra_Sylius_1.12.x_v1.4.2.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://docs.lyra.com/fr/collect/plugins/sylius/sitemap.html",

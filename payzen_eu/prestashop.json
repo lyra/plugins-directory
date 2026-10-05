@@ -1,10 +1,28 @@
 {
     "current": {
-        "cms_version": "v 1.5 - 1.7, 8.x, 9.x",
+        "cms_version": "v 1.7.x, 8.x, 9.x",
         "packages": [
+            {
+                "plugin_version": "v1.0.0",
+                "type": "single-embedded",
+                "channel": "embedded",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop-embedded/releases/download/v1.0.0/PayZen_PrestaShop_Embedded_1.7-9.x_v1.0.0.zip",
+                "online_doc_uri": {
+                    "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop_embedded/sitemap.html",
+                    "en-EN": "https://payzen.io/en-EN/plugins/prestashop_embedded/sitemap.html",
+                    "es-ES": "https://payzen.io/es-ES/plugins/prestashop_embedded/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 8.0 or higher"
+                },
+                "unsupported_payment_methods": [
+                    { "code": "sepa_direct_debit" }
+                ]
+            },
             {
                 "plugin_version": "v1.24.2",
                 "type": "full",
+                "channel": "embedded-redirect",
                 "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/PayZen_PrestaShop_1.5-9.x_v1.24.2.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/sitemap.html",
@@ -19,12 +37,32 @@
     },
     "archives": [
         {
+            "cms_version": "v 1.5.x - 1.7.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.24.2",
+                    "type": "full",
+                    "channel": "embedded-redirect",
+                    "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/PayZen_PrestaShop_1.5-9.x_v1.24.2.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/sitemap.html",
+                        "en-EN": "https://payzen.io/en-EN/plugins/prestashop/sitemap.html",
+                        "es-ES": "https://payzen.io/es-ES/plugins/prestashop/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 7.0 or higher"
+                    }
+                }
+            ]
+        },
+        {
             "cms_version": "v 1.4",
             "deprecated": true,
             "packages": [
                 {
                     "plugin_version": "v1.4.7",
                     "type": "single",
+                    "channel": "redirect",
                     "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.4.7/PayZen_PrestaShop_1.4_v1.4.7.zip",
                     "doc_uri": {
                         "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_1.4_v1.4.7_fr.pdf",
@@ -37,6 +75,7 @@
                 {
                     "plugin_version": "v1.2.7",
                     "type": "multi",
+                    "channel": "redirect",
                     "plugin_uri": "https://payzen.io/files/module/eu/PayZen_PrestaShop_multi_1.4_v1.2.7.zip",
                     "doc_uri": {
                         "fr-FR": "https://payzen.io/files/module/doc/eu/PayZen_PrestaShop_multi_1.4_v1.2.7_fr.pdf",
@@ -55,6 +94,7 @@
                 {
                     "plugin_version": "v2.9a",
                     "type": "single",
+                    "channel": "redirect",
                     "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Prestashop_1.2.4.0_v2.9a.zip",
                     "doc_uri": {
                         "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_prestashop_1.2.4.0_v2.9a.pdf"
@@ -63,6 +103,7 @@
                 {
                     "plugin_version": "v1.6a",
                     "type": "multi",
+                    "channel": "redirect",
                     "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Prestashop_multi_1.2.4.0_v1.6a.zip",
                     "doc_uri": {
                         "fr-FR": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_prestashop_multi_1.2.4.0_v1.6a.pdf"

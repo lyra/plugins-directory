@@ -1,10 +1,28 @@
 {
     "current": {
-        "cms_version": "v 1.5 - 1.7, 8.x, 9.x",
+        "cms_version": "v 1.7.x, 8.x, 9.x",
         "packages": [
+            {
+                "plugin_version": "v1.0.0",
+                "type": "single-embedded",
+                "channel": "embedded",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop-embedded/releases/download/v1.0.0/Lyra_PrestaShop_Embedded_1.7-9.x_v1.0.0.zip",
+                "online_doc_uri": {
+                    "fr-FR": "https://docs.lyra.com/fr/collect/plugins/prestashop_embedded/index.html",
+                    "en-EN": "https://docs.lyra.com/en/collect/plugins/prestashop_embedded/index.html",
+                    "es-ES": "https://docs.lyra.com/es/collect/plugins/prestashop_embedded/index.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 8.0 or higher"
+                },
+                "unsupported_payment_methods": [
+                    { "code": "sepa_direct_debit" }
+                ]
+            },
             {
                 "plugin_version": "v1.24.2",
                 "type": "full",
+                "channel": "embedded-redirect",
                 "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/Lyra_PrestaShop_1.5-9.x_v1.24.2.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/prestashop/sitemap.html",
@@ -19,12 +37,32 @@
     },
     "archives": [
         {
+            "cms_version": "v1.5.x - 1.7.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.24.2",
+                    "type": "full",
+                    "channel": "embedded-redirect",
+                    "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/Lyra_PrestaShop_1.5-9.x_v1.24.2.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://docs.lyra.com/fr/collect/plugins/prestashop/sitemap.html",
+                        "en-EN": "https://docs.lyra.com/en/collect/plugins/prestashop/sitemap.html",
+                        "es-ES": "https://docs.lyra.com/es/collect/plugins/prestashop/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 7.0 or higher"
+                    }
+                }
+            ]
+        },
+        {
             "cms_version": "v 1.4",
             "deprecated": true,
             "packages": [
                 {
                     "plugin_version": "v1.4.7",
                     "type": "single",
+                    "channel": "redirect",
                     "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.4.7/Lyra_PrestaShop_1.4_v1.4.7.zip",
                     "doc_uri": {
                         "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_1.4_v1.4.7_fr.pdf",
@@ -37,6 +75,7 @@
                 {
                     "plugin_version": "v1.2.7",
                     "type": "multi",
+                    "channel": "redirect",
                     "plugin_uri": "https://docs.lyra.com/files/module/Lyra_PrestaShop_multi_1.4_v1.2.7.zip",
                     "doc_uri": {
                         "fr-FR": "https://docs.lyra.com/files/module/doc/Lyra_PrestaShop_multi_1.4_v1.2.7_fr.pdf",

@@ -13,7 +13,7 @@
                     "es-ES": "https://payzen.io/es-ES/plugins/magento2_embedded/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 8 or higher"
+                    "default": "&#9658; Requires PHP 8.0 or higher"
                 },
                 "unsupported_payment_methods": [
                     { "code": "sepa_direct_debit" }
@@ -42,6 +42,7 @@
                 {
                     "plugin_version": "v1.12.5",
                     "type": "full",
+                    "channel": "embedded-redirect",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/PayZen_Magento_1.4-1.9_v1.12.5.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://payzen.io/fr-FR/plugins/magento/sitemap.html",
@@ -63,13 +64,15 @@
                     "plugin_version": "v2.13b",
                     "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Magento_1.3.2.2_v2.13b.zip",
                     "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Magento_1.3.2.2_v2.13b.pdf",
-                    "type": "single"
+                    "type": "single",
+                    "channel": "redirect"
                 },
                 {
                     "plugin_version": "v1.4a",
                     "plugin_uri": "https://payzen.io/files/module/fr-FR/PayZen_Magento_multi_1.3.2.2_v1.4a.zip",
                     "doc_uri": "https://payzen.io/files/module/doc/fr-FR/Integration_PayZen_Magento_multi_1.3.2.2_v1.4a.pdf",
-                    "type": "multi"
+                    "type": "multi",
+                    "channel": "redirect"
                 }
             ]
         }

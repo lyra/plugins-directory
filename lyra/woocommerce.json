@@ -13,7 +13,7 @@
                     "es-ES": "https://docs.lyra.com/es/collect/plugins/woocommerce_embedded/index.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 8 or higher"
+                    "default": "&#9658; Requires PHP 8.0 or higher"
                 },
                 "unsupported_payment_methods": [
                     { "code": "sepa_direct_debit" }

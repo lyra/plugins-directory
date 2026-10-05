@@ -13,7 +13,7 @@
                     "es-ES": "https://docs.lyra.com/es/collect/plugins/magento2_embedded/index.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 8 or higher"
+                    "default": "&#9658; Requires PHP 8.0 or higher"
                 },
                 "unsupported_payment_methods": [
                     { "code": "sepa_direct_debit" }
@@ -42,6 +42,7 @@
                 {
                     "plugin_version": "v1.12.5",
                     "type": "full",
+                    "channel": "embedded-redirect",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/Lyra_Magento_1.4-1.9_v1.12.5.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://docs.lyra.com/fr/collect/plugins/magento/sitemap.html",

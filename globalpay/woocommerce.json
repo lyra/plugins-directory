@@ -11,7 +11,7 @@
                     "es-CO": "https://secure.globalpayredeban.com/doc/es-CO/plugins/woocommerce_embedded/index.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 8 or higher"
+                    "default": "&#9658; Requires PHP 8.0 or higher"
                 }
             }
         ]

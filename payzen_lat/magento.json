@@ -11,7 +11,7 @@
                     "lat": "https://payzen.io/lat/plugins/magento2_embedded/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; Requires PHP 8 or higher"
+                    "default": "&#9658; Requires PHP 8.0 or higher"
                 }
             },
             {
@@ -35,6 +35,7 @@
                 {
                     "plugin_version": "v1.12.5",
                     "type": "single",
+                    "channel": "embedded-redirect",
                     "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v1.12.5/PayZen_LAT_Magento_1.4-1.9_v1.12.5.zip",
                     "online_doc_uri": {
                         "lat": "https://payzen.io/lat/plugins/magento/sitemap.html"

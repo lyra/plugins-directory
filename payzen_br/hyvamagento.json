@@ -5,19 +5,17 @@
             {
                 "plugin_version": "v1.1.2",
                 "type": "single",
-                "channel": "embedded-redirect",
                 "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v1.1.2/PayZen_BR_Magento_Hyva_2.x_v1.1.2.zip",
                 "online_doc_uri": {
                     "pt-BR": "https://payzen.io/pt-BR/plugins/hyva/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; This plugin is an add-on required to ensure compatibility<br>between the payment plugin and Hyva Checkout."
+                    "default": "&#9658; This plugin is an add-on required to ensure compatibility between the payment plugin and Hyva Checkout."
                 }
             },
             {
                 "plugin_version": "v2.16.2",
                 "type": "single",
-                "channel": "embedded-redirect",
                 "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.16.2/PayZen_BR_Magento_2.x_v2.16.2.zip",
                 "online_doc_uri": {
                     "pt-BR": "https://payzen.io/pt-BR/plugins/magento2/sitemap.html"

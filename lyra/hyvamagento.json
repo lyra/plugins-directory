@@ -5,7 +5,6 @@
             {
                 "plugin_version": "v1.1.2",
                 "type": "full",
-                "channel": "embedded-redirect",
                 "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v1.1.2/Lyra_Magento_Hyva_2.x_v1.1.2.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/hyva/sitemap.html",
@@ -13,13 +12,12 @@
                     "es-ES": "https://docs.lyra.com/es-ES/collect/plugins/hyva/sitemap.html"
                 },
                 "description": {
-                    "default": "&#9658; This plugin is an add-on required to ensure compatibility<br>between the payment plugin and Hyva Checkout."
+                    "default": "&#9658; This plugin is an add-on required to ensure compatibility between the payment plugin and Hyva Checkout."
                 }
             },
             {
                 "plugin_version": "v2.16.2",
                 "type": "full",
-                "channel": "embedded-redirect",
                 "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.16.2/Lyra_Magento_2.x_v2.16.2.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://docs.lyra.com/fr/collect/plugins/magento2/sitemap.html",

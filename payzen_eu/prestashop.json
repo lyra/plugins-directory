@@ -20,10 +20,10 @@
                 ]
             },
             {
-                "plugin_version": "v1.24.2",
+                "plugin_version": "v1.24.3",
                 "type": "full",
                 "channel": "embedded-redirect",
-                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/PayZen_PrestaShop_1.5-9.x_v1.24.2.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.3/PayZen_PrestaShop_1.5-9.x_v1.24.3.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/sitemap.html",
                     "en-EN": "https://payzen.io/en-EN/plugins/prestashop/sitemap.html",
@@ -40,10 +40,10 @@
             "cms_version": "v 1.5.x - 1.7.x",
             "packages": [
                 {
-                    "plugin_version": "v1.24.2",
+                    "plugin_version": "v1.24.3",
                     "type": "full",
                     "channel": "redirect",
-                    "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.2/PayZen_PrestaShop_1.5-9.x_v1.24.2.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.3/PayZen_PrestaShop_1.5-9.x_v1.24.3.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://payzen.io/fr-FR/plugins/prestashop/sitemap.html",
                         "en-EN": "https://payzen.io/en-EN/plugins/prestashop/sitemap.html",

@@ -3,8 +3,25 @@
         "cms_version": "v 1.5 - 1.7, 8.x, 9.x",
         "packages": [
             {
+                "plugin_version": "v1.0.2",
+                "type": "single-embedded",
+                "channel": "embedded",
+                "plugin_uri": "https://github.com/lyra/plugin-prestashop-embedded/releases/download/v1.0.2/Systempay_PrestaShop_Embedded_1.7-9.x_v1.0.2.zip",
+                "online_doc_uri": {
+                    "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/prestashop_embedded/sitemap.html",
+                    "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/prestashop_embedded/sitemap.html"
+                },
+                "description": {
+                    "default": "&#9658; Requires PHP 8.0 or higher"
+                },
+                "unsupported_payment_methods": [
+                    { "code": "sepa_direct_debit" }
+                ]
+            },
+            {
                 "plugin_version": "v1.24.3",
                 "type": "full",
+                "channel": "embedded-redirect",
                 "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.3/Systempay_PrestaShop_1.5-9.x_v1.24.3.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/prestashop/sitemap.html",
@@ -17,6 +34,24 @@
         ]
     },
     "archives": [
+        {
+            "cms_version": "v 1.5.x - 1.7.x",
+            "packages": [
+                {
+                    "plugin_version": "v1.24.3",
+                    "type": "full",
+                    "channel": "embedded-redirect",
+                    "plugin_uri": "https://github.com/lyra/plugin-prestashop/releases/download/v1.24.3/Systempay_PrestaShop_1.5-9.x_v1.24.3.zip",
+                    "online_doc_uri": {
+                        "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/prestashop/sitemap.html",
+                        "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/prestashop/sitemap.html"
+                    },
+                    "description": {
+                        "default": "&#9658; Requires PHP 7.0 or higher"
+                    }
+                }
+            ]
+        },
         {
             "cms_version": "v 1.4",
             "deprecated": true,

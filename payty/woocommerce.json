@@ -1,11 +1,11 @@
 {
     "current": {
-        "cms_version": "v 2.x - 10.x",
+        "cms_version": "v 2.x - 11.x",
         "packages": [
             {
-                "plugin_version": "v1.18.3"
+                "plugin_version": "v1.18.4"
                 "type": "single",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.18.3/Payty_WooCommerce_2.x-10.x_v1.18.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.18.4/Payty_WooCommerce_2.x-11.x_v1.18.4.zip",
                 "online_doc_uri": {
                     "es-CO": "https://secure.payty.com/doc/es-CO/plugins/woocommerce/sitemap.html"
                 },

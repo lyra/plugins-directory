@@ -19,10 +19,10 @@
                 ]
             },
             {
-                "plugin_version": "v1.18.3",
+                "plugin_version": "v1.18.4",
                 "type": "full",
                 "channel": "embedded-redirect",
-                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.18.3/Systempay_WooCommerce_2.x-10.x_v1.18.3.zip",
+                "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.18.4/Systempay_WooCommerce_2.x-11.x_v1.18.4.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/woocommerce/sitemap.html",
                     "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/woocommerce/sitemap.html"
@@ -38,10 +38,10 @@
             "cms_version": "v 2.x - 10.x",
             "packages": [
                 {
-                    "plugin_version": "v1.18.3",
+                    "plugin_version": "v1.18.4",
                     "type": "full",
                     "channel": "embedded-redirect",
-                    "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.18.3/Systempay_WooCommerce_2.x-10.x_v1.18.3.zip",
+                    "plugin_uri": "https://github.com/lyra/plugin-woocommerce/releases/download/v1.18.4/Systempay_WooCommerce_2.x-11.x_v1.18.4.zip",
                     "online_doc_uri": {
                         "fr-FR": "https://paiement.systempay.fr/doc/fr-FR/plugins/woocommerce/sitemap.html",
                         "en-EN": "https://paiement.systempay.fr/doc/en-EN/plugins/woocommerce/sitemap.html"

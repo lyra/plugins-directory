@@ -5,6 +5,7 @@
     "packages": [
       {
         "title": "Mon module de paiement",
+        "cardText": "module_hyva",
         "plugin_version": "v1.0.0",
         "type": "single-embedded",
         "channel": "embedded",

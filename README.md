@@ -18,45 +18,45 @@ PLUGINS DIRECTORY is a metadata project that manages payment plugins publishing 
 |_ ...
 ```
 
-PAGE\_n\_SLUG : One of payzen\_eu, payzen\_de (_deprecated_), payzen\_lat, payzen\_br, payzen\_in, lyra, sogecommerce, e-paiement-securite-bici and clicandpay.
-An analysis is in progress to produce one PayZen module by region so that we will reduce the list for PayZen to payzen\_eu, payzen\_lat and payzen\_in. When this module will also manage Lyra Collect offer integration, the list will be reduced to lyra, sogecommerce, e-paiement-securite-bici and clicandpay.
+PAGE_n_SLUG : One of payzen_eu, payzen_de (_deprecated_), payzen_lat, payzen_br, payzen_in, lyra, sogecommerce, e-paiement-securite-bici and clicandpay.
+An analysis is in progress to produce one PayZen module by region so that we will reduce the list for PayZen to payzen_eu, payzen_lat and payzen_in. When this module will also manage Lyra Collect offer integration, the list will be reduced to lyra, sogecommerce, e-paiement-securite-bici and clicandpay.
 
-CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and correspending to PayZen repository name if any.
+CMS_n_SLUG : An identifier of the CMS as defined inside PAGE_n_SLUG.json and correspending to PayZen repository name if any.
 
 ## Page file structure
 
-``` javascript
-  [
-    {
-      "title": "PrestaShop",
-      "slug": "prestashop",
-      "logo": "prestashop.png",
-      "category": "top" // may be STRING - possible values : top, regular, request, commercial, provider ...
-    },
-    {
-      "title": "OpenCart",
-      "logo": "opencart.png",
-      "slug": "opencart",
-      "category": {
-        "fr-FR": "top",
-        "de-DE": "top",
-        "default": "regular"
-      } // ... may be OBJECT - an object containing category by localized page, default
-        // is used for pages not explicitly declared
-    },
-    {
-      "title": "HikaShop",
-      "slug": "hikashop",
-      "logo": "hikashop.png",
-      "labels": "Joomla,HikaShop", // STRING - labels to be used for filtering in addition to title
-      "category": "top"
-    }
-  ]
+```javascript
+[
+  {
+    title: "PrestaShop",
+    slug: "prestashop",
+    logo: "prestashop.png",
+    category: "top", // may be STRING - possible values : top, regular, request, commercial, provider ...
+  },
+  {
+    title: "OpenCart",
+    logo: "opencart.png",
+    slug: "opencart",
+    category: {
+      "fr-FR": "top",
+      "de-DE": "top",
+      default: "regular",
+    }, // ... may be OBJECT - an object containing category by localized page, default
+    // is used for pages not explicitly declared
+  },
+  {
+    title: "HikaShop",
+    slug: "hikashop",
+    logo: "hikashop.png",
+    labels: "Joomla,HikaShop", // STRING - labels to be used for filtering in addition to title
+    category: "top",
+  },
+];
 ```
 
 ## CMS file structure
 
-``` javascript
+```javascript
   {
     "current": {
       "cms_version": "v 1.5 - 1.7", // STRING - prefixed with v
@@ -117,44 +117,102 @@ CMS\_n\_SLUG : An identifier of the CMS as defined inside PAGE\_n\_SLUG.json and
     ]
   }
 ```
+
 ## Package metadata additions
 
-Since the new payment module component versions, each package entry may also include:
+Each package entry in `current.packages` or `archives[].packages` may include the following optional properties:
 
-- `channel`: identifies the integration mode used by the module (`redirect`, `embedded`, etc.).
-- `unsupported_payment_methods`: list of payment methods unavailable for this specific package/version. Each item follows the format `{ "code": "..." }`.
+| Property                      | Type   | Behavior                                                                                                                                                                                                              |
+| ----------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `channel`                     | String | Integration mode: `embedded`, `embedded-redirect` or `redirect`. Defaults to `redirect` when omitted.                                                                                                                 |
+| `title`                       | String | Literal card title, displayed directly without translation. When omitted, the title is translated using the channel. The property is named `title`, not `titre`.                                                      |
+| `cardText`                    | String | Translation key prefix for the card description. For example, `module_hyva` selects `docs.module_hyva_description`. When omitted, the description is translated using the channel. Does not change the card title.    |
+| `unsupported_payment_methods` | Array  | Payment methods unavailable for this package/version, with entries such as `{ "code": "sepa_direct_debit" }`. When omitted or empty, the card displays the message indicating that all payment methods are supported. |
 
-This metadata is useful to display the right integration mode in the documentation and to flag known limitations for a given module version.
+Default title and description keys are:
 
-## Code Example file structure
-``` javascript
-[
-  {
-    "title": "PHP", // STRING, Section title displayed
-    "code": [
+| Channel             | Title key                             | Description key                             |
+| ------------------- | ------------------------------------- | ------------------------------------------- |
+| `embedded`          | `docs.module_embedded_title`          | `docs.module_embedded_description`          |
+| `embedded-redirect` | `docs.module_embedded_redirect_title` | `docs.module_embedded_redirect_description` |
+| `redirect`          | `docs.module_redirect_title`          | `docs.module_redirect_description`          |
+
+Descriptions, including those selected by `cardText`, receive the site's `companyName` translation parameter. Translation keys must already exist in the frontend locale resources; these metadata properties do not define translations.
+
+## Version group panels and badges
+
+`panelType` is an optional string on a version group (`current` or an entry in `archives`), not on an individual package. It selects the information panel's translation keys:
+
+| Configuration                             | Title key                                 | Message key                                 |
+| ----------------------------------------- | ----------------------------------------- | ------------------------------------------- |
+| `panelType` omitted                       | `docs.module_single_module_warning_title` | `docs.module_single_module_warning_message` |
+| `panelType: "<prefix>"`                   | `docs.<prefix>_title`                     | `docs.<prefix>_message`                     |
+| `panelType: "module_hyva_module_warning"` | `docs.module_hyva_module_warning_title`   | `docs.module_hyva_module_warning_message`   |
+
+The information panel is displayed only when the group contains exactly two packages, even when `panelType` is set. The current frontend uses the suffix `_message` for this panel, not `_description` (which is used for card descriptions).
+
+For two-package groups, cards normally display a recommended badge for `embedded` packages and a legacy badge for other channels. When `panelType` is exactly `module_hyva_module_warning`, both card badges are hidden (`tagVariant` is `false`). Other panel types keep the normal badges. Single-package groups do not display card badges.
+
+This exception does not change the channel-based card styling or the latest-version badge in the group header.
+
+### Example
+
+```json
+{
+  "current": {
+    "cms_version": "v 2.x",
+    "panelType": "module_hyva_module_warning",
+    "packages": [
       {
-        "name": "REST API", // STRING
-        "version": "3.1.2", // STRING
-        "link": "https://github.com/LyraNetwork/krypton-php-sdk", // STRING
-        "zip": "", // STRING, from github or files
-        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"] // ARRAY, langs where the code is displayed
-      }
-    ]
-  },
-  { // Each language is an object containing his codes
-    "title": "Python",
-    "code": [
+        "plugin_version": "v1.0.0",
+        "type": "single-embedded",
+        "channel": "embedded",
+        "title": "Hyva payment module",
+        "cardText": "module_hyva"
+      },
       {
-        "name": "Form Payment",
-        "version": "3.4",
-        "link": "https://github.com/payzen/vads-payment-python",
-        "zip": "https://github.com/payzen/vads-payment-python/archive/master.zip",
-        "labels": "payzen",
-        "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+        "plugin_version": "v2.0.0",
+        "type": "full",
+        "channel": "embedded-redirect"
       }
     ]
   }
-]
+}
+```
+
+This group displays the Hyva information panel and no card badges. The first card uses its literal `title` and `docs.module_hyva_description`; the second card keeps the default title and description for `embedded-redirect`.
+
+## Code Example file structure
+
+```javascript
+[
+  {
+    title: "PHP", // STRING, Section title displayed
+    code: [
+      {
+        name: "REST API", // STRING
+        version: "3.1.2", // STRING
+        link: "https://github.com/LyraNetwork/krypton-php-sdk", // STRING
+        zip: "", // STRING, from github or files
+        display: ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"], // ARRAY, langs where the code is displayed
+      },
+    ],
+  },
+  {
+    // Each language is an object containing his codes
+    title: "Python",
+    code: [
+      {
+        name: "Form Payment",
+        version: "3.4",
+        link: "https://github.com/payzen/vads-payment-python",
+        zip: "https://github.com/payzen/vads-payment-python/archive/master.zip",
+        labels: "payzen",
+        display: ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"],
+      },
+    ],
+  },
+];
 ```
 
 ## Naming conventions

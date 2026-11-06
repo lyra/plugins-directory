@@ -1,6 +1,7 @@
 {
   "current": {
     "cms_version": "v 1.7 - 9.x",
+    "panelType": "module_two_module_warning",
     "packages": [
       {
         "plugin_version": "v1.0.0",

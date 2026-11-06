@@ -1,7 +1,7 @@
 {
   "current": {
     "cms_version": "v 1.7 - 9.x",
-    "panelType": "module_two_module_warning",
+    "panelType": "module_hyva_module_warning",
     "packages": [
       {
         "title": "Mon module de paiement",

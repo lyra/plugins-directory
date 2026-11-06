@@ -4,6 +4,7 @@
     "panelType": "module_two_module_warning",
     "packages": [
       {
+        "title": "Mon module de paiement",
         "plugin_version": "v1.0.0",
         "type": "single-embedded",
         "channel": "embedded",

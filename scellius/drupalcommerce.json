@@ -7,8 +7,8 @@
                 "type": "full",
                 "plugin_uri": "https://github.com/lyra/plugin-drupalcommerce/releases/download/v2.1.0/Scellius_Drupal_Commerce_2.x-3.x_v2.1.0.zip",
                 "online_doc_uri": {
-                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/drupalcommerce2/sitemap.html",
-                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/en-EN/plugins/drupalcommerce2/sitemap.html"
+                    "fr-FR": "https://scelliuspaiement.labanquepostale.fr/doc/fr-FR/plugins/drupal-commerce2/sitemap.html",
+                    "en-EN": "https://scelliuspaiement.labanquepostale.fr/doc/en-EN/plugins/drupal-commerce2/sitemap.html"
                 },
                 "description": {
                     "default": "&#9658; Requires PHP 7.0 or higher"

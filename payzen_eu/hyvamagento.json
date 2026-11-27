@@ -5,7 +5,7 @@
             {
                 "plugin_version": "v1.1.2",
                 "type": "hyva",
-                "channel": "embedded-redirect",
+                "channel": "hyva",
                 "plugin_uri": "https://github.com/lyra/plugin-magento-hyva/releases/download/v1.1.2/PayZen_Magento_Hyva_2.x_v1.1.2.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/hyva/sitemap.html",
@@ -19,7 +19,7 @@
             {
                 "plugin_version": "v2.16.2",
                 "type": "hyva",
-                "channel": "embedded-redirect",
+                "channel": "hyva",
                 "plugin_uri": "https://github.com/lyra/plugin-magento/releases/download/v2.16.2/PayZen_Magento_2.x_v2.16.2.zip",
                 "online_doc_uri": {
                     "fr-FR": "https://payzen.io/fr-FR/plugins/magento2/sitemap.html",
